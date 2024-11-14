@@ -1,11 +1,7 @@
-# How to use:
-This category contains specific-purpose dorks.
-
-# How to use:
-This category contains specific-purpose dorks.
-
-# How to use:
-This category contains specific-purpose dorks.
-
-# How to use: This category contains dorks for a specific purpose.
+      EDUCATIONAL PURPOSES ONLY
+------------------------------------------
+.  Made by - https://github.com/zebbern  .
+.  Made by - https://github.com/zebbern  .
+.  Made by - https://github.com/zebbern  .
+------------------------------------------
 ext:pem "PRIVATE KEY" -site:facebook.com -example -test*
