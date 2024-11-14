@@ -1,11 +1,1 @@
-# How to use:
-This category contains specific-purpose dorks.
-
-# How to use:
-This category contains specific-purpose dorks.
-
-# How to use:
-This category contains specific-purpose dorks.
-
-# How to use: This category contains dorks for a specific purpose.
 site:linkedin.com employees target.com
