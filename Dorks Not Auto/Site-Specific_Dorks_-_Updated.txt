@@ -1,11 +1,9 @@
-# How to use:
-This category contains specific-purpose dorks.
-
-# How to use:
-This category contains specific-purpose dorks.
-
-# How to use:
-This category contains specific-purpose dorks.
+      EDUCATIONAL PURPOSES ONLY
+------------------------------------------
+.  Made by - https://github.com/zebbern  .
+.  Made by - https://github.com/zebbern  .
+.  Made by - https://github.com/zebbern  .
+------------------------------------------
 
 # How to use: This category contains dorks for a specific purpose.
 "1999-2004 FuseTalk Inc" -site:fusetalk.com
