@@ -121,3 +121,33 @@ site:eksempelside.no filetype:pcap
 site:eksempelside.no filetype:pdf
 site:eksempelside.no filetype:swf
 site:eksempelside.no filetype:xlsx OR xls
+filetype:pdf intext:"confidential" site:site.com
+filetype:txt inurl:password site:site.com
+filetype:log inurl:errors site:site.com
+filetype:env intext:"DB_PASSWORD" site:site.com
+filetype:json inurl:config site:site.com
+filetype:xml intext:"<password>" site:site.com
+filetype:sql inurl:backup site:site.com
+filetype:csv intext:"username,password" site:site.com
+filetype:xls intext:"credit card" site:site.com
+filetype:xlsx intext:"employee data" site:site.com
+filetype:cfg inurl:settings site:site.com
+filetype:ini inurl:config site:site.com
+filetype:php inurl:backup site:site.com
+filetype:yaml intext:"api_key" site:site.com
+filetype:rb intext:"database password" site:site.com
+filetype:log intext:"exception" site:site.com
+filetype:conf intext:"admin" site:site.com
+filetype:dat intext:"account details" site:site.com
+filetype:db intext:"user credentials" site:site.com
+filetype:bak intext:"backup" site:site.com
+filetype:sh intext:"root" site:site.com
+filetype:bat intext:"admin" site:site.com
+filetype:doc intext:"internal use only" site:site.com
+filetype:docx inurl:confidential site:site.com
+filetype:ppt intext:"strategy plan" site:site.com
+filetype:pptx intext:"roadmap" site:site.com
+filetype:zip intext:"secure" site:site.com
+filetype:rar intext:"private" site:site.com
+filetype:tar.gz intext:"backup" site:site.com
+filetype:7z inurl:secret site:site.com
