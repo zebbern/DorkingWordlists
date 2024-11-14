@@ -726,3 +726,33 @@ site:targetdomain.com inurl:s3.amazonaws.com OR inurl:storage.googleapis.com OR 
 site:testphp.vulnweb.com intext:"sql syntax near" OR intext:"syntax error" OR intext:"unexpected end of SQL" OR intext:"Warning: mysql_" OR intext:"pg_connect()" OR intext:"error in your SQL syntax" OR intext:"OLE DB Provider for SQL Server"
 site:trello.com inurl:"/b/" "internal use"
 telefon intext:navn
+intext:"confidential" inurl:documents site:site.com
+intext:"internal use only" inurl:files site:site.com
+intext:"restricted access" inurl:admin site:site.com
+inurl:uploads intext:"sensitive data" site:site.com
+inurl:private intext:"proprietary" site:site.com
+inurl:data intext:"do not share" site:site.com
+intext:"draft version" inurl:docs site:site.com
+inurl:backup intext:"database" site:site.com
+intext:"error report" inurl:logs site:site.com
+intext:"credit card" inurl:secure site:site.com
+inurl:ftp intext:"confidential files" site:site.com
+inurl:content intext:"private" site:site.com
+intext:"financial reports" inurl:reports site:site.com
+intext:"not for distribution" inurl:files site:site.com
+inurl:tmp intext:"temporary files" site:site.com
+inurl:logs intext:"debugging" site:site.com
+inurl:scripts intext:"api keys" site:site.com
+intext:"email list" inurl:data site:site.com
+intext:"password list" inurl:backup site:site.com
+intext:"to be deleted" inurl:old site:site.com
+inurl:archive intext:"sensitive" site:site.com
+inurl:docs intext:"classified" site:site.com
+inurl:files intext:"internal use" site:site.com
+inurl:data intext:"private information" site:site.com
+inurl:configs intext:"admin" site:site.com
+inurl:resources intext:"secret" site:site.com
+inurl:docs intext:"employee records" site:site.com
+inurl:files intext:"user data" site:site.com
+inurl:export intext:"restricted" site:site.com
+inurl:debug intext:"test" site:site.com
