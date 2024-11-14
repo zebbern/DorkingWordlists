@@ -1,4 +1,3 @@
-# Site-Specific Dorks
 "FirstName LastName" (site:eventbrite.com OR site:meetup.com OR site:yelp.com OR "event location" OR "visited" OR "review")
 "FirstName LastName" (site:nytimes.com OR site:washingtonpost.com OR site:vice.com OR site:theguardian.com OR "mentioned in" OR "featured in" OR "interviewed by")
 "FirstName LastName" (site:pastebin.com OR site:justpaste.it OR "*@gmail.com password" OR "username:password")
