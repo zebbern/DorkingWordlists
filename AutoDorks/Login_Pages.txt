@@ -64,3 +64,33 @@ site:monolittenil.no intext: login
 site:site.com (inurl:login OR inurl:admin OR inurl:signin OR inurl:signup OR inurl:register OR inurl:user OR inurl:account OR inurl:auth OR inurl:portal OR inurl:access)
 site:target.com intitle:login | intitle:"sign in" | inurl:login
 site:targetdomain.com (inurl:login OR inurl:admin OR inurl:signin OR inurl:signup OR inurl:register OR inurl:user OR inurl:account OR inurl:auth OR inurl:portal OR inurl:access)
+inurl:portal/login intext:"access restricted" site:site.com
+inurl:dashboard/login site:site.com
+intitle:"user login" inurl:login site:site.com
+inurl:secure/login intitle:"login" site:site.com
+intitle:"admin access" inurl:admin/login site:site.com
+inurl:"/signin.html" intext:credentials site:site.com
+inurl:control/login site:site.com
+intitle:"dashboard access" inurl:login site:site.com
+inurl:auth inurl:secure site:site.com
+inurl:signin intext:"login" site:site.com
+intitle:"admin dashboard" inurl:login site:site.com
+inurl:myaccount/login site:site.com
+intitle:"admin login" inurl:admin site:site.com
+inurl:admin/authenticate site:site.com
+inurl:"/user/login" intext:"sign in" site:site.com
+inurl:manager/login intext:admin site:site.com
+intitle:"access portal" inurl:login site:site.com
+intitle:"authentication page" inurl:secure site:site.com
+inurl:staff/login intext:"user portal" site:site.com
+inurl:"/adminsignin" intitle:"login page" site:site.com
+intitle:"sign in" inurl:signin site:site.com
+inurl:admin/login site:site.com
+inurl:control/login.php intitle:"control panel" site:site.com
+inurl:login.html intext:admin site:site.com
+inurl:admin/login.php intext:"admin login" site:site.com
+intitle:"authentication portal" inurl:auth site:site.com
+intitle:"authentication required" inurl:login site:site.com
+inurl:"account/login" intitle:login site:site.com
+inurl:adminpanel/login site:site.com
+intitle:"restricted login" inurl:admin site:site.com
