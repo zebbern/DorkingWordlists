@@ -60,3 +60,33 @@ site:targetdomain.com (intitle:"Admin Console" OR intitle:"Dashboard" OR intitle
 site:targetdomain.com (inurl:login OR inurl:admin OR inurl:signin OR inurl:signup OR inurl:register OR inurl:user OR inurl:account OR inurl:auth OR inurl:portal OR inurl:access)
 site:targetdomain.com (inurl:phpmyadmin OR inurl:adminer OR inurl:dbadmin OR inurl:sql OR inurl:database OR inurl:db OR inurl:sql OR inurl:admin) (intext:"root" OR intext:"administrator" OR intext:"user" OR intext:"password")
 site:targetdomain.com (inurl:robots.txt OR inurl:sitemap.xml OR inurl:sitemap_index.xml OR inurl:admin-sitemap.xml OR inurl:internal-sitemap.xml)
+"admin login" intitle:dashboard site:site.com
+inurl:"/admin.php" intitle:"Admin Panel" site:site.com
+inurl:"/controlpanel" intitle:"Admin Login" site:site.com
+inurl:"/admin_area" "username" "password" site:site.com
+intitle:"administrator login" inurl:"admin" site:site.com
+intitle:"admin console" intext:"login required" site:site.com
+inurl:"/admin_dashboard" "username" site:site.com
+inurl:"/manager/html" intitle:"Tomcat Web Application Manager"
+inurl:"/admin/config" intext:"setup" site:site.com
+filetype:log "admin login failed" site:site.com
+intitle:"admin" intext:"panel" inurl:admin site:site.com
+inurl:"/admin/" "user login" site:site.com
+intitle:"login" inurl:"admin" -github -gitlab site:site.com
+inurl:"admincp" intext:"control panel" site:site.com
+inurl:"/admin/settings" "account" site:site.com
+filetype:txt "admin" "username" "password"
+intitle:"admin access" inurl:"/admin" site:site.com
+intitle:"dashboard" inurl:"admin.php" site:site.com
+inurl:"/admin.html" intitle:"Admin Login" site:site.com
+inurl:"/admin_control" intext:"session timeout" site:site.com
+intitle:"admin interface" inurl:"/login" site:site.com
+filetype:xml "admin credentials" site:site.com
+inurl:"/admin-tools" intext:"restricted access" site:site.com
+intitle:"site administration" inurl:"admin" site:site.com
+filetype:cfg "admin password" site:site.com
+intitle:"admin login" inurl:"/panel" site:site.com
+filetype:ini "admin" "password" site:site.com
+inurl:"/admin-console" intitle:"System Admin" site:site.com
+intitle:"admin portal" inurl:"login" -guide -help -docs site:site.com
+intitle:"web admin" inurl:"/login" intext:"admin@site.com"
