@@ -29,6 +29,36 @@ inurl:conf | inurl:env | inurl:cgi | inurl:bin | inurl:etc | inurl:root | inurl:
 inurl:email= | inurl:phone= | inurl:password= | inurl:secret= inurl:& site:[http://example.com](http://example.com/)
 inurl:email= | inurl:phone= | inurl:password= | inurl:secret= inurl:& site:http://example.com
 inurl:haproxy-status site:example.com
+site:site.com inurl:"user_portal"
+site:site.com inurl:"internal_use"
+site:site.com inurl:"private_content"
+site:site.com inurl:"secured"
+site:site.com inurl:"db_backup"
+site:site.com inurl:"beta_version"
+site:site.com inurl:"debug_files"
+site:site.com inurl:"ftp_server"
+site:site.com inurl:"restricted"
+site:site.com inurl:"system_logs"
+site:site.com inurl:"config_backup"
+site:site.com inurl:"demo_content"
+site:site.com inurl:"legacy_files"
+site:site.com inurl:"admin_settings"
+site:site.com inurl:"application_logs"
+site:site.com inurl:"config_files"
+site:site.com inurl:"secure_files"
+site:site.com inurl:"archive_data"
+site:site.com inurl:"hidden_resources"
+site:site.com inurl:"logs_archive"
+site:site.com inurl:"temporary_uploads"
+site:site.com inurl:"old_data"
+site:site.com inurl:"employee_access"
+site:site.com inurl:"personal_data"
+site:site.com inurl:"test_environment"
+site:site.com inurl:"server_temp"
+site:site.com inurl:"private_area"
+site:site.com inurl:"database_exports"
+site:site.com inurl:"admin_tools"
+site:site.com inurl:"confidential_info"
 inurl:http | inurl:url= | inurl:path= | inurl:dest= | inurl:html= | inurl:data= | inurl:domain= | inurl:page= inurl:& site:[http://example.com](http://example.com/)
 inurl:http | inurl:url= | inurl:path= | inurl:dest= | inurl:html= | inurl:data= | inurl:domain= | inurl:page= inurl:& site:http://example.com
 inurl:http://example.com allintext:username,password filetype:log site:http://example.com "-----BEGIN RSA PRIVATE KEY-----" - inurl:id_rsa
