@@ -1,4 +1,4 @@
-# Google Dorking Categorized and Enhanced Lists
+# Google Dorking Categorized
 
 ## Overview
 This project provides a comprehensive collection of categorized and enhanced Google Dorking queries (dorks). These queries are organized by purpose and come with detailed explanations and examples to help professionals, researchers, and enthusiasts understand their use cases. 
