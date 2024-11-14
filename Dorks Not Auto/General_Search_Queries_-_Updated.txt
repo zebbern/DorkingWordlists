@@ -1,13 +1,9 @@
-# How to use:
-This category contains specific-purpose dorks.
-
-# How to use:
-This category contains specific-purpose dorks.
-
-# How to use:
-This category contains specific-purpose dorks.
-
-# How to use: This category contains dorks for a specific purpose.
+      EDUCATIONAL PURPOSES ONLY
+------------------------------------------
+.  Made by - https://github.com/zebbern  .
+.  Made by - https://github.com/zebbern  .
+.  Made by - https://github.com/zebbern  .
+------------------------------------------
 !Host=*.* intext:enc_UserPassword=* ext:pcf
 " -FrontPage-" ext:pwd inurl:(service | authors | administrators | users)
 " Proudly Served by LiteSpeed Web Server" intitle:index.of./
