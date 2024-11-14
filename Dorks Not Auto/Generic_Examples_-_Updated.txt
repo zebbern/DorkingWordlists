@@ -4,6 +4,4 @@
 .  Made by - https://github.com/zebbern  .
 .  Made by - https://github.com/zebbern  .
 ------------------------------------------
-
-# How to use: This category contains dorks for a specific purpose.
 site:*.site.com inurl:(elmah.axd | errorlog.axd) ext:axd
