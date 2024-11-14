@@ -1,0 +1,205 @@
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use: This category contains dorks for a specific purpose.
+"-- Dumping data for table * " ext:sql | ext:xls intext:db | intext:database | intext:password | username
+"END_FILE" inurl:"/password.log"
+"Mimicboard2 086"+"2000 Nobutaka Makino"+"password"+"message" inurl:page=1
+"Powered by DWMail" password intitle:dwmail
+"The default username and password is admin:admin" intitle:Login OR inurl:login.php
+"Web-Based Management" "Please input password to login" -inurl:johnny.ihackstuff.com
+"server.cfg" ext:cfg intext:"rcon_password" -git -gitlab
+"username" "password" intitle:"login here"
+"you can now password" | "this is a special page only seen by you. your profile visitors" inurl:imchaos
+( filetype:mail | filetype:eml | filetype:mbox | filetype:mbx ) intext:password|subject
+(username=* | username:* |) | ( ((password=* | password:*) | (passwd=* | passwd:*) | (credentials=* | credentials:*)) | ((hash=* | hash:*) | (md5:* | md5=*)) | (inurl:auth | inurl:passwd | inurl:pass) ) filetype:log
+-youtube.com login | password | username intitle:"assessment"
+CakePHP filetype:sql intext:password | pwd intext:username | uname intext: Insert into users values
+CakePHP inurl:database.php intext:db_password
+Codeigniter filetype:sql intext:password | pwd intext:username | uname intext: Insert into users values
+DWMail" password intitle:dwmail
+Please enter a valid password! inurl:polladmin
+allintext:"*.@gmail.com" OR "password" OR "username" filetype:xlsx
+allintext:"redis_password" ext:env
+allintext:password filetype:log
+allintext:password filetype:log after:2018
+allintext:username,password filetype:log
+enable password | secret "current configuration" -intext:the
+ext:(doc | pdf | xls | txt | ps | rtf | odt | sxw | psw | ppt | pps | xml) (intext:confidential salary | intext:"budget approved") inurl:confidential
+ext:(doc | pdf | xls | txt |) (intext:confidential salary) inurl:confidential
+ext:cgi intitle:"control panel" "enter your owner password to continue!"
+ext:csv intext:"password"
+ext:log telnet intext:password
+ext:sql intext:@gmail.com intext:password
+ext:sql intext:@hotmail.com intext :password
+ext:sql intext:username intext:password
+ext:txt intext:@yahoo.com intext:password
+ext:txt | ext:sql | ext:cnf | ext:config | ext:log & intext:"admin" | intext:"root" | intext:"administrator" & intext:"password" | intext:"root" | intext:"admin" | intext:"administrator"
+ext:xls intext:/etc/passwd | inurl:password
+ext:xls intext:@gmail.com intext:password
+filetype:doc inurl:"gov" intext:"default password is"
+filetype:log intext:password after:2015 intext:@gmail.com | @yahoo.com | @hotmail.com
+filetype:log intext:password | pass | pw
+filetype:log inurl:password.log
+filetype:mobileconfig intext:password OR intext:pass
+filetype:properties inurl:db intext:password
+filetype:reg reg +intext:"defaultusername" +intext:"defaultpassword"
+filetype:reg reg HKEY_CURRENT_USER intext:password
+filetype:xls + password + inurl:.com
+intext:"/pfx-password.txt" "[To Parent Directory]"
+intext:"@gmail.com" intext:"password" inurl:/files/ ext:txt
+intext:"Fill out the form below completely to change your password and user name. If new username is left blank, your old one will be assumed." -edu
+intext:"GET http://" ext:txt intext:"password" inurl:log
+intext:"Index of /password"
+intext:"Index of" intext:"password.zip"
+intext:"Please enter correct password for Administrator Access. Thank you" "Copyright Ãƒâ€šÃ‚Â© 2003 SMC Networks, Inc. All rights reserved."
+intext:"Please enter the device's administrator password"
+intext:"Please enter your new password" inurl:login filetype:php
+intext:"PuTTY log" ext:log "password" -supportforums -github
+intext:"aspx" filetype:txt login & password
+intext:"authentication" intranet password login inurl:account ext:(doc | pdf | xls| psw | ppt | pps | xml | txt | ps | rtf | odt | sxw | xlsx | docx | mail)
+intext:"db_database" ext:env intext:"db_password"
+intext:"enable password 7"
+intext:"laravel" ext:env intext:"db_password" -git
+intext:"password" intitle:"index of"
+intext:"please change your" password |code | login file:pdf | doc | txt | docx -github
+intext:"please enter your username and password" inurl:login filetype:php
+intext:"please find attached" "login" | password ext:pdf
+intext:"rabbit_password" | "service_password" filetype:conf
+intext:"this login can be used only once" inurl:user intitle:"reset password"
+intext:"untitled" intext:"password" filetype:php
+intext:"username=" AND "password=" ext:log
+intext:"wordpress" filetype:xls login & password
+intext:(password | passcode) intext:(username | userid | user) filetype:csv
+intext:authentication set encrypted-password ext:cfg
+intext:http | https intext:login | logon intext:password | passcode filetype:xls | filetype:xlsx
+intext:password "Login Info" filetype:txt
+intext:password inurl:"/log/production" ext:log
+intext:phpMyAdmin SQL Dump filetype:sql intext:INSERT INTO `admin` (`id`, `user`, `password`) VALUES -github
+intext:pin | userid & password intitle:supplier | supply & login | portal
+intext:smtp | pop3 intext:login | logon intext:password | passcode filetype:xls | filetype:xlsx
+intitle: "Index of ftp passwords"
+intitle:"--- VIDEO WEB SERVER ---" intext:"Video Web Server" "Any time & Any where" username password
+intitle:"Content Management System" "user name"|"password"|"admin" "Microsoft IE 5.5" -mambo
+intitle:"Content Management System" "user name"|"password"|"admin" "Microsoft IE 5.5" -mambo -johnny.ihackstuff
+intitle:"Grandstream Device Configuration" (intext:password & intext:"Grandstream Device Configuration" & intext:"Grandstream Networks" | inurl:cgi-bin) -.com|org
+intitle:"Index of" password.txt
+intitle:"Index of" passwords modified
+intitle:"InterWorx-CP" "Forgot your password"
+intitle:"Login to Webmin" intext:"You must enter a username and password to login to the server"
+intitle:"PHProjekt - login" login password
+intitle:"Please login" "username" "password"
+intitle:"V1" "welcome to phone settings" password
+intitle:"XMail Web Administration Interface" intext:Login intext:password
+intitle:"Zabbix" intext:"username" intext:"password" inurl:"/zabbix/index.php"
+intitle:"ZyXEL Prestige Router" "Enter password"
+intitle:"admin panel" OR intitle:"request password" intext:"email address"
+intitle:"database.php" inurl:"database.php" intext:"db_password" -git -gitlab
+intitle:"eMule *" intitle:"- Web Control Panel" intext:"Web Control Panel" "Enter your password here."
+intitle:"grafana" inurl:"/grafana/login" "Forgot your password"
+intitle:"index of " "*.passwords.txt"
+intitle:"index of" "/views/auth/passwords"
+intitle:"index of" "password.yml
+intitle:"index of" "passwords" gov
+intitle:"index of" "passwords.xlsx"
+intitle:"index of" "passwords.yml"
+intitle:"index.of" inurl:"cvs" login | passwd | password | access | pass -github -pub
+intitle:"login to webmin" "You must enter a username and password to login to the Webmin server"
+intitle:"manager area" password -stackoverflow.com
+intitle:"netscaler gateway" intext:password "please log on"
+intitle:"password reset"
+intitle:"phpinfo()" +"mysql.default_password" +"Zend Scripting Language Engine"
+intitle:"phpinfo()" +"mysql.default_password" +"Zend s?ri?ting Language Engine"
+intitle:"please login" "your password is *"
+intitle:Ampache intitle:"love of music" password | login | "Remember Me." -welcome
+intitle:Control Panel "Login with your username and password below." +"Email" +"Powered by"
+intitle:Group-Office "Enter your username and password to login"
+intitle:login laboratory | "nuclear" | physics "password" authentication
+intitle:mywebftp "Please enter your password"
+intitle:opengroupware.org "resistance is obsolete" "Report Bugs" "Username" "password"
+intitle:series "Note: It is recommended to communicate via HTTPS for entering an administrator password."
+intitle:tm4web login | logon | account | member | password
+intitle:untitled filetype:xls intext:password
+intitle:vendor | supply & login | portal intext:login | email & password
+inurl:"/?q=user/password/"
+inurl:"/App.Config" + ext:config + "password=" -github -git
+inurl:"/address/speeddial.html?start" and intext:"Please configure the password" and intitle:"Brother"
+inurl:"/auth.php?forgot_password=yes"
+inurl:"/dynamic/password-reset.html"
+inurl:"/forgotpassword.php"
+inurl:"/password.php" intitle:"Forgot your password"
+inurl:"/phpmyadmin/user_password.php
+inurl:"/phpmyadmin/user_password.php" -inurl:git
+inurl:"/wp-login.php?action=lostpassword"
+inurl:"GRC.DAT" intext:"password"
+inurl:"RootFolder=" Allitems "confidential" | "classified" | "passwords" | username
+inurl:"build.xml" intext:"tomcat.manager.password"
+inurl:"cgi-bin" "No password set!" " There is no password set on this router."
+inurl:"config.xml" "password" ext:xml -stackoverflow.com -github.com
+inurl:"databases.yml" ext:yml password -github
+inurl:"forgotpassword.aspx"
+inurl:"forgotpassword.jsf"
+inurl:"forgotpassword.php"
+inurl:"form_id" login username password
+inurl:"ftp" intext:"user" | "username" | "userID" | "user ID" | "logon" | "login" intext:"password" | "passcode" filetype:xls | filetype:xlsx
+inurl:"index.php/user/password/"
+inurl:"index.php/user/password/" intext:Password Reset
+inurl:"passes" OR inurl:"passwords" OR inurl:"credentials" -search -download -techsupt -git -games -gz -bypass -exe filetype:txt @yahoo.com OR @gmail OR @hotmail OR @rediff
+inurl:"passwordreset.asp"
+inurl:"passwordreset.php"
+inurl:"q=user/password"
+inurl:"resetpassword.asp"
+inurl:"resetpassword.jsf"
+inurl:"standalone.xml" intext:"password>"
+inurl:"trace" ext:axd intext:"password"
+inurl:"trello.com" and intext:"username" and intext:"password"
+inurl:"wvdial.conf" intext:"password"
+inurl:*helpdesk* intext:"your default password is"
+inurl:-cfg intext:"enable password"
+inurl:-cfg intext:"password cipher"
+inurl:/_layouts/userdisp.aspx?id= intext:password
+inurl:/forgotpassword intext:"enter username and email"
+inurl:/host.txt + filetype:txt + "password"
+inurl:/set_config_password.html
+inurl:/wp-content/uploads/ ext:txt "username" AND "password" | "pwd" | "pw"
+inurl:/wp-content/uploads/ ext:txt "username" | "user name" | "uname" | "user" | "userid" | "user id" AND "password" | "pass word" | "pwd" | "pw"
+inurl:admin intext:username= AND email= AND password= OR pass= filetype:xls
+inurl:admin/changepassword*
+inurl:apspassword
+inurl:cfg intext:"srb.username.1=" "srb.password.1 = "
+inurl:changepassword.asp
+inurl:changepassword.cgi -cvs
+inurl:client_password=
+inurl:configuration.php and intext:"var $password="
+inurl:forgotpassword.asp
+inurl:forgotpassword.do
+inurl:forgotpassword.htm
+inurl:forgotpassword.php
+inurl:ftp "password" filetype:xls
+inurl:ftp -inurl:(http|https) intext:"@gmail.com" intext:subject fwd|confidential|important|CARD|cvv
+inurl:gov filetype:xls intext:password
+inurl:imapuser Mail :: Welcome to Horde imp login.php password
+inurl:ip_password.htm
+inurl:lilo.conf filetype:conf password -tatercounter2000 -bootpwd -man
+inurl:login intext:"reset your password"
+inurl:login.htm "xpress" password
+inurl:logs intext:GET https:// ext:txt intext:password intext:username
+inurl:ospfd.conf intext:password -sample -test -tutorial -download
+inurl:passwordvault intext:cyberark
+inurl:phpmyadmin/index.php & (intext:username & password & "Welcome to")
+inurl:resetpassword.aspx
+inurl:resetpassword.do
+inurl:server.cfg rcon password
+inurl:set_config_password.html
+inurl:users/password/new
+inurl:ventrilo_srv.ini adminpassword
+inurl:wp-content/uploads filetype:xls | filetype:xlsx password
+inurl:zebra.conf intext:password -sample -test -tutorial -download
+username | password inurl:resources/application.properties -github.com -gitlab
+you really should fix this security hole by setting a password for user '.root'. inurl:/phpmyadmin intitle:localhost

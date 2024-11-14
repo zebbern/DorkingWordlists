@@ -1,0 +1,600 @@
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use: This category contains dorks for a specific purpose.
+"1999-2004 FuseTalk Inc" -site:fusetalk.com
+"CF-Host-Origin-IP" "CF-Int-Brand-ID" "CF-RAY" "CF-Visitor" "github" -site:github.com -site:cloudfare.com
+"CakeRoutingException" -site:github.com -site:stackoverflow.com -site:cakephp.org"
+"DUpaypal" -site:duware.com
+"Duclassified" -site:duware.com "DUware All Rights reserved"
+"Dudirectory" -site:duware.com
+"LGD_CARDNUM" ext:log -site:camper.com
+"Obtenez votre forum Aztek" -site:forum-aztek.com
+"PHPWebAdmin for hMailServer" intitle:PHPWebAdmin -site:hmailserver.com
+"Please use Netscape 2.0 or enhance !!" -site:dlink.com -site:ovislink.com.tw
+"Powered by DMXReady Site Chassis Manager" -site:dmxready.com
+"Powered by DUpaypal" -site:duware.com
+"Powered by Duclassified" -site:duware.com
+"Powered by Duclassified" -site:duware.com "DUware All Rights reserved"
+"Powered by Dudirectory" -site:duware.com
+"Powered by FUDForum 2.6" -site:fudforum.org -johnny.ihackstuff
+"Powered by FUDForum 2.7" -site:fudforum.org -johnny.ihackstuff
+"Powered by Merak Mail Server Software" -.gov -.mil -.edu -site:merakmailserver.com -johnny.ihackstuff
+"Powered by PHP-Update" -site:www.php-update.co.uk
+"Powered by UebiMiau" -site:sourceforge.net
+"Powered by WowBB" -site:wowbb.com
+"Powered by sendcard - an advanced PHP e-card program" -site:sendcard.org
+"Retrieve Your Password" site:*/recoverpassword.aspx
+"Warehouse Management System" Ext:pdf site:.gov
+"battlefield" "email" site:pastebin.com
+"boarding pass" site:http://tripadvisor.com
+"bp blog admin" intitle:login | intitle:admin -site:johnny.ihackstuff.com
+"duclassmate" -site:duware.com
+"dudownload" -site:duware.com
+"index of /private" -site:net -site:com -site:org
+"index of /private" site:mil
+"inspanel" intitle:"login" -"cannot" "Login ID" -site:inspediumsoft.com
+"inurl:"Umbraco/#/login" site:*edu"
+"inurl:php?id=" site:.com
+"inurl:php?id=" site:.gov.bd
+"keyed alike" site:gov filetype:pdf
+"liveice configuration file" ext:cfg -site:sourceforge.net
+"passport" filetype:xls site:"*.edu.*" | site:"*.gov.*" | site:"*.com.*" | site:"*.org.*" | site:"*.net.*" | site:"*.mil.*"
+"portailphp v1.3" inurl:"index.php?affiche" inurl:"PortailPHP" -site:safari-msi.com
+"powered by PhpBB 2.0.15" -site:phpbb.com
+"powered by ducalendar" -site:duware.com
+"powered by duclassmate" -site:duware.com
+"powered by dudownload" -site:duware.com
+"powered by minibb" -site:www.minibb.net -intext:1.7f
+"site:ghostbin.com " / " "
+"site:hastebin.com " / " "
+# Description: site:gov.in filetype:xlsx "password"
+("powered by nocc" intitle:"NOCC Webmail") -site:sourceforge.net -Zoekinalles.nl -analysis
+(intitle:"502 Proxy Error")|(intitle:"503 Proxy Error") "The proxy server could not handle the request" -topic -mail -4suite -list -site:geocrawler.co
+(intitle:"VisionGS Webcam Software")|(intext:"Powered by VisionGS Webcam") -showthread.php -showpost.php -"Search Engine" -computersglobal.com -site:g
+(inurl:"ars/cgi-bin/arweb?O=0" | inurl:arweb.jsp) -site:remedy.com -site:mil
+(site:onion.link | site:onion.cab | site:tor2web.org | site:onion.sh | site:tor2web.fi | site:onion.direct)
+-site:"pentest-tools.com" intext:"Scan coverage information" AND "List of tests" ext:PDF
+-site:php.net -"The PHP Group" inurl:source inurl:url ext:pHp
+-site:simplemachines.org "These are the paths and URLs to your SMF installation"
+-site:smarty.net ext:tpl intext:"
+/inurl:upload site:doxbin.org ~password
+Copyright Huawei Technologies co. Ltd "Account" "Password" -site:huawei.com
+DUpaypal" -site:duware.com
+Duclassified" -site:duware.com "DUware All Rights reserved"
+Dudirectory" -site:duware.com
+Fwd: site:*/opac/login
+Google Dork: inurl:"admin/login" site:".gov.in"
+Merak Mail Server Software" -.gov -.mil -.edu -site:merakmailserver.com
+UebiMiau" -site:sourceforge.net
+allintitle: restricted filetype:doc site:gov
+allintitle:"Forum Post Assistant :" ext:php -site:joomla.org
+allintitle:restricted filetype:doc site:gov
+allinurl:index.php?page= site:.gov.in
+cms +inurl:login +site:"gov.in"
+cms inurl:login site:"gov.ae"
+confidential site:mil
+data filetype:mdb -site:gov -site:mil
+db_password filetype:env -site:github.com -git
+duclassmate" -site:duware.com
+dudownload" -site:duware.com
+ext:asp "powered by DUForum" inurl:(messages|details|login|default|register) -site:duware.com
+ext:asp inurl:DUgallery intitle:"3.0" -site:dugall
+ext:msg OR ext:eml site:gov OR site:edu
+ext:php intext:"-rwxr-xr-x" site:.in
+ext:sql intext:"-- phpMyAdmin SQL Dump" -site:github.*
+filetype:"xls | xlsx | doc | docx | ppt | pptx | pdf" site:gov "FOUO" | "NOFORN" | "Confidential"
+filetype:fp5 fp5 -site:gov -site:mil -"cvs log"
+filetype:gitattributes intext:CHANGELOG.md -site:github.com
+filetype:inc php -site:github.com -site:sourceforge.net
+filetype:php -site:php.net intitle:phpinfo "published by the PHP Group"
+filetype:php inurl:index inurl:phpicalendar -site:sourceforge.net
+filetype:sql insite:pass && user
+filetype:sql site:com and "insert into" admin "2014"
+filetype:sql site:gov and "insert into"
+filetype:txt "gmail" | "hotmail" | "yahoo" -robots site:gov | site:us
+filetype:txt site:gitlab.* "secret" OR "authtoken"
+filetype:xls -site:gov inurl:contact
+filetype:xls | xlsx intext:cisco -cisco.com site:.gov
+filetype:xls | xlsx intext:software license site:.gov
+filetype:xlsx intext:"gmail.com" OR "hotmail.com" site:gov
+inc/cmses/aedating4CMS.php?dir[inc]= inurl:flashchat site:br bp_ncom.php?bnrep=
+index.of:"pcap" -site:stackoverflow.com -site:github.com
+intext:"API KEY" site:pastebin.com
+intext:"Egardia & WoonVeilig" -site:"linkedin.*" -"data-lead.com" -"getemail.io" -"holaconnect.com" -"kzhead.info"
+intext:"MaiLinX Alert (Notify)" -site:networkprinters.com
+intext:"Please log on to use the mikrotik hotspot service" intitle:"mikrotik hotspot >login" -github -site:mikrotik.com
+intext:"Powered By OpenCart" -site:opencart.com -inurl:"Powered By OpenCart" -intitle:"OpenCart" -intitle:"powered by"
+intext:"Powered by GetSimple" -site:get-simple.info
+intext:"Powered by PCPIN.com" -site:pcpin.com -ihackstuff -"works with" -findlaw
+intext:"Powered by X-Cart: shopping cart software" -site:x-cart.com
+intext:"Resource dumped by" intext:jcr -site:adobe.com
+intext:"Roundcube Webmail" intitle:"Welcome to Roundcube Webmail" -site:roundcube.net
+intext:"SECRET_KEY" ext|py inurl:mysite -site:stackoverflow.com -site:github.com
+intext:"SECRET_KEY=" site:pastebin.com
+intext:"password" | "passwd" | "pwd" site:anonfiles.com
+intext:"password" | "passwd" | "pwd" site:ghostbin.com
+intext:"private_key=" site:pastebin.com
+intext:("UBB.threadsÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ 6.2"|"UBB.threadsÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ 6.3") intext:"You * not logged *" -site:ubbcentral.com
+intext:vmware virtual site:.gov filetype:xls | xlsx | doc | pdf
+intitle:"ASP FileMan" Resend -site:iisworks.com
+intitle:"AppServ Open Project" -site:www.appservnetwork.com
+intitle:"Django site admin" inurl:admin -site:stackoverflow.com -site:github.com
+intitle:"Freifunk.Net - Status" -site:commando.de
+intitle:"Index of" site:.gov intext:"Server at"
+intitle:"Index of" site:.in
+intitle:"Intelbras" site:*/index.html
+intitle:"LOGREP - Log file reporting system" -site:itefix.no
+intitle:"Lotus Domino Go Webserver:" "Tuning your webserver" -site:ibm.com
+intitle:"Philex 0.2*" -s?ri?t -site:freelists.org
+intitle:"Philex 0.2*" -script -site:freelists.org
+intitle:"PowerDownload" ("PowerDownload v3.0.2 Ãƒâ€šÃ‚Â©" | "PowerDownload v3.0.3 Ãƒâ€šÃ‚Â©" ) -site:powerscripts.org
+intitle:"SOGo" site:webmail.*
+intitle:"Sign in" site:*/idaas/
+intitle:"Welcome To Xitami" -site:xitami.com
+intitle:"admin console" inurl:login site:"*.edu"|site:"*.gov"|site:"*.net" -site:*.com -help -guide -documentation -release -notes -configure -support -price -cant
+intitle:"admin login" site:.gov
+intitle:"admin login" site:.gov.in
+intitle:"admin login" site:.in
+intitle:"admin login" site:.net
+intitle:"admin login" site:.org
+intitle:"b2evo > Login form" "Login form. You must log in! You will have to accept cookies in order to log in" -demo -site:b2evolution.net
+intitle:"index of" "parent directory" "desktop.ini" site:dyndns.org
+intitle:"index of" site:.gov.in
+intitle:"index of" site:gov.*
+intitle:"index of" site:gov.gr
+intitle:"index of" site:gov.in
+intitle:"index of" site:gov.np
+intitle:"index of" site:gov.ru
+intitle:"irz" "router" intext:login gsm info -site:*.com -site:*.net
+intitle:"login" site:welcome.*.*
+intitle:"oracle login" site:.gov
+intitle:"php icalendar administration" -site:sourceforge.net
+intitle:"pictures thumbnails" site:pictures.sprintpcs.com
+intitle:"web-cyradm"|"by Luc de Louw" "This is only for authorized users" -tar.gz -site:web-cyradm.org
+intitle:"web-cyradm"|"by Luc de Louw" "This is only for authorized users" -tar.gz -site:web-cyradm.org -johnny.ihackstuff
+intitle:"welcome to netware *" -site:novell.com
+intitle:Admin inurl:login.php site:.co.in
+intitle:Index.of etc shadow site:passwd
+intitle:Linksys site:ourlinksys.com
+intitle:MK-AUTH :: CONTEUDO RESTRITO -site:mk-auth.com.br
+intitle:dupics inurl:(add.asp | default.asp | view.asp | voting.asp) -site:duware.com
+intitle:ePMP 1000 intext:Log In -site:*.com -site:com.*
+intitle:index of cv site:.com
+intitle:index.of cisco asa -site:cisco.com
+intitle:index.of inurl:grades site:edu
+intitle:index.of inurl:openwebmail -site:openwebmail.org
+intitle:index.of ios -site:cisco.com
+intitle:osCommerce inurl:admin intext:"redistributable under the GNU" intext:"Online Catalog" -demo -site:oscommerce.com
+intitle:osCommerce inurl:admin intext:"redistributable under the GNU"intext:"Online Catalog" -demo -site:oscommerce.com
+inurl /admin/login intitle panel admin site:"*.in"
+inurl:"*.php?*=*.php" intext:"Warning: include" -inurl:.html -site:"php.net" -site:"stackoverflow.com" -inurl:"*forums*"
+inurl:"/drive/folders/" site:drive.google.com
+inurl:"/webmail/" intitle:"Mail - AfterLogic WebMail" -site:afterlogic.org -site:afterlogic.com
+inurl:"?db_backup" | inurl:"dbbackup" -site:github.com "sql.gz" | "sql.tgz" | "sql.tar" | "sql.7z"
+inurl:"folderview?id=" site:drive.google.com
+inurl:"ibase site:de"
+inurl:"index.php" intext:"ApPHP Hotel Site" -site:"apphp.com"
+inurl:"opac/login " site:.edu
+inurl:"remote.php/webdav" -site:owncloud.org
+inurl:"zendesk.com/attachments/token" site:zendesk.com
+inurl:("admin/password.php") +site:.com
+inurl:("administrator/login.aspx" OR "admin/login.aspx") +site:.com
+inurl:.html.php:intext:"admin"|intext:"user"|intext:"login":site:".in"
+inurl:.php?=*php site:.nic.in
+inurl:/about site:*.in
+inurl:/database* ext:sql intext:index of -site:github.com
+inurl:/login site:.in
+inurl:/login.aspx site:com.tr intitle:yönetim
+inurl:/login/index.jsp -site:hertz.*
+inurl:2000 intitle:RemotelyAnywhere -site:realvnc.com
+inurl:2000 intitle:RemotelyAnywhere -site:realvnc.comg
+inurl:8080/view/viewer_index.shtml?id= -site:*.com
+inurl:CHANGELOG.txt intext:drupal intext:"SA-CORE" -intext:7.32 -site:github.com -site:drupal.org
+inurl:admin filetype:xls site:gov.in
+inurl:admin filetype:xlsx site:gov.*
+inurl:adminpanel site:gov.*
+inurl:citrix inurl:login.asp -site:citrix.com
+inurl:composer.json codeigniter -site:github.com
+inurl:composer.json filetype:json -site:github.com
+inurl:execute-api site:amazonaws.com
+inurl:fisheye AND inurl:changelog -site:atlassian.com -site:github.com -intext:"Log in to FishEye"
+inurl:glpi intitle:"GLPI" site:.br
+inurl:intranet site:www.*.gov
+inurl:lighttpd.conf lighttpd site:github.com
+inurl:login.php site:.in
+inurl:login.php site:.nl
+inurl:nginx.conf nginx site:github.com
+inurl:oraweb -site:oraweb.org
+inurl:password site:shodan.io
+inurl:robots.txt intext:CHANGELOG.txt intext:disallow ext:txt -site:github.com
+inurl:robots.txt site:gov + intext:password
+inurl:travis.yml tornado site:github.com
+inurl:vidyo -site:vidyo.com inurl:portal
+inurl:webcam site:skylinewebcams.com inurl:roma
+mail filetype:csv -site:gov intext:name
+natterchat inurl:home.asp -site:natterchat.co.uk
+phpMyAdmin -www filetype:conf site:*
+rdbqds -site:.edu -site:.mil -site:.gov
+s3 site:amazonaws.com filetype:log
+s3 site:amazonaws.com filetype:sql
+s3 site:amazonaws.com filetype:xls login
+s3 site:amazonaws.com filetype:xls password
+s3 site:amazonaws.com intext:dhcp filetype:txt inurl:apollo
+sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html -site:sap.com
+site:"*.com" inurl: admin/index.php
+site:".ae" intitle:"admin login"
+site:".au" intitle:"admin login"
+site:".edu" intitle:"admin login"
+site:".om" intitle:"login"
+site:".uk" intitle:"admin login"
+site:* index of: *.exe
+site:* index of: /config
+site:* index.of: /android/manifest.xml
+site:* intitle:"reset password"
+site:*.*.*/authentication/Logon
+site:*.*/level/15/exec/-/ "Exec Configure"
+site:*.blob.core.windows.net ext:xls | ext:xlsx (login | password | username)
+site:*.com "index of" error_logs
+site:*.com intitle:"Thank You For Your Order" intext:Click Here to Download
+site:*.com inurl:axis2-admin
+site:*.edu.in intitle:index of
+site:*.freshservice.com/support/solutions
+site:*.github.io intext:cheatsheet+offensive+pentesting
+site:*.gov.au inurl:wp-admin
+site:*.gov.in inurl:login.jsp
+site:*.herokuapp.com intitle:login
+site:*.id intitle:"index of" "screenshot*.jpg"
+site:*.in inurl: admin login
+site:*.in inurl:jira login
+site:*.ng intitle:index of
+site:*.se intitle:"index of"
+site:*.zendesk.com/auth/v2/login/registration
+site:*/*.asp
+site:*/*/conf/httpd.conf
+site:*/*/pwdrecovery.php
+site:*/404/404.html intitle:"404"
+site:*/AdminPanel.aspx
+site:*/AdminPanel.php
+site:*/Citrix/storeweb
+site:*/Dashboard/ intitle:"login"
+site:*/Drupal/login
+site:*/EWS/Exchange.asmx
+site:*/JIRA/login
+site:*/LoginPanel.aspx
+site:*/PassRecover
+site:*/Password.aspx
+site:*/Security/Login
+site:*/SendPassword
+site:*/Shibboleth.sso/SAML2/POST
+site:*/Webmail/
+site:*/access/unauthenticated
+site:*/account-recovery.html
+site:*/account-sign-in
+site:*/account/login
+site:*/account/lost_password
+site:*/account/preferences
+site:*/account/reset
+site:*/adfs/ls/ intitle:"Sign In"
+site:*/admin-login intitle:"Admin Login"
+site:*/admin-portal/
+site:*/admin.php inurl:admin
+site:*/admin.php inurl:files
+site:*/admin/login.html
+site:*/admin/password.php
+site:*/admin/password/reset
+site:*/adminLogin/login/
+site:*/admincp/ intitle:"Admin Cp"
+site:*/asana/login
+site:*/auth intitle:login
+site:*/auth.html intitle:login
+site:*/auth.php
+site:*/auth/forgot
+site:*/auth/login.aspx
+site:*/authUpdate intitle:"Account Access Help"
+site:*/auth_index.htm?lang=kr&loginvalue=0&port=0
+site:*/authlogin/ intitle:login
+site:*/authzssl/forget_password
+site:*/casAuthn/login.php
+site:*/cb-forgot-login
+site:*/cgi-bin/login.html
+site:*/cgi-bin/luci intext:"Authorization Required"
+site:*/cgi-bin/webproc intext:"username"
+site:*/cgi-sys/defaultwebpage.cgi intext:"SORRY!"
+site:*/cgi-sys/suspendedpage.cgi intitle:"Account Suspended"
+site:*/cgi/domadmin.cgi
+site:*/cgi/user.cgi
+site:*/changePassword.php
+site:*/dana-na/auth/welcome.cgi?p=rolelogo
+site:*/dyn_sensors.htm "ID"
+site:*/en/login/
+site:*/etc/passwd inurl"/etc/passwd"
+site:*/exchange-login/ intitle:"Login"
+site:*/forgetpassword.php
+site:*/forgot-password
+site:*/forgotpassword.php
+site:*/forum/login/
+site:*/forum/ucp.php?mode=login
+site:*/index.jsp intitle:"login"
+site:*/index.php/login intitle:"login"
+site:*/index_signin.php
+site:*/joomla/administrator
+site:*/joomla/login
+site:*/log/access_log
+site:*/login/ForgotPassword
+site:*/login/auth
+site:*/login/login.php
+site:*/login/pass
+site:*/loginportal/ intitle:"login"
+site:*/logon/ intitle:"Sign In"
+site:*/logon/logonpoint/tmindex.html
+site:*/logs/default.htm
+site:*/logs/error.log
+site:*/lost-password/
+site:*/lost_pass.php
+site:*/m-login.html
+site:*/membersarea intitle:"login"
+site:*/membership-login/
+site:*/my.policy
+site:*/net/net/protocol.html
+site:*/nms/login intitle:"UNMS"
+site:*/node_modules/ content:"PEM"
+site:*/node_modules/ content:"ssh"
+site:*/oauth/authenticate
+site:*/oauth/authorize
+site:*/oauth/token
+site:*/oauth2/authorize
+site:*/pages/login.php intitle:"Login"
+site:*/password/remind
+site:*/password_forgotten.php
+site:*/password_lost.php
+site:*/password_reset/
+site:*/phpMyAdmin/robots.txt
+site:*/phpinfo.php intitle:"phpinfo()"
+site:*/phpmyadmin/import.php
+site:*/phpmyadmin/server_databases.php
+site:*/phpmyadmin/server_import.php
+site:*/phpmyadmin/server_privileges.php
+site:*/phpmyadmin/server_sql.php
+site:*/piwik "Sign in" "Matomo"
+site:*/pwdform.htm
+site:*/quicklogin.php
+site:*/recover-pass
+site:*/reminder_password
+site:*/request-new-password
+site:*/request-password-reset
+site:*/requestpassword.*
+site:*/resetpass.php
+site:*/resetpassword.php
+site:*/retrieve-password
+site:*/retrieve.php
+site:*/robots.txt intext:User-agent:
+site:*/securelogin.asp
+site:*/server-status intext:"Apache server status for"
+site:*/sign-in
+site:*/sign_in.aspx
+site:*/signup/pass
+site:*/signup/password.php
+site:*/sitemap/sitemap.xml
+site:*/siteminderagent/forms/login.fcc
+site:*/src/login.php
+site:*/tcpipv4.htm
+site:*/tcpipv6.htm
+site:*/test/login
+site:*/updatepassword.php
+site:*/user/forgot
+site:*/user/forgotpass
+site:*/user/login
+site:*/user/password/
+site:*/usercp.php
+site:*/users/login_form
+site:*/validar_usuario.php
+site:*/web-hosting/cplogin
+site:*/wordpress/wordpress.bak/
+site:*/wp-admin/install.php intitle:WordPress Installation
+site:*/wp-admin/maint/repair.php intext:"define(WP_ALLOW_REPAIR,true);"
+site:*/wp-admin/user-edit.php
+site:*/wp-contents/ inurl:/wp-contents/
+site:*/wp-includes/ inurl:/wp-includes/
+site:*/wp-includes/Requests/php_errorlog
+site:*/wp-login?redirect_to= intitle:"login"
+site:*/wp-settings.php
+site:*:8000/login#forgot intitle:"login"
+site:*:8443/login_up.php
+site:*:8888/login.aspx
+site:*gov.* intitle:index.of db
+site:."atlassian.net" "Log in to your account"
+site:.bd http intitle: admin
+site:.com intitle:"Admin portal"
+site:.com intitle:"index of" /ipa
+site:.com intitle:"index of" /payments.txt
+site:.com intitle:"index of" /paypal
+site:.com inurl:("administrator/login.php" OR "admin/login.php")
+site:.edu intext:"index of" "logs"
+site:.edu intext:"index of" "payroll"
+site:.edu intext:"index of" "shell"
+site:.edu intitle:"index of"
+site:.edu inurl:login "Admin"
+site:.edu inurl:search
+site:.edu | .gov ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup
+site:.edu.in inurl:login.aspx
+site:.edu.in inurl:login.php
+site:.execute-api.us-east-1.amazonaws.com
+site:.gov inurl:admin login
+site:.gov.co intitle:Index of
+site:.in | .com | .net intitle:"index of" ftp
+site:.mil + inurl:login.aspx | .asp | .html | .php | .htm
+site:.nic.in inurl:.php?id=
+site:.pk intext:Warning: mysql_fetch_array(): supplied argument is not a valid MySQL result resource in & “id”
+site:.pk intext:Warning: mysql_free_result(): supplied argument is not a valid MySQL result resource in & “id”
+site:.viewnetcam.com -www.viewnetcam.com
+site:/*:8081/nexus/#welcome -inurl:"/nexus/content/"
+site:/*:81 -site:/*:8080 intitle:"::: Login :::"
+site:/auth.*.*/login
+site:account.*.*/login
+site:account.*.*/recovery
+site:accounts.*.com/signin/
+site:admin.*.* intitle:"Admin Login"
+site:admin.*.*/ intext:"login" intitle:"login"
+site:admin.*.*/forgot?username=
+site:admin.*.com/signin/
+site:amazonaws.com inurl:elb.amazonaws.com
+site:amazonaws.com inurl:login.php
+site:app.*.*/ intext:login
+site:auth.*.*/signin
+site:azurewebsites.net inurl:.gov | .mil | .edu
+site:bamboo.*.* ext:action build
+site:bitbucket.org inurl:.bash_history
+site:checkin.*.* intitle:"login"
+site:cloudfront.net inurl:d
+site:cloudshark.org/captures# password
+site:com "rfp" filetype:pdf
+site:com "sap netweaver portal"
+site:com intitle:"index of" .env
+site:com intitle:index of ..................etcpasswd
+site:com inurl:/admin/login
+site:com inurl:b2blogin ext:cfm | jsp | php | aspx
+site:com inurl:jboss filetype:log -github.com
+site:com.* intitle:"index of" *.admin
+site:com.* intitle:"index of" *.admin.password
+site:com.* intitle:"index of" *.db
+site:com.* intitle:"index of" *.sql
+site:com.* intitle:"index of" *shell.php
+site:conf.*.com/signin/
+site:connect.garmin.com inurl:"/modern/activity/"
+site:connect.garmin.com inurl:"/modern/profile/"
+site:controlc.com intext:"password"
+site:cpanel.*.* intitle:"login" -site:forums.cpanel.net
+site:dev.*.*/signin
+site:dl.dropbox.com filetype:pdf cv OR curriculum vitae OR resume
+site:docs.google.com intitle:(cv Or resume OR curriculum vitae)
+site:docs.google.com inurl:forms | viewanalytics intext:see previous responses
+site:drive.google.com "*.pdf"
+site:drive.google.com /preview intext:movie inurl:flv | wmv | mp4 -pdf -edit -view
+site:ebay.com inurl:callback
+site:edu admin grades
+site:exchange.*.*/owa/
+site:extremetracking.com inurl:"login="
+site:ftp.* index of /ftp/backup
+site:ftp.*.* "CrushFTP WebInterface"
+site:ftp.*.* index of: manifest.xml
+site:ftp.*.*.* "ComputerName=" + "[Unattended] UnattendMode"
+site:ftp.*.com "Web File Manager"
+site:ftp://ftp.*.* ext:sql
+site:ftp://ftp.*.*/login -inurl:https://
+site:github.com ext:csv userid | username | user -example password
+site:github.com filetype:md | filetype:js | filetype:txt "xoxp-"
+site:github.com intext:"unattend xmlns" AND "password" ext:xml
+site:github.com inurl:sftp-config.json
+site:github.com inurl:sftp-config.json intext:/wp-content/
+site:gitlab.* intext:password intext:@gmail.com | @yahoo.com | @hotmail.com
+site:global.gotomeeting.com inurl:recording
+site:gov ext:sql | ext:dbf | ext:mdb
+site:gov intitle:"index of" *.data
+site:gov.* intitle:"index of" *.apk
+site:gov.* intitle:"index of" *.css
+site:gov.* intitle:"index of" *.csv
+site:gov.* intitle:"index of" *.db
+site:gov.* intitle:"index of" *.doc
+site:gov.* intitle:"index of" *.php
+site:gov.* intitle:"index of" *.pptx
+site:gov.* intitle:"index of" *.shell
+site:gov.* intitle:"index of" *.xls
+site:gov.* intitle:"index of" *Dokuments"
+site:gov.*.*/ intext:"login" intitle:"login"
+site:gov.hk intitle:index of /
+site:gov.in intitle: admin login
+site:gov.in inurl:/admin/login
+site:https://docs.google.com/document/d/ password
+site:https://docs.google.com/forms responses
+site:https://docs.google.com/forms viewanalytics
+site:https://docs.google.com/spreadsheets edit
+site:https://docs.google.com/spreadsheets responses
+site:https://docs.google.com/spreadsheets/d/ password
+site:identity.*.*/login
+site:in inurl:/admin/login
+site:intranet.*.*/login/
+site:jira.*.* inurl:/customer/portal/
+site:login.*.*
+site:login.*.* intitle:"Admin Login"
+site:login.*.com/signin/
+site:login.microsoftonline.com -error
+site:mail.* intitle:Dashboard
+site:mail.*.*/auth
+site:management.*.*/login/
+site:mediafire.com cv Or resume OR curriculum vitae filetype:pdf OR doc
+site:member.*.* intitle:"login"
+site:member.*.*/auth/login
+site:mil ext:cfm inurl:login.cfm
+site:monitor.*.*/login intitle:"Login"
+site:moodle.*.*/login
+site:mypublicinbox.com intitle:email
+site:netcraft.com intitle:That.Site.Running Apache
+site:onedrive.live.com shared by
+site:org.* intitle:"index of" * resources
+site:p2.*.* intitle:"login"
+site:papaly.com + keyword
+site:passport.*.*/login
+site:password.*.* intitle:"login"
+site:pastebin.com "*@gmail.com password"
+site:pastebin.com "admin password"
+site:pastebin.com "password"
+site:pastebin.com "rcon_password"
+site:pastebin.com intext:"*@*.com:*"
+site:pastebin.com intext:"-----BEGIN CERTIFICATE-----"
+site:pastebin.com intext:"-----BEGIN RSA PRIVATE KEY-----"
+site:pastebin.com intext:":aad3b435b51404eeaad3b435b51404ee:"
+site:pastebin.com intext:"administrator:500:"
+site:pastebin.com intext:"password" | intitle:"password"
+site:pastebin.com intext:@gmail.com | @yahoo.com | @hotmail.com daterange:2457388-2457491
+site:pastebin.com intext:Username
+site:pastebin.com intext:admin.password
+site:pastebin.com intext:license key | expiration
+site:pastebin.com intext:pass.txt
+site:pastebin.com intext:password.txt
+site:pastebin.com intext:root: & :0: & ::: | intitle:passwd | shadow
+site:pastebin.com intext:username | password | SECRET_KEY
+site:pastebin.com intext:username | password | secret_key | token
+site:pastebin.com intitle:"cpanel"
+site:pastebin.com intitle:"leak" | "breach" intext:"password" | "pw" | "pwd"
+site:pastebin.com intitle:"password" 2021
+site:police.*.*/ intext:"login" intitle:"login"
+site:portal.*.* intitle:"login"
+site:portal.*.com/signin/
+site:postman.com + keyword
+site:remote.*.* intitle:"User Authentication"
+site:rentry.co intext:"password"
+site:scartserver.com
+site:secure.*.* intitle:"log in"
+site:sftp.*.*/ intext:"login" intitle:"server login"
+site:showmyhomework.co.uk/school/homeworks/ "password"
+site:signin.*.* intitle:"login"
+site:smtp.*.*/login
+site:smtp3.*.*/login
+site:social.*.com/signin/
+site:sso.*.* intitle:"Login"
+site:stashbox.org cv Or resume OR curriculum vitae filetype:pdf OR doc
+site:static.ow.ly/docs/ intext:@gmail.com | Password
+site:sts.*.*/adfs/ls/?SAMLRequest= intitle:"sign in"
+site:target.com ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini
+site:trello.com intext:mysql AND intext:password -site:developers.trello.com -site:help.trello.com
+site:trello.com password
+site:ups.com intitle:"Ups Package tracking" intext:"1Z ### ### ## #### ### #"
+site:user.*.* intitle:"login"
+site:vpn.*.*/ intext:"login" intitle:"login"
+site:vpn.*.*/ intitle:"login"
+site:vps-*.vps.ovh.net
+site:watch.*.*/login
+site:webex.com inurl:tc3000
+site:wiki.*.com inurl:login.action
+site:ws.kik.com | site:ws2.kik.com k=
+site:www.mailinator.com inurl:ShowMail.do
+site:www.openbugbounty.org + intext:"Open Redirect" + intext:"Unpatched"
+site:www.tribunale.*.*.* inurl:login
+team5 studio all rights reserved site:cn

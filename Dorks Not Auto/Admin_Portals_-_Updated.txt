@@ -1,0 +1,56 @@
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use: This category contains dorks for a specific purpose.
+"-- Dumping data for table `admin`" | "-- INSERT INTO `admin`" "VALUES" ext:sql | ext:txt | ext:log | ext:env
+"/wp-admin/admin-ajax" ext:txt
+"Index of /admin"
+"Index of" "/yahoo_site_admin/credentials"
+"Please login with admin pass" -"leak" -sourceforge
+"Powered by cityadmin and Red Cow Technologies, Inc."
+"This section is for Administrators only. If you are an administrator then please"
+"admin password irreversible-cipher" ext:txt OR ext:log OR ext:cfg
+"admin_password" ext:txt | ext:log | ext:cfg
+"apricot - admin" 00h
+"create account" admin ext:cfg
+"index of" "adminer.php"
+"index of" "fileadmin"
+/admin_modules/admin_module_deldir.inc.php?config[path_src_include]=
+/administrator/components/com_serverstat/install.serverstat.php?mosConfig_absolute_path=
+/administrator/components/com_uhp/uhp_config.php?mosConfig_absolute_path=
+/modules/Forums/admin/admin_styles.php?phpbb_root_path=
+/modules/PNphpBB2/includes/functions_admin.php?phpbb_root_path=
+/modules/vwar/admin/admin.php?vwar_root=
+/modules/vwar/admin/admin.php?vwar_root=index.php?loc=
+admin.php?page=
+admin/doeditconfig.php?thispath=../includes&config[path]=
+admin/index.php?o=
+adminEditProductFields.php?intProdID=
+administrator/components/com_a6mambocredits/admin.a6mambocredits.php?mosConfig_live_site=
+administrator/components/com_comprofiler/plugin.class.php?mosConfig_absolute_path=
+administrator/components/com_cropimage/admin.cropcanvas.php?cropimagedir=
+administrator/components/com_cropimage/admin.cropcanvas.php?cropimagedir=modules/My_eGallery/index.php?basepath=
+administrator/components/com_linkdirectory/toolbar.linkdirectory.html.php?mosConfig_absolute_path=
+administrator/components/com_mgm/help.mgm.php?mosConfig_absolute_path=
+administrator/components/com_peoplebook/param.peoplebook.php?mosConfig_absolute_path=
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path=
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= /tags.php?BBCodeFile=
+administrator/components/com_webring/admin.webring.docs.php?component_dir=
+components/com_extcalendar/admin_events.php?CONFIG_EXT[LANGUAGES_DIR]=
+ext:txt | ext:log | ext:cfg | ext:yml "administrator:500:"
+ez Publish administration
+index of "fileadmin/php"
+index of /wp-admin.zip
+index of admin/fckeditor/editor/filemanager/
+index.php?u=administrator/components/com_linkdirectory/toolbar.linkdirectory.html.php?mosConfig_absolute_path=
+inurl "/admin/index.php" username=admin&password=password
+inurl /admin/login.php intitle panel admin
+inurl admin login php gov.in
+modules/vwar/admin/admin.php?vwar_root=
+nurl:/admin/login.asp

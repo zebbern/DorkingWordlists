@@ -1,0 +1,4007 @@
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use: This category contains dorks for a specific purpose.
+!Host=*.* intext:enc_UserPassword=* ext:pcf
+" -FrontPage-" ext:pwd inurl:(service | authors | administrators | users)
+" Proudly Served by LiteSpeed Web Server" intitle:index.of./
+"# -FrontPage-" ext:pwd inurl:(service | authors | administrators | users) "# -FrontPage-" inurl:service.pwd
+"-----BEGIN RSA PRIVATE KEY-----" inurl:id_rsa
+".git" intitle:"Index of"
+"100% | 50% | 25%" "Back to gallery" inurl:"show.php?imageid="
+"About Winamp Web Interface" intitle:"Winamp Web Interface"
+"Account" "Password" "All rights reserved" intitle:"HG8245"
+"Active Webcam Page" inurl:8080
+"AnWeb/1.42h" intitle:index.of
+"By Geeklog" "Created this page in" +seconds +powered inurl:public_html
+"Camera Live Image" inurl:"guestimage.html"
+"Can't connect to local" intitle:warning
+"Certificate Practice Statement" inurl:(PDF | DOC)
+"Citrix Receiver" inurl:index.html "Gateway"
+"Config" intitle:"Index of" intext:vpn
+"Consola de Joomla! Debug" inurl:index.php
+"CosmoShop by Zaunz Publishing" inurl:"cgi-bin/cosmoshop/lshop.cgi" -johnny.ihackstuff.com -V8.10.106 -V8.10.100 -V.8.10.85 -V8.10.108 -V8.11*
+"Desktop" "Simple" "Responsive" intitle:"Controllr"
+"Desktop" parent intitle:index.of
+"Enter ip" inurl:"php-ping.php"
+"Error Diagnostic Information" intitle:"Error Occurred While"
+"Establishing a secure Integrated Lights Out session with" OR intitle:"Data Frame - Browser not HTTP 1.1 compatible" OR intitle:"HP Integrated Lights-
+"Eyeland Studio Inc. All Rights Reserved." inurl:game.php
+"FC Bigfeet" -inurl:mail
+"FileZilla" inurl:"recentservers.xml" -git
+"Firmware Version" intitle:"iLO" ProLiant Login -hpe.com -update
+"Futon on Apache" inurl:_utils
+"Greenstone receptionist" inurl:"/etc/main.cfg"
+"HP LaserJet" inurl:"SSI/index.htm"
+"HTTP" inurl:"access.log" ext:log
+"IPECS" inurl:a_index.html
+"Index of" inurl:"/$Recycle.Bin/"
+"Index of" inurl:config inurl:production
+"Index of" inurl:htdocs inurl:xampp
+"Index of" inurl:phpmyadmin
+"Index of" inurl:webalizer
+"Installed Objects Scanner" inurl:default.asp
+"JRun Web Server" intitle:index.of
+"Joomla! Administration Login" inurl:"/index.php"
+"Language" "SIM NUM" "DEV NUM" intitle:"mdvr"
+"Login to Usermin" inurl:20000
+"Looking Glass" (inurl:"lg/" | inurl:lookingglass)
+"MaXX/3.1" intitle:index.of
+"MacHTTP" filetype:log inurl:machttp.log
+"Mail-it Now!" intitle:"Contact form" | inurl:contact.php
+"Maintained with Subscribe Me 2.044.09p"+"Professional" inurl:"s.pl"
+"Microsoft-IIS/* server at" intitle:index.of
+"Microsoft-IIS/4.0" intitle:index.of
+"Microsoft-IIS/6.0" intitle:index.of
+"My Documents" "parent" intitle:index.of
+"NETGEAR, Inc. All rights reserved" intitle:"Netgear Prosafe Plus Switch"
+"Name" "Password" intitle:"Business LAN"
+"Name" "Password" intitle:"LANCOM 1790VA"
+"Netware * Home" inurl:nav.html
+"Network State: Network Ready. Network Channel:" intitle:ACEManager
+"Novell, Inc" WEBACCESS Username Password "Version *.*" Copyright -inurl:help -guides|guide
+"OK logout" inurl:vb.htm?logout=1
+"OPENSRS Domain Management" inurl:manage.cgi
+"ORA-12541: TNS:no listener" intitle:"error occurred"
+"OmniHTTPd/2.10" intitle:index.of
+"OpenSA/1.0.4" intitle:index.of
+"PGP SIGNED MESSAGE-----" inurl:"md5sums"
+"PHP Credits" "Configuration" "PHP Core" ext:php inurl:info
+"PHP Version" inurl:/php/phpinfo.php
+"PHP WEBQUEST VERSION " or inurl:"/phpwebquest/"
+"POWERED BY ZIPBOX MEDIA" inurl:"album.php"
+"Password=" inurl:web.config -intext:web.config ext:config
+"Phorum Admin" "Database Connection" inurl:forum inurl:admin
+"PhpCollab . Log In" | "NetOffice . Log In" | (intitle:"index.of." intitle:phpcollab|netoffice inurl:phpcollab|netoffice -gentoo)
+"Pop-up" + "Live Image" inurl:index.html
+"Powered By CrownWeb.net!" inurl:"page.cfm"
+"Powered By: Simplicity oF Upload" inurl:download.php | inurl:upload.php
+"Powered by Active PHP Bookmarks v1.3" inurl:.view_group.php?id=
+"Powered by Atomic Photo Album" inurl:"photo.php?apa_album_ID="
+"Powered by Drake CMS" inurl:index.php?option=guestbook
+"Powered by Drumbeat" inurl:index02.php
+"Powered by EPay Enterprise" inurl:"shop.htm?cid=" | nurl:"shop.php?cid="
+"Powered by FlexPHPNews" inurl:news | inurl:press
+"Powered by IceWarp Software" inurl:mail
+"Powered by Megabook *" inurl:guestbook.cgi
+"Powered by MobPartner" inurl:"chat.php"
+"Powered by My Blog" intext:"FuzzyMonkey.org"
+"Powered by PWP Version 1-5-1" AND inurl:"/wiki/run.php"
+"Powered by Philboard" inurl:"philboard_forum.asp"
+"Powered by RedCat" inurl:index.php?contentId=
+"Powered by SoftbizScripts" inurl:"searchresult.php?sbcat_id="
+"Powered by SoftbizScripts" inurl:store_info.php
+"Powered by Vsns Lemon" intitle:"Vsns Lemon"
+"Powered by autolinks pro 2.1" inurl:register.php
+"Powered by phpBB" inurl:"index.php?s" OR inurl:"index.php?style"
+"Powered by sNews " inurl:index.php?id=
+"Powered by wpQuiz" inurl:index.php
+"Powered by: vBulletin * 3.0.1" inurl:newreply.php
+"RDServer Product information" | inurl:"/rdagent.jsp"
+"Reflector Dashboard" inurl:/db/index.php/
+"SQuery 4.5" |"SQuery 4.0" |"SQuery 3.9" | inurl:"modules.php?name=SQuery"
+"Search Projects" intitle:"The ultimate project website"
+"Section" inurl:"xorg.conf" ext:conf -wiki
+"Select a database to view" intitle:"filemaker pro"
+"Share Link" inurl:/share.cgi?ssid=
+"Site designed and built by Powder Blue." inurl:index.php?id_page=
+"Site powered by GuppY" | "Site créé avec GuppY" +inurl:lng=
+"SiteBar Bookmark Manager" inurl:index.php?w=
+"SonicWALL - Authentication" inurl:/auth.html
+"SquirrelMail version 1.4.4" inurl:src ext:php
+"SurgeMAIL" inurl:/cgi/user.cgi ext:cgi
+"Switch to table format" inurl:table|plain
+"System" + "Toner" + "Input Tray" + "Output Tray" inurl:cgi
+"TOPdesk ApplicationServer" inurl:/index.jsp
+"There are no Administrators Accounts" inurl:admin.php -mysql_fetch_row
+"This WebUI administration tool requires scripting support" intitle:'Login' intext:'Admin Name:' -score
+"This site is powered by e107"|inurl:e107_plugins|e107_handlers|e107_files
+"This website engine code is copyright" "2005 by Clever Copy" -inurl:demo
+"Upload" inurl:"https://webfiles"
+"Username" "Password" "This system is for authorized use only." intitle:"Gaia"
+"VB Viewer" inurl:/viewer/live/ja/live.html
+"VNC Desktop" inurl:5800
+"Vigor Login Page" + intext:"Group"
+"Welcome to Administration" "General" "Local Domains" "SMTP Authentication" inurl:admin
+"Welcome to Exponent CMS" | "my new exponent site" inurl:articlemodule
+"[LocalizedFileNames]" inurl:"desktop.ini" ext:ini -git -wiki
+"[Tera Term]" inurl:"teraterm.ini" ext:ini -git
+"[dirs]" inurl:"mirc.ini" -git
+"adding new user" inurl:addnewuser -"there are no domains"
+"by Reimar Hoven. All Rights Reserved. Disclaimer" | inurl:"log/logdb.dta"
+"change the Administrator Password." intitle:"HP LaserJet" -pdf
+"delete entries" inurl:admin/delete.asp
+"display printer status" intitle:"Home"
+"e107.org 2002/2003" inurl:forum_post.php?nt
+"error_log" inurl:/wp-content
+"generated by Munin" inurl:index -intext:index localhost
+"httpd+ssl/kttd" * server at intitle:index.of
+"intext:Warning: passthru()" "inurl:view=help"
+"intitle:3300 Integrated Communications Platform" inurl:main.htm
+"intitle:Cisco Systems, Inc. VPN 3000 Concentrator"
+"intitle:Index.Of /" stats merchant cgi-* etc
+"intitle:t3al shmeh"
+"inurl:/admin/" "ImageVue"
+"inurl:/data/nanoadmin.php"
+"inurl:/site/articles.asp?idcategory="
+"inurl:cultbooking.php"
+"jos_users" intitle:"Index of"
+"machform" inurl:"view.php"
+"maxwebportal" inurl:"default" "snitz forums" +"homepage" -intitle:maxwebportal
+"mumbo jumbo media" + inurl:"index.php"
+"phone * * *" "address *" "e-mail" intitle:"curriculum vitae"
+"php class JConfig" AND inurl:configuration AND ext:"bak | old | pdf | php | txt"
+"phpMyAdmin" "running on" inurl:"main.php"
+"please visit" intitle:"i-Catcher Console" Copyright "iCode Systems"
+"powered by CubeCart" inurl:"index.php?_a="
+"powered by Gallery v" "[slideshow]"|"images" inurl:gallery
+"powered by Sniggabo CMS" inurl:article.php?id
+"powered by active php bookmarks" | inurl:bookmarks/view_group.php?id=
+"powered by jaws" | "powered by the jaws project" | inurl:?gadget=search
+"powered by php photo album" | inurl:"main.php?cmd=album" -demo2 -pitanje
+"powered by phplist" | inurl:"lists/?p=subscribe" | inurl:"lists/index.php?p=subscribe" -ubbi -bugs +phplist -tincan.co.uk
+"powered by phpmydirectory" OR intext:"2001-2006 phpMyDirectory.com"
+"seeing this instead" intitle:"test page for apache"
+"set up the administrator user" inurl:pivot
+"settings.ini" intext:"fbconnectkey =" intext:"msverify ="
+"sql" "parent" intitle:index.of -injection
+"toendaCMS is Free Software released under the GNU/GPL License." | "powered by toendaCMS" -inurl:demo
+"var miner = new CoinHive" intext:document.domain
+"var miner=new CryptoLoot.Anonymous" intext:CryptoLoot.Anonymous
+( ext:php ) ( inurl:/wp-content/uploads/AAPL/loaders/ )
+( intitle:"PacketShaper Login")|(intitle:"PacketShaper Customer Login")
+("Fiery WebTools" inurl:index2.html) | "WebTools enable * * observe, *, * * * flow * print jobs"
+("This DragonflyÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ installation was" | "Thanks for downloading Dragonfly") -inurl:demo -inurl:cpgnuke.com
+("port_255/home")|(inurl:"home?port=255")
+((inurl:ifgraph "Page generated at") OR ("This page was built using ifgraph"))
+(@gmail.com || @yahoo.com || @hotmail.com) ext:php inurl:compose
+(intext:"MOBOTIX M1" | intext:"MOBOTIX M10") intext:"Open Menu" Shift-Reload
+(intext:mail AND intext:samAccountName) AND (filetype:xlsx OR filetype:xls OR filetype:csv OR filetype:txt)
+(intitle:"Flyspray setup"|"powered by flyspray 0.9.7") -flyspray.rocks.cc
+(intitle:"PRTG Traffic Grapher" inurl:"allsensors")|(intitle:"PRTG Traffic Grapher - Monitoring Results")
+(intitle:"SHOUTcast Administrator")|(intext:"U SHOUTcast D.N.A.S. Status")
+(intitle:"SilkyMail by Cyrusoft International, Inc
+(intitle:"WmSC e-Cart Administration")|(intitle:"WebMyStyle e-Cart Administration")
+(intitle:"WordPress ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âº Setup Configuration File")|(inurl:"setup-config.php?step=")
+(intitle:"metaframe XP Login")|(intitle:"metaframe Presentation server Login")
+(intitle:"phpshell" OR intitle:"c99shell" OR intitle:"r57shell" OR intitle:"PHP Shell " OR intitle:"phpRemoteView") `rwx` "uname"
+(intitle:"plexpy - home" OR "intitle:tautulli - home") AND intext:"libraries"
+(intitle:"rymo Login")|(intext:"Welcome to rymo") -family
+(intitle:(EyeSpyFX|OptiCamFX) "go to camera")|(inurl:servlet/DetectBrowser)
+(intitle:MOBOTIX intitle:PDAS) | (intitle:MOBOTIX intitle:Seiten) | (inurl:/pda/index.html +camera)
+(intitle:WebStatistica inurl:main.php) | (intitle:"WebSTATISTICA server") -inurl:statsoft -inurl:statsoftsa -inurl:statsoftinc.com -edu -software -rob
+(inurl:"8080/monitorix" & intext:"Hostname") | inurl:"8080/monitorix-cgi"
+(inurl:"ars/cgi-bin/arweb?O=0" | inurl:arweb.jsp)
+(inurl:"robot.txt" | inurl:"robots.txt" ) intext:disallow filetype:txt
+(inurl:/shop.cgi/page=) | (inurl:/shop.pl/page=)
+(inurl:81-cobalt | inurl:cgi-bin/.cobalt)
+(inurl:81/cgi-bin/.cobalt/) | (intext:"Welcome to the Cobalt RaQ")
+(inurl:webArch/mainFrame.cgi ) | (intitle:"web image monitor" -htm -solutions)
++"Powered by INDEXU" inurl:(browse|top_rated|power
++intext:"AWSTATS DATA FILE" filetype:txt
++intext:"powered by MyBulletinBoard"
++intext:"webalizer" +intext:"Total Usernames" +intext:"Usage Statistics for"
+-Login inurl:photopost/uploadphoto.php
+-inurl:http | -inurl:https inurl:ftp ext:xls | ext:xlsx bank
+/tools/send_reminders.php?includedir= allinurl:day.php?date=
+=?UTF-8?Q?intitle:"Index_of=E2=80=9D_user=5Fcarts_OR_user_=5Fcart.?=
+?intitle:index.of? mp3 artist-name-here
+?intitle:index.of? mp3 name
+?intitle:index.of?".mysql_history"
+Admin intitle:"eZ publish administration"
+AnyBoard" intitle:"If you are a new user:" intext:"Forum
+AnyBoard" inurl:gochat -edu
+Auth inurl:welcome ext:cgi
+Database:phpmyadmin intext:mysql ext:sql inurl:phpmyadmin
+Display Cameras intitle:"Express6 Live Image"
+Dork - inurl: "site admin"
+Fwd: intitle:"Authorize application" "Learn more about OAuth"
+Fwd: intitle:"Cloudphysician RADAR"
+Fwd: intitle:"Codian MCU - Home Page"
+Fwd: intitle:"Heatmiser Wifi Thermostat" "username" -.com
+Fwd: intitle:"Index of /" intext:"resource/"
+Fwd: intitle:"Login" "FLX Web Server"
+Fwd: intitle:"MedDream" "Softneta" -.com
+Fwd: intitle:"OS-ZuKon" "SSS Siedle"
+Fwd: intitle:"Project Insight - Login" "Sign In to Continue" "Shift4 Payments"
+Fwd: intitle:"SPC4300" "ID"
+Fwd: intitle:"STEP by STIBO Systems" "Launch STEPworkbench" "Web UI Component Report"
+Fwd: intitle:"Schneider Electric Telecontrol - Industrial Web Control" intext:"Xflow "
+Fwd: intitle:"Support Portal" intext:"Bomgar Corporation. Redistribution Prohibited. All Rights Reserved." "Representatives"
+Fwd: intitle:"Web UI" inurl:"/cgi-bin/luci"
+Fwd: intitle:"Zimbra Web Client Sign In" "Synacor"
+Fwd: intitle:"atvise - next generation"
+Fwd: inurl:"/sslvpn_logon.shtml" intitle:"User Authentication" "WatchGuard Technologies"
+Google Dork inurl:Curriculum Vitale filetype:doc ( Vital Informaticon , Addres, Telephone Numer, SSN , Full Name, Work , etc ) In Spanish.
+Google Dork: intitle:"Index of" "Apache/2.4.50"
+Google Dork: intitle:"ZM - Console"
+Google Dork: intitle:"ZM - System Log"
+Google Dork: intitle:index.of ipconfig
+Google Dork: inurl:"/zm/index.php"
+Hostinger © 2016. All rights reserved inurl:default.php
+LeapFTP intitle:"index.of./" sites.ini modified
+List of Phone Numbers (In XLS File ) allinurl:telefonos filetype:xls
+Microsoft-IIS/7.0 intitle:index.of name size
+Novell NetWare intext:"netware management portal version"
+Nwahy.com 2.1 , inurl:'add-site.html'
+PHPFreeNews inurl:Admin.php
+Please-logon "intitle:zarafa webaccess "
+Powered by Bug Software intext:Your Cart Contains
+Powered by DUdforum 3.0 inurl:/forums.asp?iFor=
+Powered by MVC-Web CMS inurl:/index.asp?newsid=
+Powered by UCenter inurl:shop.php?ac=view
+Powered by WHMCompleteSolution - OR inurl:WHMCS OR announcements.php
+Powered by WHMCompleteSolution - or inurl:WHMCS
+Powered by Webiz inurl:'wmt/webpages
+Powered by: Arab Portal inurl:mod.php?mod=html
+Powered.by.RaidenHTTPD +intitle:index.of | inurl:raidenhttpd-admin
+Powered.by.RaidenHTTPD intitle:index.of
+Re: intitle:Priv8 SCR
+Re: inurl:"r00t.php"
+WebControl intitle:"AMX NetLinx"
+XAMPP "inurl:xampp/index"
+administrator/components/com_comprofiler/plugin.class.php?mosConfig_absolute_path= /tools/send_reminders.php?includedir= allinurl:day.php?date=
+allintext: "This site is powered by IndexScript"
+allintext: /iissamples/default/
+allintext: /qcodo/_devtools/codegen.php
+allintext: wp-content/themes/injob
+allintext:" If you would like to contact us, our email address is" traffic
+allintext:"API_SECRET*" ext:env | ext:yml
+allintext:"Browse Blogs by Category"
+allintext:"Browse our directory of our members top sites or create your own for free!"
+allintext:"Call to undefined function"
+allintext:"Copperfasten Technologies" "Login"
+allintext:"Copyright CANON INC" "iR-ADV"
+allintext:"Home Member Search Chat Room Forum Help/Support privacy policy"
+allintext:"Index Of" "cookies.txt"
+allintext:"Index Of" "sftp-config.json"
+allintext:"Latest Pictures" Name Gender Profile Rating
+allintext:"Powered By Buddy Zone"
+allintext:"Powered by LionMax Software" "WWW File Share"
+allintext:"Powered by: TotalCalendar"
+allintext:"SuperCali Event Calendar"
+allintext:"WebServerX Server at"
+allintext:"[Sec. Info]" file.php
+allintext:"fs-admin.php"
+allintext:'HttpFileServer 2.3k'
+allintext:@gmail.com filetype:log
+allintext:Copyright Smart PHP Poll. All Rights Reserved. -exploit
+allintext:D.N.I filetype:xls
+allintext:Welcome to the LabTech Web Portal
+allintext:adhaar filetype:xlsx
+allintext:username filetype:log
+allintext:wp-content/plugins/acf-to-rest-api
+allintext:wp-content/plugins/angwp
+allintext:wp-includes/rest-api
+allintitle: "Flexi Press System"
+allintitle: "MCgallery 0.5b"
+allintitle: Axis 2.10 OR 2.12 OR 2.30 OR 2.31 OR 2.32 OR 2.33 OR 2.34 OR 2.40 OR 2.42 OR 2.43 "Network Camera "
+allintitle: EverFocus | EDSR | EDSR400 Applet
+allintitle: powered by DeluxeBB
+allintitle: restricted filetype :mail
+allintitle: sensitive ext:doc OR ext:xls OR ext:xlsx
+allintitle: sensitive filetype:doc
+allintitle:"CrushFTP WebInterface"
+allintitle:"FirstClass Login"
+allintitle:"Index of /Admin/Common" | allintext:"Parent Directory"
+allintitle:"Index of /ThinkPHP" | inurl: "/ThinkPHP/"
+allintitle:"Log on to MACH-ProWeb"
+allintitle:"MDVR Login"
+allintitle:"MeshCentral - Login"
+allintitle:"Network Camera NetworkCamera"
+allintitle:"Pi-hole Admin Console"
+allintitle:"SyncThru Web Service"
+allintitle:"UniMep Station Controller"
+allintitle:"Welcome admin"
+allintitle:"Welcome to the Cyclades"
+allintitle:"Welcome to the Web-Based Configurator"
+allintitle:*.php?filename=*
+allintitle:*.php?logon=*
+allintitle:*.php?page=*
+allintitle:.."Test page for Apache Installation.."
+allintitle:Brains, Corp. camera
+allintitle:Edr1680 remote viewer
+allintitle:Index of /wp-includes/
+allintitle:Netscape FastTrack Server Home Page
+allintitle:admin.php
+allintitle:aspjar.com guestbook
+allinurl: "/modules/myTopics/"
+allinurl: "com_actualite"
+allinurl: "com_alberghi" detail
+allinurl: "com_estateagent"
+allinurl: "com_galeria"
+allinurl: "com_glossary"
+allinurl: "com_joovideo" detail
+allinurl: "com_rapidrecipe"user_id
+allinurl: "index php p shop"categ
+allinurl: "index.php?area"galid
+allinurl: "index.php?mod=galerie"action=gal
+allinurl: "index.php?option=com_doc"
+allinurl: "index.php?p=gallerypic img_id"
+allinurl: "index.php?p=poll"showresult
+allinurl: "index.php?showlink"links
+allinurl: "modules MyAnnonces index php pa view"
+allinurl: "modules/dictionary"
+allinurl: "modules/dictionary/detail.php?id"
+allinurl: "modules/eEmpregos/index.php"
+allinurl: "modules/glossaires"
+allinurl: "modules/wfdownloads/viewcat.php?cid"
+allinurl: "name Sections op viewarticle artid"
+allinurl: "pollBooth.php?op=results"pollID
+allinurl: "showCat.php?cat_id"
+allinurl: "wordspew-rss.php"
+allinurl: In YoUr Dream Lamerz
+allinurl: admin mdb
+allinurl: aid "com_xfaq"
+allinurl: cid"modules/classifieds/index.php?pa=Adsview"
+allinurl: com_clasifier
+allinurl: com_gallery "func"
+allinurl: com_mcquiz "tid"
+allinurl: com_paxxgallery "userid"
+allinurl: com_pcchess "user_id"
+allinurl: com_quiz"tid"
+allinurl: com_ricette
+allinurl: drive.google.com/open?id=
+allinurl: e107_plugins/easyshop/easyshop.php
+allinurl: galid "index.php?p=gallerypic"
+allinurl: id "com_jooget"
+allinurl: modules-php-name-Siir
+allinurl: modules-php-op-modload "req view_cat"
+allinurl: op=viewslink&sid=
+allinurl: page_id album "photo"
+allinurl:".nsconfig" -sample -howto -tutorial
+allinurl:".r{}_vti_cnf/"
+allinurl:"/*/_vti_pvt/" | allinurl:"/*/_vti_cnf/"
+allinurl:"/SilverStream/Meta/"
+allinurl:"/lildbi/"
+allinurl:"/main/auth/profile.php" -github -google
+allinurl:"/questcms/"
+allinurl:"/ubbthreads/"
+allinurl:"/wp-content/plugins/wp-noexternallinks"
+allinurl:"User_info/auth_user_file.txt"
+allinurl:"article.download.php"
+allinurl:"channel_detail.php?chid="
+allinurl:"com_accombo"
+allinurl:"com_ahsshop"do=default
+allinurl:"com_candle"
+allinurl:"com_cinema"
+allinurl:"com_extcalendar"
+allinurl:"com_garyscookbook"
+allinurl:"com_n-gallery"
+allinurl:"com_na_content"
+allinurl:"com_neogallery"
+allinurl:"com_restaurante"
+allinurl:"com_simpleshop"
+allinurl:"detResolucion.php?tipodoc_id="
+allinurl:"exchange/logon.asp"
+allinurl:"index.php" "site=sglinks"
+allinurl:"index.php?mod=archives"
+allinurl:"index.php?site=" "W-Agora"
+allinurl:"jokes.php?catagorie="
+allinurl:"lyrics_menu/lyrics_song.php?l_id="
+allinurl:"macgurublog.php?uid="
+allinurl:"members.asp?action"
+allinurl:"modules/photo/viewcat.php?id"
+allinurl:"owa/auth/logon.aspx" -google -github
+allinurl:"shop.htm?shopMGID="
+allinurl:"verliadmin"
+allinurl:"weblog/referrers"
+allinurl:"wp-content/plugins/wordpress-popup/views/admin/"
+allinurl:"xGb.php"
+allinurl:"zimbra/?zinitmode=http" -google -github
+allinurl:*.php?txtCodiInfo=
+allinurl:.br/index.php?loc=
+allinurl:/examples/jsp/snp/snoop.jsp
+allinurl:/hide_my_wp=
+allinurl:/m2f_usercp.php?
+allinurl:/modernbill/
+allinurl:/myspeach/
+allinurl:/phpress/
+allinurl:/xampp/security.php
+allinurl:DialogHandler.aspx
+allinurl:admin mdb
+allinurl:asdm.jnlp
+allinurl:auth_user_file.txt
+allinurl:awstats.pl ext:pl
+allinurl:awstats.pl?config=
+allinurl:buyer/index.php?ProductID=
+allinurl:casting_view.php?adnum=
+allinurl:cdkey.txt
+allinurl:clientsignup.php "classifieds"
+allinurl:com_comprofiler
+allinurl:com_jpad
+allinurl:com_pccookbook
+allinurl:control/multiview
+allinurl:directory.php?ax=list
+allinurl:flashblog.html "flashblog"
+allinurl:foldercontent.html?folder=
+allinurl:forcedownload.php?file=
+allinurl:forum_answer.php?que_id=
+allinurl:fullview.php?tempid=
+allinurl:http://www.google.co.in/latitude/apps/badge/api?user=
+allinurl:index.htm?cus?audio
+allinurl:index.php?act=publ
+allinurl:index.php?db=information_schema
+allinurl:install/install.php
+allinurl:intranet admin
+allinurl:links.php?t=search
+allinurl:logon.html CSCOE
+allinurl:mc4wp-debug.log ext:log
+allinurl:moadmin.php -google -github
+allinurl:offers.php?id=
+allinurl:offers_buy.php?id=
+allinurl:option=com_livechat
+allinurl:option=com_rsmonials
+allinurl:readmore.php?news_id
+allinurl:servlet/SnoopServlet
+allinurl:show_memorial.php?id=
+allinurl:spaw2/dialogs/
+allinurl:top.htm?Currenttime
+allinurl:tseekdir.cgi
+allinurl:tsweb/default.htm
+allinurl:wp-content/plugins/wptf-image-gallery/
+axis storpoint "file view" inurl:/volumes/
+camera linksys inurl:main.cgi
+dorks:SiteScope inurl:/SiteScope/cgi/go.exe/SiteScope?page=
+employee "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx
+ext:asa | ext:bak intext:uid intext:pwd -"uid..pwd" database | server | dsn
+ext:asp intext:Smart.Shell 1.0 BY P0Uy@_$3r\/3R -
+ext:asp inurl:pathto.asp
+ext:aspx intitle:aspxspy
+ext:cgi intext:"nrg-" " This web page was created on "
+ext:cgi inurl:cgi-bin intext:#!/bin/bash
+ext:cgi inurl:editcgi.cgi inurl:file=
+ext:cgi inurl:ubb6_test.cgi
+ext:conf inurl:rsyncd.conf -cvs -man
+ext:dhtml intitle:"document centre|(home)" OR intitle:"xerox"
+ext:env intext:APP_ENV= | intext:APP_DEBUG= | intext:APP_KEY=
+ext:ini intext:env.ini
+ext:java intext:"import org.apache.logging.log4j.Logger;"
+ext:jsp  intext:"jspspy" intitle:"Jspspy web~shell V1.0"
+ext:log intext:NetworkManager "systemd"
+ext:log inurl:"/pgadmin"
+ext:mdb inurl:*.mdb inurl:fpdb shop.mdb
+ext:passwd -intext:the -sample -example
+ext:pdf intext:"Category: Password Management: Hardcoded Password" intext:"Issues)"
+ext:pem intext:BEGIN CERTIFICATE
+ext:php + inurl:"ajaxfilemanager.php" + intext:"Current Folder Path"
+ext:php intext:"$dbms""$dbhost""$dbuser""$dbpasswd""$table_prefix""phpbb_installed"
+ext:php intext:"Powered by phpNewMan Version"
+ext:php intitle:"b374k"
+ext:php intitle:phpinfo "published by the PHP Group"
+ext:php inurl:"api.php?action="
+ext:php | intitle:phpinfo "published by the PHP Group"
+ext:pl inurl:cgi intitle:"FormMail *" -"*Referrer" -"* Denied" -sourceforge -error -cvs -input
+ext:plist filetype:plist inurl:bookmarks.plist
+ext:pwd inurl:(service | authors | administrators | users) "# -FrontPage-"
+ext:sql intext:"-- phpMyAdmin SQL Dump
+ext:sql intext:"alter user" intext:"identified by"
+ext:sql intext:@gmail.com intext:e10adc3949ba59abbe56e057f20f883e
+ext:sql intext:clave
+ext:sql intext:contrasena
+ext:sql | ext:txt intext:"-- phpMyAdmin SQL Dump --" + intext:"admin"
+ext:svc inurl:wsdl
+ext:txt intext:Windows PowerShell transcript start
+ext:txt inurl:dxdiag
+ext:txt inurl:gov intext:"Content-Type: text/plain; charset=utf-8" AND intext:"Received: from "
+ext:txt inurl:unattend.txt
+ext:txt | ext:conf | ext:inc | ext:doc intext:php class JConfig
+ext:xls intext:NAME intext:TEL intext:EMAIL intext:PASSWORD
+ext:xlsx inurl:database
+ext:yml database inurl:config
+filetype: log inurl:"access.log" +intext:"HTTP/1.1"
+filetype:asmx inurl:(_vti_bin|api|webservice)
+filetype:asp intitle:" Microsoft Outlook Web Access"
+filetype:asp inurl:"shopdisplayproducts.asp"
+filetype:axd inurl:/elmah.axd
+filetype:bak (inurl:php | inurl:asp | inurl:rb)
+filetype:bak inurl:"htaccess|passwd|shadow|htusers"
+filetype:bak inurl:php "mysql_connect"
+filetype:blt blt +intext:screenname
+filetype:cfg ks intext:rootpw -sample -test -howto
+filetype:cgi inurl:"Web_Store.cgi"
+filetype:cgi inurl:"fileman.cgi"
+filetype:cgi inurl:"irc.cgi" | intitle:"CGI:IRC Login"
+filetype:cgi inurl:cachemgr.cgi
+filetype:cgi inurl:nbmember.cgi
+filetype:cgi inurl:pdesk.cgi
+filetype:cgi inurl:tseekdir.cgi
+filetype:cnf inurl:_vti_pvt access.cnf
+filetype:conf intext:"Footer Powered By"
+filetype:conf inurl:firewall -intitle:cvs
+filetype:conf inurl:proftpd.conf -sample
+filetype:conf inurl:psybnc.conf "USER.PASS="
+filetype:conf inurl:unrealircd.conf -cvs -gentoo
+filetype:config config intext:appSettings "User ID"
+filetype:config inurl:web.config inurl:ftp
+filetype:csv intext:"Secret access key"
+filetype:cwr inurl:apstoken
+filetype:dat inurl:Sites.dat
+filetype:dat inurl:pass.dat
+filetype:eml eml +intext:"Subject" +intext:"From"
+filetype:eml eml +intext:"Subject" +intext:"From" +intext:"To"
+filetype:env intext:"APP_ENV"
+filetype:env intext:APP_NAME
+filetype:env intext:AWS_SECRET
+filetype:env intext:REDIS_PASSWORD
+filetype:env intext:mail_host + intext:bluehost
+filetype:git -github.com inurl:"/.git"
+filetype:inc inc intext:setcookie
+filetype:inc intext:mysql_connect
+filetype:inf inurl:capolicy.inf
+filetype:ini Desktop.iniintext:mydocs.dll
+filetype:ini inurl:"serv-u.ini"
+filetype:ini inurl:flashFXP.ini
+filetype:lic lic intext:key
+filetype:log intext:"ConnectionManager2"
+filetype:log intext:("apache2" | "htdocs")
+filetype:log intext:org.apache.hadoop.hdfs
+filetype:log inurl:"log" "[SERVER_SOFTWARE]"
+filetype:log inurl:paypal
+filetype:mbx mbx intext:Subject
+filetype:mdb inurl:"news/news"
+filetype:mdb inurl:users.mdb
+filetype:pac inurl:"/proxy"
+filetype:pass pass intext:userid
+filetype:pdf intitle:"SSL Report"
+filetype:pem intext:private
+filetype:php inanchor:c99 inurl:c99 intitle:c99shell -seeds -marijuana
+filetype:php intext:"!C99Shell v. 1.0 beta"
+filetype:php intext:"PROJECT HONEY POT ADDRESS DISTRIBUTION SCRIPT"
+filetype:php intext:Your Email: intext:Your Name: intext:Reply-To: intext:mailer
+filetype:php intitle:"paNews v2.0b4"
+filetype:php inurl:"logging.php" "Discuz" error
+filetype:php inurl:"viewfile" -"index.php" -"idfil
+filetype:php inurl:"webeditor.php"
+filetype:php inurl:index.php inurl:"module=subjects" inurl:"func=*" (listpages| viewpage | listcat)
+filetype:php inurl:ipinfo.php "Distributed Intrusion Detection System"
+filetype:php inurl:nqt intext:"Network Query Tool"
+filetype:php inurl:tiki-index.php +sirius +1.9.*
+filetype:php inurl:vAuthenticate
+filetype:pl -intext:"/usr/bin/perl" inurl:webcal (inurl:webcal | inurl:add | inurl:delete | inurl:config)
+filetype:pl intitle:"Ultraboard Setup"
+filetype:pot inurl:john.pot
+filetype:psp intitle:"Motorola - FX9500"
+filetype:pst inurl:"outlook.pst"
+filetype:pub inurl:ssh
+filetype:pwd intitle:index
+filetype:rcf inurl:vpn
+filetype:reg reg +intext:"internet account manager"
+filetype:reg reg +intext:Ã¢? WINVNC3Ã¢?
+filetype:reg reg +intext:ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂWINVNC3ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â
+filetype:reg reg +intext:â? WINVNC3â?
+filetype:sql intext: "sql dump"
+filetype:sql intext:wp_users phpmyadmin
+filetype:sql inurl:wp-content/backup-*
+filetype:svn -gitlab -github inurl:"/.svn"
+filetype:tpl intext:mysql_connect
+filetype:txt inurl:wp-config.txt
+filetype:txt inurl:~~Wordpress2.txt
+filetype:url +inurl:"ftp://" +inurl:";@"
+filetype:url +inurl:"ftp://" +inurl:"@"
+filetype:xls inurl:"email.xls"
+filetype:xml inurl:/WEB-INF/ inurl:ftp:// -www
+filetype:xml inurl:sitemap
+fitweb-wwws * server at intitle:index.of
+hardware | software "migration" intitle:index.of ext:xls | xlsx | doc | docx | pdf
+http://www.google.com/search?q=intitle:%22Network+Storage+Link+for+USB+2.0+Disks%22+Firmware#=100&hl=en&lr=&c2coff=1&safe=off&filter=0
+http://www.google.com/search?q=intitle:%22Webview+Logon+Page%22&filter=0
+http://www.google.com/search?source=ig&hl=fr&rlz=&q=allinurl:+Category.php%3FIndustrYID%3D
+https://paper.dropbox.com inurl:/doc/
+httrack inurl:hts-log.txt ext:txt -github.com
+intext: "Powered by Marinet"
+intext: "Site developed & mantained by Woodall Creative Group"
+intext: "admin" "subscribe" filetype:php
+intext: Copyright+MantisBT Group
+intext: intext: intext: intext: intext:
+intext:" - 2019 Cott Systems, Inc."
+intext:" Design & Developed by Antique Touch - INDIA"
+intext:" Website Design and Hosting By Netricks, Inc."
+intext:" Welcome to DSL-2730B Web Management"
+intext:""BiTBOARD v2.0" BiTSHiFTERS Bulletin Board"
+intext:"(c) GUnet 2003-2007"
+intext:"-----BEGIN CERTIFICATE-----" ext:txt
+intext:"/LM/W3SVC/" ext:asp
+intext:"/showme.asp" HTTP_ACCEPT
+intext:"/webdynpro/resources/sap.com/"
+intext:"/wp-content/uploads/wpsc/"
+intext:"2000-2001 The phpHeaven Team"
+intext:"2000-2001 The phpHeaven Team" -sourceforge
+intext:"2008" intext:"OpenERP SA" intitle:"Login"
+intext:"2009 PLANET Technology Corporation"
+intext:"2016 SAP AG. All rights reserved." intitle:"Logon"
+intext:"404 Object Not Found" Microsoft-IIS/5.0
+intext:"@gmail.com" AND intext:"@yahoo.com" filetype:sql
+intext:"@gmail.com" ext:log
+intext:"@outlook.com" ext:log
+intext:"Access denied for" intitle:"Shopping cart"
+intext:"Any time & Any where" AND "Customer Login"
+intext:"Brought to you by eVetSites"
+intext:"Build dashboard" intext:"Project" intext:"Plan" intext:"Build"
+intext:"CAD Media Log"
+intext:"Calendar Program Ãƒâ€šÃ‚Â© Copyright 1999 Matt Kruse" "Add an event"
+intext:"Centreon 2005-2019"
+intext:"Cisco Webui - Login" -www -cisco.com
+intext:"Connection" AND "Network name" AND " Cisco Meraki cloud" AND "Security Appliance details"
+intext:"Created by John Caruso" intext:"Created with Simple PHP Photo Gallery"
+intext:"Current Configuration:" ext:cfg -git
+intext:"Design by BB Media.Org"
+intext:"Design by MMA Creative"
+intext:"Designed by Spaceacre"
+intext:"Device Name" | intext:"Host Name" inurl:mainFrame.cgi
+intext:"Dr.Web (R) Anti-virus. Virus base add-on" + ext:txt
+intext:"Dumping data for table `orders`"
+intext:"END_FILE" ext:log
+intext:"EQ1PCI"
+intext:"EWS Data Collection and Use"
+intext:"EZGuestbook"
+intext:"English for dummies"
+intext:"Error Message : Error loading required libraries."
+intext:"Error Occurred While Processing Request"
+intext:"Event List 0.8 Alpha by schlu.net "
+intext:"Fatal error: Class 'Red_Action' not found in"
+intext:"Forum software by XenForo™"
+intext:"Frame rate" inurl:/home/homej.html
+intext:"Free Ecommerce Shopping Cart Software by ViArt" +"Your shopping cart is empty!" + "Products Search" +"Advanced Search" + "All Categories"
+intext:"Full path to a .htpasswd file in this dir:" filetype:php
+intext:"Healthy" + "Product model" + " Client IP" + "Ethernet"
+intext:"Hello visitor from" ext:asp
+intext:"I'm using a public or shared computer" & intext:"Remote Web Workplace"
+intext:"INTERNAL USE ONLY" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx
+intext:"Icecast Administration Admin Page" intitle:"Icecast Administration Admin Page"
+intext:"Incom CMS 2.0"
+intext:"Index of /.git"
+intext:"Index of /chatlogs"
+intext:"Index of /database"
+intext:"Index of" "email.txt"
+intext:"Index of" "services.php | pass.php | passwd.php | credentials.txt"
+intext:"Index of" intext:"config.zip"
+intext:"Index of" intext:"users.zip"
+intext:"Infinitium Copyrights Reserved"
+intext:"Inserire il proprio codice per accedere al sistema" "Inserire codice"
+intext:"Kalimat news system v 1.0"
+intext:"LANCOM 1781VA (over ISDN)"
+intext:"Lancom" intitle:"Router - Login" -.com
+intext:"Launch FortiClient" and "Please Login"
+intext:"LinPHA Version" intext:"Have fun"
+intext:"Live View" inurl:ui3.htm
+intext:"Login | Password" AND intext:"Powered by | username" AND intext:Drupal AND inurl:user
+intext:"M3R1C4 SHELL BACKDOOR"
+intext:"Marketing Web Design - Posicionamiento en Buscadores"
+intext:"Master Account" "Domain Name" "Password" inurl:/cgi-bin/qmailadmin
+intext:"Microsoft(R) Server Maintenance Utility (Unicode)" ext:txt
+intext:"Not to be distributed" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx
+intext:"Number of Requests for items accessed on this Server"
+intext:"Open Game Panel 2021"
+intext:"PHP Version " ext:php intext:"disabled" intext:"Build Date" intext:"System" intext:"allow_url_fopen"
+intext:"Parlic Design" inurl:id
+intext:"PhpGedView Version" intext:"final - index" -inurl:demo
+intext:"Please Authenticate" intitle:Peakflow
+intext:"Please enable JavaScript in your browser before using Citrix Receiver." AND intext:www.citrix.com
+intext:"Please select file to upload:" ext:php
+intext:"Please select your account" intext:"SSL Login"
+intext:"Portador do CPF"
+intext:"Powered By : SE Software Technologies" filetype:php
+intext:"Powered By : Yamamah Version 1.00"
+intext:"Powered By Azaronline.com"
+intext:"Powered By Geeklog" -geeklog.net
+intext:"Powered By Gila CMS"
+intext:"Powered By WorldPay" inurl:productdetail.php
+intext:"Powered By: Snitz Forums 2000 Version 3.4.00..03"
+intext:"Powered By: TotalIndex" intitle:"TotalIndex"
+intext:"Powered by (Quantum | Quantum CMS | CMS)
+intext:"Powered by 74cms v5.0.1"
+intext:"Powered by Abyss Web Server"
+intext:"Powered by Arcade Builder"
+intext:"Powered by Atomic Photo Album 1.1.0pre4"
+intext:"Powered by BOMGAR"
+intext:"Powered by CLscript.com"
+intext:"Powered by Community CMS"
+intext:"Powered by CubeCart 3.0.6" intitle:"Powered by CubeCart"
+intext:"Powered by DEV web management system" -dev-wms.sourceforge.net -demo
+intext:"Powered by DZOIC Handshakes Professional"
+intext:"Powered by EZPub"
+intext:"Powered by FXRecruiter"
+intext:"Powered by Firebrand Technologies"
+intext:"Powered by Inventory Mojo Software."
+intext:"Powered by Lore 1.5.6"
+intext:"Powered by Max.Blog"
+intext:"Powered by Nesta"
+intext:"Powered by Nibbleblog"
+intext:"Powered by OnePlug CMS"
+intext:"Powered by PHPCityPortal.com"
+intext:"Powered by Pc4Uploader v9.0"
+intext:"Powered by Piwigo"
+intext:"Powered by Plogger!" -plogger.org
+intext:"Powered by Plogger!" -plogger.org -ihackstuff -exploit
+intext:"Powered by Ramaas Software"
+intext:"Powered by Sentora" -github.com
+intext:"Powered by SimpleBBS v1.1"*
+intext:"Powered by SmarterTrack"
+intext:"Powered by Synnefo"
+intext:"Powered by Typesetter"
+intext:"Powered by ViewVC" | intitle:"ViewVC Repository Listing"
+intext:"Powered by VoiceCMS"
+intext:"Powered by WSN Links Basic Edition"
+intext:"Powered by YouPHPTube"
+intext:"Powered by YzmCMS"
+intext:"Powered by eDocStore"
+intext:"Powered by eStore v1.0.2"
+intext:"Powered by flatnuke-2.5.3" +"Get RSS News" -demo
+intext:"Powered by net2ftp"
+intext:"Powered by phpBB 2.0.13" inurl:"cal_view_month.php"|inurl:"downloads.php"
+intext:"Powered by phpFastNews"
+intext:"Powered by phpSQLiteCMS" | intitle:"phpSQLiteCMS - A simple & lightweight CMS"
+intext:"Powered by pppblog"
+intext:"Powered by simplog"
+intext:"Powered by the 1-2-3 music store"
+intext:"Powered by www.yawcam.com"
+intext:"Powered by: Adobe PrintGear" inurl:admin
+intext:"Powered by: Virtual War v1.5.0"
+intext:"Published with Textpattern CMS"
+intext:"RPG Inferno is not available to guests" or intext:"Battle Ground Â· Clans Â· Store Â· Jobs Â· Auction Â· Spells Shop Â· Statistics Â· Member List"
+intext:"Ready with 10/100T Ethernet"
+intext:"Real-time IP Camera Monitoring System" intext:"ActiveX Mode (For IE Browser)"
+intext:"Remository 3.25. is technology by Black Sheep Research"
+intext:"Rubicon Communications, LLC (Netgate)" intitle:"Login"
+intext:"SQL" && "DB" inurl:"/runtime/log/"
+intext:"Security is Off" intitle:"Namenode information"
+intext:"Service provided by Horos."
+intext:"Session Start * * * *:*:* *" filetype:log
+intext:"Set objConn=Server.CreateObject("ADODB.Connection")" ext:asp
+intext:"Site by Triware Technologies Inc"
+intext:"SonarQube" + "by SonarSource SA." + "LGPL v3"
+intext:"SteamUserPassphrase=" intext:"SteamAppUser=" -"username" -"user"
+intext:"Storage Management Server for" intitle:"Server Administration"
+intext:"Sw Bilgi" ext:php
+intext:"Switch Administrator" inurl:config/log_off_page
+intext:"TCPDFtcpdf.php on line 17778" -stackoverflow -wordpress -github
+intext:"Target Multicast Group" "beacon"
+intext:"Thank you for using BIG-IP."
+intext:"Thank you for your purchase/trial of ALWIL Software products.:"
+intext:"Thehacker - Agd_Scorp - BLaSTER - Cr@zy_King - KinSize - JeXToXiC - s3f4 - rx5"
+intext:"This computer system is the property of" -error
+intext:"This is Apache Hadoop release" "Local Logs"
+intext:"This is the default welcome page used to test the correct operation of the Apache2 server"
+intext:"This page displays the general system information of the print server."
+intext:"This site is using phpGraphy" | intitle:"my phpgraphy site"
+intext:"Tobias Oetiker" "traffic analysis"
+intext:"TopManage (R) 2002 - 2020"
+intext:"Type in Username and Password, then click Ok" intitle:"log in"
+intext:"UAA (MSB)" Lexmark -ext:pdf
+intext:"Unexpected Problem Occurred!" ext:aspx
+intext:"Videoconference Management System" ext:htm
+intext:"W E L C O M E to R O O T" ext:cfg OR ext:log OR ext:txt
+intext:"WPENGINE_SESSION_DB_USERNAME" || "WPENGINE_SESSION_DB_PASSWORD"
+intext:"Warning: * am able * write ** configuration file" "includes/configure.php" -
+intext:"Warning: * am able * write ** configuration file" "includes/configure.php" -Forums
+intext:"Warning: Failed opening" "on line" "include_path"
+intext:"Web Application Report" intext:"This report was created by IBM Security AppScan" ext:pdf
+intext:"Web Design by Webz" filetype:asp
+intext:"Web Wiz Journal"
+intext:"Web design by goffgrafix.com"
+intext:"Welcome Admin"
+intext:"Welcome Site/User Administrator"
+intext:"Welcome to CodeIgniter!"
+intext:"Welcome to Huawei web page for network configuration."
+intext:"Welcome to JIRA" "Powered by a free Atlassian Jira community"
+intext:"Welcome to Taurus" "The Taurus Server Appliance" intitle:"The Taurus Server Appliance"
+intext:"Welcome to ZXHN H198A"
+intext:"Welcome to the Web V.Networks" intitle:"V.Networks [Top]" -filetype:htm
+intext:"Welcome to" inurl:"cp" intitle:"H-SPHERE" inurl:"begin.html" -Fee
+intext:"Welcome! Log in or create an account to continue."
+intext:"You may also donate through the Moneybookers account mb@dd-wrt"
+intext:"Your client connection" + "Network name" + "Hardware address"
+intext:"[***] Results from" + ext:txt + "snort-"
+intext:"adobe coldfusion 8"
+intext:"amcrest" "LDAP User"
+intext:"change your SurgeMAIL account settings"
+intext:"civicplus" "Login"
+intext:"class JConfig {" inurl:configuration.php
+intext:"config" intitle:"Index of .ssh"
+intext:"d.aspx?id" || inurl:"d.aspx?id"
+intext:"default values: admin/1234"
+intext:"define('DB_NAME'," ext:txt
+intext:"docs.google.com/forms/d/"
+intext:"dspace.cfg" "db.username = dspace"
+intext:"eav" filetype:txt
+intext:"enable secret 5 $"
+intext:"evetsites" "Login"
+intext:"expects parameter 1 to be resource, boolean given" filetype:php
+intext:"helpdesk software provided by deskpro"
+intext:"https://chat.whatsapp.com/invite/" intitle:"Your Search For Company/Subject/Whatever"
+intext:"jPORTAL 2" inurl:"mailer.php"
+intext:"pLink 2.07"
+intext:"phpbb - auction" inurl:"auction"
+intext:"powered and designed by Dow Group"
+intext:"powered by BlueCMS v1.6"
+intext:"powered by EZGuestbook"
+intext:"powered by Hosting Controller" intitle:Hosting.Controller
+intext:"powered by Milonic" inurl:viewnews.php?id=
+intext:"powered by Web Wiz Journal"
+intext:"powered by enboard" "portal"
+intext:"powered by gcards" -ihackstuff -exploit
+intext:"powered by itaco group"
+intext:"powered by tincan ltd"
+intext:"powered by webcamXP 5"
+intext:"root:x:0:0:root:/root:/bin/bash" inurl:*=/etc/passwd
+intext:"series Network Configuration" AND intext:"canon"
+intext:"sf_app" + "frontend sf_app_base_cache_dir:"
+intext:"sign up" "**" filetype:php
+intext:"sitemap" filetype:txt
+intext:"sitio web diseñado por www.toronja.com.pe"
+intext:"softperms.txt" ext:TXT
+intext:"the WordPress" inurl:wp-config ext:txt
+intext:"token" filetype:log "authenticate"
+intext:"untitled" intext:"admin" filetype:php
+intext:"user name" intext:"orion core" -solarwinds.com
+intext:"vbulletin" inurl:admincp
+intext:"you to handle frequent configuration jobs easily and quickly" | intitle:"Show/Search other devices"
+intext:"~~Joomla1.txt" title:"Index of /"
+intext:"© Tainos Webdesign"
+intext:'Powered by ProArcadeScript ' inurl:'game.php?id='
+intext:----- Begin SAP License ----- ext:txt
+intext:/homedir/.cpanel-datastore/
+intext:/wp-content/plugins/woocommerce/templates/emails/plain/
+intext:2001.-.2018.umbraco.org ext:aspx
+intext:5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8 AND (ext:txt OR ext:csv OR ext:xls OR ext:lst)
+intext:@print.epsonconnect.com intitle:series
+intext:@pwcache "parent directory"
+intext:Apache/2.2.29 (Unix) mod_ssl/2.2.29 | intitle:"Index of /"
+intext:Authorization: Bearer filetype:log
+intext:Basato su Comunicazioni Integrate IceWarp
+intext:Basato su IceWarp Server
+intext:Connect.with.Finalsite intitle:admin -facebook
+intext:DB_PASSWORD ext:env
+intext:DB_PASSWORD || intext:"MySQL hostname" ext:txt
+intext:Design by: runt communications
+intext:Developed By Black.Hack3r ext:php
+intext:Generated.by.phpix.1.0? inurl:$mode=album
+intext:ISUR_MACHINE IIS -log
+intext:JSESSIONID OR intext:PHPSESSID inurl:access.log ext:log
+intext:Modified files in JOE when it aborted on JOE was aborted because the terminal closed
+intext:OLD_FOREIGN_KEY_CHECKS"; = ext:txt
+intext:Omeka*Username Powered.by.Omeka inurl:admin -github -omeka.org
+intext:OpenCart inurl:index.php?route=common/dashboard
+intext:PHPhotoalbum v0.5
+intext:Paessler AG - The Network Monitoring Company inurl:/index.htm intitle:"Welcome | PRTG Network Monitor" -"User Manual"
+intext:Powered By vBulletin 5.5.4 inurl:forum.
+intext:Powered by 2Moons 2009-2013
+intext:Powered by AWCM v2.1
+intext:Powered by CPA Site Solutions
+intext:Powered by Infront
+intext:Powered by MX-System 2.7.3
+intext:Powered by Mobilelib Gold v3
+intext:Powered by SaphpLesson 4.0
+intext:Project hosted at: For support, contact: Copyright Openbravo
+intext:Provided by ProjectSend
+intext:SOAP 1.1 intext:SOAP 1.2 intext:UPLOAD intext:GET intext:POST inurl:op
+intext:SQL syntax & inurl:index.php?=id & inurl:gov & inurl:gov
+intext:SQLiteManager inurl:main.php
+intext:Server.MapPath(".mdb") ext:asp
+intext:Table structure for table `wp_users` filetype:sql
+intext:VIEWS · Server: - Database: information_schema - Table: SCHEMA_PRIVILEGES · Browse · Structure · SQL · Search · Export
+intext:ViewCVS inurl:Settings.php
+intext:ZAP Scanning Report Summary of Alerts ext:html
+intext:[To Parent Directory] & ext:sql | ext:cnf | ext:config | ext:log
+intext:admin ext:sql inurl:admin
+intext:api_key filetype:log
+intext:backup.sql intitle:index.of
+intext:bbdd index.of "/" "Parent Directory"
+intext:build:SVNTag= JBoss intitle:Administration Console inurl:web-console
+intext:centreware inurl:status
+intext:charset_test= email= default_persistent=
+intext:clave inurl:admin.php
+intext:connectionString & inurl:web & ext:config
+intext:construct('mysql:host
+intext:cv OR intext:curriculum vitae "passport details" ext:doc -template
+intext:cv OR intext:curriculum vitae AND intext:"SSN" ext:doc
+intext:database inurl:"laravel.log" ext:log
+intext:db_pass inurl:settings.ini
+intext:define('AUTH_KEY',     ' wp-config.php filetype:txt
+intext:elkagroup Image Gallery v1.0
+intext:gmail invite intext:http://gmail.google.com/gmail/a
+intext:jdbc:oracle filetype:java
+intext:pass filetype:txt
+intext:piwik "Sign in"
+intext:powered by JoomSport - sport WordPress plugin
+intext:private_key filetype:log
+intext:reports filetype:cache
+intext:swagger filetype:log
+intext:uploadOverwrite || intext:OPEN || intext:cwd
+intext:user.sql intitle:index.of
+intext:xampp-dav-unsecure:$apr1$6O9scpDQ$JGw2Tjz0jkrqfKh5hhiqD1
+intext:Â©2003-2008 RC v3.1 Developed by: GA Soft
+intitle: "Generated by Acunetix WVS Reporter"
+intitle: "Index of ipcam"
+intitle: "Index of" intext:log
+intitle: "Index of" inurl:admin/uploads
+intitle: "Index of" inurl:fileadmin
+intitle: "Library System by YahooBaba"
+intitle: "Nexus Repository Manager"
+intitle: "Welcome to nginx!" + "Thank you for using nginx."
+intitle: "access log" filetype: txt
+intitle: "index" inurl: log
+intitle: "phpshell" "Php Safe-Mode Bypass"
+intitle: Index of /assets/admin/system
+intitle: Index of /awstats/data
+intitle: phpBazar-AdminPanel
+intitle:" - General Status [none]"
+intitle:" - Revision" + "subversion version"
+intitle:" SyncThru Web Service" intext:"Supplies Information"
+intitle:" TROJANS" Analysis Report
+intitle:"(SSI Web Shell)" AND intext:"(ls -al)"
+intitle:"*Admin Intranet Login"
+intitle:"-N3t" filetype:php undetectable
+intitle:".:: Welcome to the Web-Based Configurator::." & intext:"Welcome to your router Configuration Interface"
+intitle:"300 multiple choices"
+intitle:"3CX Phone System Management Console"
+intitle:"404 SC_NOT_FOUND"
+intitle:"4images - Image Gallery Management System" and intext:"Powered by 4images 1.7.1"
+intitle:"500 Internal Server Error" "server at"
+intitle:"::: ACEmanager :::"
+intitle:"::: Login :::" & intext:"Customer Login" & "Any time & Any where"
+intitle:"::::: INTELLINET IP Camera Homepage :::::
+intitle:"=[ 1n73ct10n privat shell ]="
+intitle:"A Better ASP User Gallery"
+intitle:"ACEmanager" "ALEOS Version"
+intitle:"ADSL Configuration page"
+intitle:"AP Router New Generation" intext:"Status do AP Router"
+intitle:"API Publisher- Login"
+intitle:"AR-*" "browser of frame dealing is necessary"
+intitle:"ASP Stats Generator *.*" "ASP Stats Generator" "2003-2004 weppos"
+intitle:"ASP inline corporate calendar" inurl:.asp?id=
+intitle:"ASUS Login" "SIGN IN"
+intitle:"ASUS" AND inurl:"Main_Login.asp" AND intext:"router account" -asus.com
+intitle:"AXIS 240 Camera Server" intext:"server push" -help
+intitle:"Accueil WAMPSERVER" intext:"Configuration Serveur"
+intitle:"Advanced Setup - Security - Admin User Name & Password"
+intitle:"AdventNet ManageEngine ServiceDesk Plus" intext:"Remember Me"
+intitle:"Agent web client: Phone Login"
+intitle:"Alarm Panel" intext:"Climax Tech. Co., Ltd."
+intitle:"AlternC Desktop"
+intitle:"Answer Builder" Ask a question
+intitle:"Apache Flink Web Dashboard"
+intitle:"Apache HTTP Server" intitle:"documentation"
+intitle:"Apache Status" "Apache Server Status for"
+intitle:"Apache Status" | intext:"Apache Server Status"
+intitle:"Apache Tomcat" "Error Report"
+intitle:"Apache2 Debian Default Page: It works"
+intitle:"Apache2 Ubuntu Default Page: It works"
+intitle:"Apache::Status" (inurl:server-status | inurl:status.html | inurl:apache.html)
+intitle:"AppServ Open Project *" "AppServ is a merging open source software installer package" -phpbb
+intitle:"Asus Login" inurl:Main_Login.asp
+intitle:"Athens Authentication Point"
+intitle:"AudioReQuest.web.server"
+intitle:"Authorization" "TF" inurl:"admin.php"
+intitle:"Axis Happiness Page" "Examining webapp configuration"
+intitle:"Azureus : Java BitTorrent Client Tracker"
+intitle:"BNBT Tracker Info"
+intitle:"Backup-Management (phpMyBackup v.0.4 beta * )" -johnny.ihackstuff
+intitle:"BadBlue: the file-sharing web server anyone can use"
+intitle:"Belarc Advisor Current Profile" intext:"Click here for Belarc's PC Management products, for large and small companies."
+intitle:"Big Sister" +"OK Attention Trouble"
+intitle:"Biromsoft WebCam" -4.0 -serial -ask -crack -software -a -the -build -download -v4 -3.01 -numrange:1-10000
+intitle:"Blue Iris Login"
+intitle:"Blue Iris Remote View"
+intitle:"BlueNet Video Viewer"
+intitle:"BoardPAC - Board Paper and Credit Proposal Management System"
+intitle:"BorderManager Information alert"
+intitle:"BorderWare MXtreme Mail Firewall Login"
+intitle:"Bosch Security Systems" "LIVEPAGE" + "SETTINGS" -.net -.com
+intitle:"Bose SoundTouch Wi-Fi Music System Setup" inurl:"/setup/index.asp"
+intitle:"Brother" intext:"View Configuration" intext:"Brother Industries, Ltd."
+intitle:"Browser Launch Page"
+intitle:"Burp Scanner Report" | "Report generated by Burp Scanner"
+intitle:"C-more -- the best HMI presented by AutomationDirect"
+intitle:"CCMS v3.1 Demo PW"
+intitle:"CGIWrap Error"
+intitle:"CJ Link Out V1"
+intitle:"CPPLUS DVR -Web View"
+intitle:"CPU-Modul TROVIS 6610"
+intitle:"Cacti" AND inurl:"/monitor/monitor.php"
+intitle:"Calendarix Admin Login"
+intitle:"Cambium" inurl:top.cgi
+intitle:"Camera Status" inurl:/control/
+intitle:"Cayman-DSL.home"
+intitle:"Check Point - Login"
+intitle:"Chorus 2 - Kodi web interface"
+intitle:"CirCarLife Scada" inurl:/html/index.html
+intitle:"Cisco ASDM" inurl:"admin/public/index.html"
+intitle:"Cisco CallManager User Options Log On" "Please enter your User ID and Password in the spaces provided below and click the Log On button to co
+intitle:"Cisco Email Security Virtual Appliance" inurl:csrfkey=
+intitle:"Cisco Integrated Management Controller Login"
+intitle:"Codian MCU" "MCU" "Home Streaming Conferences"
+intitle:"ColdFusion Administrator Login"
+intitle:"Component Browser Login"
+intitle:"Comrex ACCESS Rack"
+intitle:"ContaCam" "Snapshot Image"
+intitle:"Control Panel" + emailmarketer
+intitle:"Control panel" "Control Panel Login" ArticleLive inurl:admin -demo
+intitle:"Current Network Status" "Nagios"
+intitle:"D-LINK CORPORATION, INC" intext:"D-Link Corporation, Inc." -dlink.ca
+intitle:"D-LINK SYSTEMS, INC. | WIRELESS AP : LOGIN"
+intitle:"D-LINK SYSTEMS, INC. | WIRELESS ROUTER | HOME" inurl:"status.php"
+intitle:"D-LINK SYSTEMS, INC. | Web File Access : Login"
+intitle:"D-LINK" inurl:Login.html
+intitle:"D-Link VoIP Router" "Welcome"
+intitle:"D-link" intext:"SharePort Web Access" "Hardware Version" "Firmware Version"
+intitle:"DD-WRT (build 21061) - Info"
+intitle:"DEFAULT_CONFIG - HP"
+intitle:"DEVICE" "Real-time IP Camera Monitoring System"
+intitle:"DGS-3100 Login"
+intitle:"DIAM4 Login"
+intitle:"DSM Terminator [ ABORT ]" | inurl:"./com.sap.portal.dsm.Terminator"
+intitle:"DSM mobile" intext:"Loading..."
+intitle:"DUcalendar 1.0"
+intitle:"DVR Client" -the -free -pdf -downloads -blog -download -dvrtop
+intitle:"DVR LOGIN" -com
+intitle:"DVR Web client"
+intitle:"DVR+Web+Client"
+intitle:"Dacio's Image Gallery"
+intitle:"Dashboard [Jenkins]"
+intitle:"Dashboard [Jenkins]" Credentials
+intitle:"Dashboards" AND inurl:"/zabbix/zabbix.php?action=dashboard.list"
+intitle:"Default PLESK Page"
+intitle:"Dell *" inurl:port_0
+intitle:"Dell Laser Printer *" port_0 -johnny.ihackstuff
+intitle:"Dell Laser Printer M5200" port_0
+intitle:"Dell Laser Printer" ews
+intitle:"Dell OpenManage Switch Administrator" intext:"Type in Username and Password, then click OK"
+intitle:"Dell Remote Access Controller"
+intitle:"Dell SonicWALL - Authentication"
+intitle:"Dell SonicWALL - Authentication" inurl:auth.html
+intitle:"Deluge: Web UI 1.3"
+intitle:"Deluge: Web UI" inurl:":8112"
+intitle:"Dericam" "Remember Me"
+intitle:"Device Status Summary Page" -demo
+intitle:"Device(" AND intext:"Network Camera" AND "language:" AND "Password"
+intitle:"Device(" intext:"ActiveX Mode (For IE Browser)"
+intitle:"Device(Foscam)" "Real-time IP Camera Monitoring System"
+intitle:"Device(IP CAMERA)" "language" -com|net
+intitle:"DirectAdmin Login" "Please enter your Username and Password"
+intitle:"Directory Listing For /" + inurl:webdav tomcat
+intitle:"Directory Listing For" "Filename" intext:Tomcat/5.0.28
+intitle:"Directory Listing For" intext:Tomcat -int
+intitle:"Directory Listing" "tree view"
+intitle:"Directory Listing, Index of /*/"
+intitle:"Divar Web Client"
+intitle:"DocuShare" inurl:"docushare/dsweb/" -faq
+intitle:"DocuShare" inurl:"docushare/dsweb/" -faq -gov -edu
+intitle:"Document title goes here" intitle:"used by web search tools" " example of a simple Home Page"
+intitle:"Docutek ERes - Admin Login" -edu
+intitle:"Domain Default page" "Parallels IP Holdings GmbH"
+intitle:"EMUMAIL - Login" "Powered by EMU Webmail"
+intitle:"ERROR: The requested URL could not be retrieved" "While trying to retrieve the URL" "The following error was encountered:"
+intitle:"EXTRANET * - Identification"
+intitle:"EZPartner" -netpond
+intitle:"Edr1680 remote viewer"
+intitle:"Employee Intranet Login"
+intitle:"Enabling Self-Service Procurement"
+intitle:"Environment Variables" inurl:/cgi-bin/
+intitle:"EnvisionGateway" "scheduler" "control"
+intitle:"Epson Web Control" "OSD Control Pad"
+intitle:"EpsonNet WebAssist Rev"
+intitle:"Error Occurred While Processing Request"
+intitle:"Error Occurred While Processing Request" +WHERE (SELECT|INSERT) filetype:cfm
+intitle:"Error Occurred" "The error occurred in" filetype:cfm
+intitle:"Error log for /LM/"
+intitle:"Error using Hypernews" "Server Software"
+intitle:"Ethernet Network Attached Storage Utility"
+intitle:"EverFocus.EDSR.applet"
+intitle:"Everything" inurl:C:Windows
+intitle:"EvoCam" inurl:"webcam.html"
+intitle:"Exchange Log In"
+intitle:"Execution of this s?ri?t not permitted"
+intitle:"Execution of this script not permitted"
+intitle:"F660" intext:"ZTE Corporation. All rightsreserved."
+intitle:"FCKeditor - Connectors Tests"
+intitle:"FCKeditor - Uploaders Tests"
+intitle:"FTP root at"
+intitle:"Flash Operator Panel" -ext:php -wiki -cms -inurl:asternic -inurl:sip -intitle:ANNOUNCE -inurl:lists
+intitle:"Folder Listing" "Folder Listing" Name Size Date/Time File Folder
+intitle:"FormAssembly Enterprise :"
+intitle:"Fortinet - Login"
+intitle:"Frontier e-HR Login Page"
+intitle:"GCC WebAdmin" -gcc.ru
+intitle:"GLPI - Authentication"
+intitle:"GLPI - Аутентификация" intext:"GLPI Copyright"
+intitle:"Gallery in Configuration mode"
+intitle:"Ganglia" "Cluster Report for"
+intitle:"Gargoyle Router Management Utility" -com|net
+intitle:"Gargoyle Router Management Utility" intext:"Enter Admin Password"
+intitle:"Gateway Configuration Menu"
+intitle:"GigaDrive Utility"
+intitle:"GitBucket" intext:"Recent updated repositories" intext:"Sign In"
+intitle:"Gitea" "This website works better with JavaScript" "sign in" " Home" "Explore"-.com
+intitle:"GlassFish Server - Server Running"
+intitle:"GoAnywhere Web Client - Login"
+intitle:"Gophish - Login"
+intitle:"Greentree eHR" "Employee Code"
+intitle:"HD IP Camera" "Remember me" "User name" -.com -pdf
+intitle:"HFS /" +"HttpFileServer"
+intitle:"HFS" "Server Uptime" "Server time"
+intitle:"HFS" AND intext:"httpfileserver 2.3" AND -intext:"remote"
+intitle:"HP ALM" "Application Lifecycle Management" inurl:/qcbin/ -ext:PDF
+intitle:"HP ProCurve Switch *" "This product requi
+intitle:"Hamdida X_Shell Backd00r"
+intitle:"Hello! Welcome to Synology Web Station!"
+intitle:"Helm : The Web Hosting Control System"
+intitle:"HelpDesk" "If you need additional help, please email helpdesk at"
+intitle:"Home - Mongo Express"
+intitle:"Home" "Xerox Corporation" "Refresh Status"
+intitle:"Home-CUPS" intext:printers -mugs
+intitle:"Honeywell XL Web Controller - Login" (inurl:"standard/default.php" | inurl:"standard/header/header.php" | inurl:"standard/mainframe.php" | inurl:"standard/footer/footer.php" | inurl:"standard/update.php")
+intitle:"Honeywell XL Web Controller" intext:"systemadmin"
+intitle:"Horde :: My Portal" -"[Tickets"
+intitle:"HtmlAnvView:D7B039C1"
+intitle:"Huawei Inner Web"
+intitle:"Humatrix 8"
+intitle:"IBM iNotes Login" "Ultralite Login Screen"
+intitle:"IIS Windows Server"
+intitle:"IIS Windows Server" -inurl:"IIS Windows Server"
+intitle:"INTELLINET" intitle:"IP Camera Homepage"
+intitle:"IP CAMERA Viewer" intext:"setting | Client setting"
+intitle:"IP CAMERA" "User Login" "User Name" "Password" "Preview Stream"
+intitle:"IP Webcam" inurl:"/greet.html"
+intitle:"IPC CHIP Main Page" "Beck IPC GmbH"
+intitle:"IPC@CHIP Infopage"
+intitle:"IPCam Client"
+intitle:"IPCam" inurl:monitor2.htm
+intitle:"IQeye302 | IQeye303 | IQeye601 | IQeye602 | IQeye603" intitle:"Live Images"
+intitle:"ISPMan : Unauthorized Access prohibited"
+intitle:"ITS System Information" "Please log on to the SAP System"
+intitle:"ITech Bids"
+intitle:"IVC Control Panel"
+intitle:"Ice Hrm Login" intext:"Forgot Password"
+intitle:"IceWarp WebClient"
+intitle:"Icecast Administration Admin Page"
+intitle:"Icecast Streaming Media Server"
+intitle:"Icecast Streaming Media Server" "Icecast2 Status" -.com
+intitle:"Index Of" -inurl:maillog maillog size
+intitle:"Index Of" cookies.txt "size"
+intitle:"Index Of" cookies.txt size
+intitle:"Index Of" intext:".Trash"
+intitle:"Index Of" intext:".vscode"
+intitle:"Index Of" intext:"iCloud Photos" OR intext:"My Photo Stream" OR intext:"Camera Roll"
+intitle:"Index Of" intext:.ftpconfig
+intitle:"Index Of" intext:sftp-config.json
+intitle:"Index of *" inurl:"my shared folder" size modified
+intitle:"Index of *" mode links bytes last-changed name
+intitle:"Index of /" "Proudly Served by Surftown at"
+intitle:"Index of /" "joomla/database"
+intitle:"Index of /" "joomla_update.php"
+intitle:"Index of /" "mod_ssl 2.2.22 OpenSSL/1.0.1"
+intitle:"Index of /" +.htaccess
+intitle:"Index of /" +.htaccess.old
+intitle:"Index of /" intext:"pass.txt"
+intitle:"Index of /" inurl:(resume|cv)
+intitle:"Index of /" inurl:passport
+intitle:"Index of /" modified php.exe
+intitle:"Index of /CFIDE/" administrator
+intitle:"Index of /logs/" "lighttpd"
+intitle:"Index of /logs/" "nginx"
+intitle:"Index of /private/"
+intitle:"Index of c:\Windows"
+intitle:"Index of c:xampp"
+intitle:"Index of cd"
+intitle:"Index of ftp"
+intitle:"Index of" ".htpasswd" "htgroup" -intitle:"dist" -apache -htpasswd.c
+intitle:"Index of" ".htpasswd" htpasswd.bak
+intitle:"Index of" "Apache/2.4.49"
+intitle:"Index of" "Apache/2.4.7 (Ubuntu) Server"
+intitle:"Index of" "DCIM"
+intitle:"Index of" "DCIM/camera"
+intitle:"Index of" "Program files"
+intitle:"Index of" "Screenshot"
+intitle:"Index of" "WhatsApp Databases"
+intitle:"Index of" "WhatsApp Images"
+intitle:"Index of" "backup-audio-queue.log" OR "backup-audio.log" OR "backup-mysql.log"
+intitle:"Index of" "build-an-atom"
+intitle:"Index of" "ca-key.pem" OR "ca-req.pem"
+intitle:"Index of" "mail" "Inbox" "Sent"
+intitle:"Index of" "system32"
+intitle:"Index of" "wwwroot"
+intitle:"Index of" *.py
+intitle:"Index of" *.xlsx
+intitle:"Index of" .bash_history
+intitle:"Index of" .mysql_history
+intitle:"Index of" .sh_history
+intitle:"Index of" cfide
+intitle:"Index of" db.inc
+intitle:"Index of" db_mysql.inc
+intitle:"Index of" dbconnect.inc
+intitle:"Index of" dbconvert.exe chats
+intitle:"Index of" etc/shadow
+intitle:"Index of" finance.xls
+intitle:"Index of" htpasswd
+intitle:"Index of" intext:"Login Data"
+intitle:"Index of" intitle:"UserPro" -uploads
+intitle:"Index of" inurl:data/plugins/
+intitle:"Index of" inurl:wp-json/oembed
+intitle:"Index of" pass.txt
+intitle:"Index of" people.1st
+intitle:"Index of" phpinfo.php
+intitle:"Index of" phpmyadmin
+intitle:"Index of" portal
+intitle:"Index of" public
+intitle:"Index of" pwd.db
+intitle:"Index of" sc_serv.conf sc_serv content
+intitle:"Index of" secret
+intitle:"Index of" service.pwd
+intitle:"Index of" spwd.db passwd -pam.conf
+intitle:"Index of" test.logs
+intitle:"Index of" upload size parent directory
+intitle:"Index of" wp-admin
+intitle:"Index of" wp-config
+intitle:"Index of" wp-config.php
+intitle:"Index of" wp-content
+intitle:"Index of" wp-upload
+intitle:"Index of" ws_ftp.ini
+intitle:"Index of..etc" passwd
+intitle:"Index.Of.Applications (Parallels)" -stackoverflow -quora
+intitle:"Index.of" "attachments"
+intitle:"InfluxDB - Admin Interface" -github
+intitle:"InfoView" + "Log On to InfoView"
+intitle:"Installing TYPO3 CMS"
+intitle:"Insurance Admin Login" | "(c) Copyright 2020 Cityline Websites. All Rights Reserved." | "http://www.citylinewebsites.com"
+intitle:"Integrated Dell Remote Access Controller 6 - Enterprise"
+intitle:"Intelbras" "All Rights Reserved" -.com
+intitle:"Intelbras" inurl:cgi-bin/firmware.cgi?formNumber=200
+intitle:"InterJak Web Manager"
+intitle:"Internet Security Appliance" & intext:"Enter Password and click Login"
+intitle:"Internet Services" inurl:default.htm intext:"FUJI XEROX"
+intitle:"Intranet Login"
+intitle:"Iomega NAS Manager" -ihackstuff.com
+intitle:"JUNG KNX Smart-Panel" "JUNG Single Regular"
+intitle:"Java Applet Page" inurl:ml
+intitle:"Jax Formmailer - Administration"
+intitle:"Joomla - Web Installer"
+intitle:"Juniper Networks Web" "Log In"
+intitle:"KNX-IP-Gateway Login"
+intitle:"Keenetic Web"
+intitle:"Kurant Corporation StoreSense" filetype:bok
+intitle:"Kyocera Command Center" inurl:index.htm
+intitle:"LABVANTAGE Logon"
+intitle:"LK IHC controller" intext:"LK IHC"
+intitle:"LaserJet" "Device status" "Supplies summary"
+intitle:"Lexmark *" inurl:port_0
+intitle:"ListMail Login" admin -demo
+intitle:"Lists Web Service"
+intitle:"Live NetSnap Cam-Server feed"
+intitle:"Live View / - AXIS"
+intitle:"Live View / - AXIS" | inurl:view/view.sht
+intitle:"Live View / - AXIS" | inurl:view/view.shtml OR inurl:view/indexFrame.shtml | intitle:"MJPG Live Demo" | "intext:Select preset position"
+intitle:"LiveZilla Server Page"
+intitle:"LoRaWAN Login"
+intitle:"Local Run Manager" intext:"Local Run Manager Version:"
+intitle:"Log In - Juniper Web Device Manager"
+intitle:"Log In - Seafile Server"
+intitle:"Log In to AR Web"
+intitle:"Log In" "Access unsecured content without logging in"
+intitle:"Log in - WhatsUp Gold"
+intitle:"Login -
+intitle:"Login - Hitron technologies"
+intitle:"Login - Ipswitch WhatsUp Professional"
+intitle:"Login - OTRS" inurl:pl
+intitle:"Login - OpenStack Dashboard" inurl:"dashboard"
+intitle:"Login - Residential Gateway"
+intitle:"Login - Xfinity" AND "Gateway > Login"
+intitle:"Login - powered by Easy File Sharing Web
+intitle:"Login - splunk"
+intitle:"Login Forum
+intitle:"Login Forum Powered By AnyBoard" intitle:"If you are a new user:" intext:"Forum Powered By AnyBoard" inurl:gochat -edu
+intitle:"Login Page" intext:"Phone Adapter Configuration Utility"
+intitle:"Login page for" inurl:user.cgi
+intitle:"Login page" intext:"about SurgeMail"
+intitle:"Login to @Mail" (ext:pl | inurl:"index") -dwaffleman
+intitle:"Login to Cacti"
+intitle:"Login to Calendar"
+intitle:"Login to ICC PRO system"
+intitle:"Login to Redash"
+intitle:"Login to SDT-CS3B1"
+intitle:"Login" intext:"Herospeed Technology"
+intitle:"Login" intext:"IP Surveillance for Your Life"
+intitle:"Login" intext:"PLANET Technology Corporation. All rights reserved."
+intitle:"Login" intext:"Use Web Messaging Lite"
+intitle:"Login" intext:"cam"
+intitle:"Login" intext:"camera"
+intitle:"Login" inurl:"/itim/self" | inurl:"/itim/ui" -ibm.com
+intitle:"Login. MicroStrategy"
+intitle:"Logon - SAP Web Application Server"
+intitle:"Looking Glass v20040427" "When verifying
+intitle:"Lost Password Reset" | inurl:/secure/pwreset.php | inurl:/portal/index.php
+intitle:"MAXSITE"
+intitle:"MODBUS TCP RS485 Converter" intext:"Module Name: MMTCPBCONV" "powered by Atmel ARM."
+intitle:"MODX CMF Manager Login"
+intitle:"MRTG/RRD" 1.1* (inurl:mrtg.cgi | inurl:14all.cgi |traffic.cgi)
+intitle:"MX Control Console" "If you can't remember"
+intitle:"Mail - AfterLogic WebMail"
+intitle:"Mail Server CMailServer Webmail" "5.2"
+intitle:"Mail2000 Message System" "Openfind Information"
+intitle:"MailMan Login"
+intitle:"Malware Analysis Report"
+intitle:"ManageEngine Desktop Central 10" AND (inurl:configurations OR inurl:authorization)
+intitle:"ManageEngine ServiceDesk Plus" "domain" intext:"ManageEngine ServiceDesk Plus" -.com
+intitle:"Marshall VS Server"
+intitle:"MedDream" "Softneta" -.com
+intitle:"MediaAccess Gateway - Login" "access your MediaAccess Gateway"
+intitle:"Member Login" "NOTE: Your browser must have cookies enabled in order to log into the site." ext:php OR ext:cgi
+intitle:"Merak Mail Server Web Administration" -ihackstuff.com
+intitle:"Microseven M7CAM IP Camera"
+intitle:"Microsoft Internet Information Services 8" -IIS
+intitle:"Microsoft Site Server Analysis"
+intitle:"Microsoft+Outlook+Web+Access+Log+On" | inurl:/owa/auth/logon.aspx
+intitle:"Middle frame of Videoconference Management System" ext:htm
+intitle:"MikroTik RouterOS Managing Webpage"
+intitle:"Milesight Network Camera" intext:"Language"
+intitle:"Miniweb Start Page"
+intitle:"Miniweb Start Page" | "/CSS/Miniweb.css"
+intitle:"Mitel Standard Linux: Login Page"
+intitle:"Monsta ftp" intext:"Lock session to IP"
+intitle:"MultiView" "MultiView Events" "MOBOTIX"
+intitle:"Multimon UPS status page"
+intitle:"MvBlog powered"
+intitle:"My Book World Edition - MyBookWorld"
+intitle:"MyWebSQL" + "User ID: Password:"
+intitle:"NAS" inurl:indexeng.html
+intitle:"NETSurveillance WEB"
+intitle:"NETSuveillance WEB"
+intitle:"NUUO Network Video Recorder Login" "Language"
+intitle:"NVR LOGIN" -inurl:"nvr | com | www | net"
+intitle:"Namenode information"
+intitle:"Namenode information" AND inurl:":50070/dfshealth.html"
+intitle:"NeroNET - burning online"
+intitle:"Nessus Scan Report" "This file was generated by Nessus"
+intitle:"Nessus Scan Report" ext:html
+intitle:"Net2Phone Init Page"
+intitle:"NetBiter" intext:"based on NetBiter" -.com
+intitle:"NetBotz Network Monitoring Appliance"
+intitle:"NetCam Live Image" -.edu -.gov -johnny.ihackstuff.com
+intitle:"NetCamSC*"
+intitle:"NetCamSC*" | intitle:"NetCamXL*" inurl:index.html
+intitle:"NetCamXL*"
+intitle:"NetScaler AAA" inurl:logon/LogonPoint/tmindex.html
+intitle:"NetcamSC IP Address"
+intitle:"Netgear System Login" intext:"system name"
+intitle:"Netgear™ - NETGEAR Configuration Manager Login"
+intitle:"Netopia Router (*.)""to view this site"
+intitle:"Network Camera" inurl:main.cgi
+intitle:"Network Print Server" filetype:shtm ( inurl:u_printjobs | inurl:u_server | inurl:a_server | inurl:u_generalhelp | u_printjobs )
+intitle:"Network Print Server" intext:"http://www.axis.com" filetype:shtm
+intitle:"Nikto Report" "OSVDB"
+intitle:"NoVus IP camera" -com
+intitle:"NodeCore PoW Mining Pool" "NETWORK" "TYPE" "POOL ADDRESS" "FEE"
+intitle:"Nordex Control" + "Wind Farm Total Summary"
+intitle:"Novell Web Services" "GroupWise" -inurl:"doc/11924" -.mil -.edu -.gov -filetype:pdf
+intitle:"Novell Web Services" intext:"Select a service and a language."
+intitle:"Nport web console"
+intitle:"Nutanix Web Console"
+intitle:"OAuth Server Login"
+intitle:"OS-ZuKon" "SSS Siedle"
+intitle:"Object not found!" intext:"Apache/2.0.* (Linux/SuSE)"
+intitle:"Object not found" netware "apache 1.."
+intitle:"OfficeConnect Cable/DSL Gateway" intext:"Checking your browser"
+intitle:"OfficeConnect Wireless 11g Access Point" "Checking your browser"
+intitle:"OnLine Recruitment Program - Login"
+intitle:"OnLine Recruitment Program - Login" -johnny.ihackstuff
+intitle:"OneAccess WCF" Username
+intitle:"Open Source HRMS" intext:"powered by"
+intitle:"Open WebMail" "Open WebMail version (2.20|2.21|2.30) "
+intitle:"OpenMeetings" intext:"Username or mail address"
+intitle:"OpenNMS web console" inurl:opennms/index.jsp
+intitle:"OpenWrt - LuCI" "Authorization Required"
+intitle:"OpenWrt - LuCI" intext:"Powered by LuCI | OpenWrt"
+intitle:"Openbravo" (inurl:"openbravo/security/Login_FS.html" | inurl:"openbravo/security/Login_Welcome.html" | inurl:"openbravo/security/Login_F1.html" | inurl:"openbravo/security/Login_F0.html")
+intitle:"Openstage IP Phone User" "IPv4" "DNS"
+intitle:"Operations Automation Default Page"
+intitle:"Orite IC301" | intitle:"ORITE Audio IP-Camera IC-301" -the -a
+intitle:"Outlook Web Access" | "Outlook Web app" -office.com -youtube.com -microsoft.com
+intitle:"Outlook Web App" inurl:"/owa/auth" logon ext:aspx
+intitle:"PHP Advanced Transfer" (inurl:index.php | inurl:showrecent.php )
+intitle:"PHP Explorer" ext:php (inurl:phpexplorer.php | inurl:list.php | inurl:browse.php)
+intitle:"PHP Shell *" "Enable stderr" filetype:php
+intitle:"PHP TopSites FREE Remote Admin"
+intitle:"PHP Web Stat - Sysinfo" intext:php inurl:stat/sysinfo.php
+intitle:"PHPBTTracker Statistics" | intitle:"PHPBT Tracker Statistics"
+intitle:"PHPhotoalbum - Upload" | inurl:"PHPhotoalbum/upload"
+intitle:"PHPstat" intext:"Browser" intext:"PHPstat setup"
+intitle:"PRTG Network Monitor" inurl:index.htm intext:"Password" -inurl:prtg
+intitle:"PacketShaper Customer Login"
+intitle:"Page rev */*/*" inurl:"admin
+intitle:"Pandora FMS mobile"
+intitle:"Panel Administracyjny"
+intitle:"Payvand PACS"
+intitle:"Pentaho User Console - Login"
+intitle:"Pfsense - Login"
+intitle:"PhpMyExplorer" inurl:"index.php" -cvs
+intitle:"Pi-hole - raspberrypi"
+intitle:"Pi-hole Admin Console"
+intitle:"Pi-hole-ip" inurl:admin
+intitle:"Please Login" "Use FTM Push"
+intitle:"Plesk Onyx" intext:"Interface language"
+intitle:"Polycom Login" -.com
+intitle:"PowerLogic ION" + "Control" + "Diagnostic" + "Home" + "Maintenance" + "Monitoring"
+intitle:"PowerMTA" inurl:logs
+intitle:"Powered by Deepija Telecom"
+intitle:"Powered by Open Bulletin Board"
+intitle:"Powered by Pro Chat Rooms"
+intitle:"Powered by Qualys SSL Labs"
+intitle:"Printer Status" AND inurl:"/PrinterStatus.html"
+intitle:"Priv8 Mailer Inbox 2015" ext:php
+intitle:"Proberv0." | inurl:/proberv.php
+intitle:"Properties - Xerox WorkCentre" "Machine Model:" "Machine Name" -.com
+intitle:"Pyramid Debug Toolbar" inurl:_debug_toolbar
+intitle:"Pyxis Mobile Test Page" inurl:"mpTest.aspx"
+intitle:"R WebServer"
+intitle:"RM Portal"
+intitle:"RT at a glance" intext:"quick search"
+intitle:"RabbitMQ Management" inurl:15672
+intitle:"Radius Manager" intext:"Control Panel"
+intitle:"ReACT Self-serve"
+intitle:"Remote Desktop Web Connection"
+intitle:"Remote Desktop Web Connection" inurl:tsweb
+intitle:"Remote UI" intext:"Printer status"
+intitle:"Remote UI: Login:" "System Manager ID:"
+intitle:"Residential Gateway Configuration:" intext:"Cable Modem Information."
+intitle:"Resin Default Home Page"
+intitle:"Retina Report" "CONFIDENTIAL INFORMATION"
+intitle:"Rockwell Automation" inurl:"index.html" "Device Name"
+intitle:"Router Access" inurl:Router_Login.asp
+intitle:"RouterOS router configuration page"
+intitle:"RouterOS" intitle:"configuration page" intext:"You have connected to a router. Administrative access only."
+intitle:"Rx08.ii36B.Rv"
+intitle:"SAP Web Application Server" logon
+intitle:"SFXAdmin - sfx_global" intext:"Login Form"
+intitle:"SFXAdmin - sfx_global" | intitle:"SFXAdmin - sfx_local" | intitle:"SFXAdmin - sfx_test"
+intitle:"SFXAdmin" intext:"Login Form"
+intitle:"SHOUTcast Administrator" inurl:admin.cgi
+intitle:"SNC-RZ30" -demo
+intitle:"SNOIE Intel Web Netport Manager" OR intitle:"Intel Web Netport Manager Setup/Status"
+intitle:"SPA504G Configuration"
+intitle:"SPC4300" "ID"
+intitle:"SQLiteManager" + intext:"Welcome to SQLiteManager version "
+intitle:"SSHVnc Applet"OR intitle:"SSHTerm Applet"
+intitle:"SSL VPN Service" + intext:"Your system administrator provided the following information to help understand and remedy the security conditions:"
+intitle:"ST Web Client"
+intitle:"STEP by STIBO Systems" "Launch STEPworkbench" "Web UI Component Report"
+intitle:"SWW link" "Please wait....."
+intitle:"Saia PCD Web-Server"
+intitle:"Sales Central - Logon"
+intitle:"Samba Web Administration Tool" intext:"Help Workgroup"
+intitle:"Sauter moduWeb - Login"
+intitle:"Scalance web management" "Switch to insecure HTTP"
+intitle:"Schneider Electric Telecontrol - Industrial Web Control" intext:"Xflow "
+intitle:"Screenly OSE" intext:"Schedule Overview" AND "Active Assets" AND "Inactive Assets"
+intitle:"Secure Access Service" inurl:"/dana-na/auth/url_default/welcome.cgi"
+intitle:"Server Backup Manager SE"
+intitle:"Service Managed Gateway Login"
+intitle:"Setup Home" "Internet Status" -belkin
+intitle:"Setup Home" "You will need * log in before * * change * settings"
+intitle:"Shell I" inurl:revslider inurl:error.php inurl:cmd
+intitle:"Shorty (Beta)"
+intitle:"Shoutcast Administrator"
+intitle:"Shoutcast server" inurl:"/index.html" "SHOUTcast Server"
+intitle:"ShowIt-Admin"
+intitle:"Sign in to Cisco Finesse"
+intitle:"Sign in · GitLab"
+intitle:"Sipura.SPA.Configuration" -.pdf
+intitle:"SiteOmat Loader"
+intitle:"Skipfish - scan results browser"
+intitle:"Skipfish . scan"
+intitle:"Skystream Networks Edge Media Router" -securitytracker.com
+intitle:"SmarterMail Login" inurl:"/Login.aspx"
+intitle:"Smoothwall Express" inurl:cgi-bin "up * days"
+intitle:"Snap Server" intitle:"Home" "Active Users"
+intitle:"Solar-Log™" intext:"Build Revision"
+intitle:"Solr Admin" "Core Admin" "Thread Dump"
+intitle:"Solr Admin" "Solr Query Syntax"
+intitle:"SonicWALL - Authentication"
+intitle:"SonicWall Analyzer Login"
+intitle:"SonicWall Network Security Login"
+intitle:"Sony SNT-V304 Video Network Station" inurl:hsrindex.shtml
+intitle:"SoundTouch Access Point Setup"
+intitle:"Spam Firewall" inurl:"8000/cgi-bin/index.cgi"
+intitle:"SpeedStream * Management Interface"
+intitle:"Sphider Admin Login"
+intitle:"Statistics Report for HAProxy" + "statistics report for pid"
+intitle:"Status & Control" + "Thermostat Status" +"HVAC Settings" +"Zone Temperature"
+intitle:"StrongLoop API Explorer" intext:"Token Not Set"
+intitle:"Struts Problem Report" intext:"development mode is enabled."
+intitle:"SuSE Linux Openexchange Server" "Please activate JavaScript!"
+intitle:"SuSE Linux Openexchange Server" "Please activate Javas?ri?t!"
+intitle:"Success!" intext:"Your new web server is ready to use."
+intitle:"Sucuri WebSite Firewall - Access Denied"
+intitle:"Summit Management Interface" -georgewbush.org.uk
+intitle:"Supero Doctor III" -inurl:supermicro
+intitle:"Swagger UI - " + "Show/Hide"
+intitle:"SyncThru Web Service" inurl:"sws"
+intitle:"Synnefo Admin"
+intitle:"Sys Name" System Summary Sensors
+intitle:"System Administration" inurl:top.cgi
+intitle:"System Statistics" +"System and Network Information Center"
+intitle:"TANDBERG" "This page requires a frame capable browser!"
+intitle:"TD-W9970" intext:"Model No. TD-W9970" -tp-link.com
+intitle:"TMSoft MyAuth Gateway 3" -DOWNLOAD
+intitle:"TOPdesk ApplicationServer"
+intitle:"TOTVS SmartClient HTML - Parâmetros Iniciais"
+intitle:"TRENDnet" (inurl:"top.htm"| inurl:"STSSYS.HTM"| inurl:"AVIEW.HTM"| inurl:"JPlug.htm" | inurl:"JVIEW.HTM")
+intitle:"TUTOS Login"
+intitle:"TWIG Login"
+intitle:"TYPO3 CMS Login"
+intitle:"Teampass" intext:"Server Time"
+intitle:"Teltonika -Web UI" | intitle:"Teltonika-RUT -Web UI" inurl:"/cgi-bin/luci"
+intitle:"Terminal Services Web Connection"
+intitle:"Test Page for Apache"
+intitle:"Test Page for Apache" "It Worked!"
+intitle:"Test Page for Apache" "It Worked!" "on this web"
+intitle:"Test Page for the Apache HTTP Server on Fedora Core" intext:"Fedora Core Test Page"
+intitle:"Test Page for the HTTP Server on Fedora"
+intitle:"The AXIS 200 Home Page"
+intitle:"This is pdfTeX, Version"
+intitle:"TileServer GL - Server for vector and raster maps with GL styles"
+intitle:"Tomcat Server Administration"
+intitle:"Total Web Solutions" + "Meter Name"
+intitle:"Transponder/EOL Configuration:" inurl:asp
+intitle:"TurnKey LAMP" intext:"turnkey lamp release notes" "Apache PHP information"
+intitle:"Tuxedo Connected Controller"
+intitle:"UPS Status" "Status" inurl:/host
+intitle:"UltraDNS Client Redirection Service"
+intitle:"Under construction" "does not currently have"
+intitle:"Uploader - Uploader v6" -pixloads.com
+intitle:"Usage Statistics for" "Generated by Webalizer"
+intitle:"User Authentication : IR*"
+intitle:"Users" intext:"Read License" intext:"vtiger.com"
+intitle:"V-Gear BEE"
+intitle:"VB Viewer"
+intitle:"VMware Management Interface:" inurl:"vmware/en/"
+intitle:"VNC Viewer for Java"
+intitle:"VNC viewer for Java"
+intitle:"VOOD - Welcome to Vood Residential Gateway >Login"
+intitle:"Veo Observer Web Client"
+intitle:"Veo Observer XT" -inurl:shtml|pl|php|htm|asp|aspx|pdf|cfm -intext:observer
+intitle:"VertrigoServ" + "Welcome to VertrigoServ"
+intitle:"VideoEdge Admin Interface"
+intitle:"View Img" inurl:viewimg.php
+intitle:"View and Configure PhaserLink"
+intitle:"Viewer for Samsung NVR"
+intitle:"Vigor Login Page"
+intitle:"Virtual Server Administration System"
+intitle:"VisNetic WebMail" inurl:"/mail/"
+intitle:"VitalQIP IP Management System"
+intitle:"Vodafone Vox UI" | intitle:"Residential Gateway Login"
+intitle:"Vue Element Admin" intext:"Username : admin" OR intext:"Username : editor" OR intext:"Password : any"
+intitle:"Vulnerability Report" "Critical" ext:pdf
+intitle:"WAGO Ethernet web-based-management"
+intitle:"WAMPSERVER Homepage"
+intitle:"WAMPSERVER Homepage" & intext:"Server Configuration"
+intitle:"WAMPSERVER homepage" "Server Configuration" "Apache Version"
+intitle:"WATASHI SERVICE"
+intitle:"WATTrouter" "SYSTEM WEB INTERFACE"
+intitle:"WEB LCT" intext:"Web local craft terminal"
+intitle:"WEB SERVICE" "Modify Admin Password"
+intitle:"WEB SERVICE" "wan" "lan" "alarm"
+intitle:"WEB SERVICE" intext:"Please install plugins first!"
+intitle:"WEB//NEWS Personal Newsmanagement" intext:"Ãƒâ€šÃ‚Â© 2002-2004 by Christian Scheb - Stylemotion.de"+"Version 1.4 "+"Login"
+intitle:"WEBCAM 7 " -inurl:/admin.html
+intitle:"WEBDVR" -inurl:product -inurl:demo
+intitle:"WF Series" inurl:PRTINFO.html
+intitle:"WHM Login" intext:"cPanel, L.L.C. " +"Change locale"
+intitle:"WJ-NT104 Main Page"
+intitle:"WSO " ext:php intext:"server ip" 2015 intext:" [ home ]"
+intitle:"WSO 2.4" [ Sec. Info ], [ Files ], [ Console ], [ Sql ], [ Php ], [ Safe mode ], [ String tools ], [ Bruteforce ], [ Network ], [ Self remove ]
+intitle:"WSO2 Management Console"
+intitle:"Weather Wing WS-2"
+intitle:"WeatherLinkIP Configuration"
+intitle:"Web Client for DVR"
+intitle:"Web Client for EDVS"
+intitle:"Web Client" inurl:"webcamera.html"
+intitle:"Web Data Administrator - Login"
+intitle:"Web Image Monitor" & inurl:"/mainFrame.cgi"
+intitle:"Web Login" "For security reasons only authorized users are allowed access to this web server. "
+intitle:"Web Management Login"
+intitle:"Web Server Statistics for ****"
+intitle:"Web Server's Default Page" intext:"hosting using Plesk" -www
+intitle:"Web Viewer for Samsung DVR"
+intitle:"Web Viewer" inurl:auth_index.htm
+intitle:"WebLogic Server" intitle:"Console Login" inurl:console
+intitle:"WebMail | Powered by Winmail Server - Login" & (intext:"Username" & intext:"Password")
+intitle:"WebService Web Service" ext:asmx
+intitle:"Webmail Login" intext:"cPanel, L.L.C. " +"Change locale"
+intitle:"Welcome Site/User Administrator" "Please select the language" -demos
+intitle:"Welcome To Your WebSTAR Home Page"
+intitle:"Welcome to 602LAN SUITE *"
+intitle:"Welcome to F-Secure Policy Manager Server Welcome Page"
+intitle:"Welcome to IIS 4.0"
+intitle:"Welcome to JBoss"
+intitle:"Welcome to Mailtraq WebMail"
+intitle:"Welcome to OpenResty!"
+intitle:"Welcome to QNAP Turbo NAS"
+intitle:"Welcome to WildFly" intext:"Administration Console"
+intitle:"Welcome to Windows 2000 Internet Services"
+intitle:"Welcome to Windows Small Business Server 2003"
+intitle:"Welcome to Your New Home Page!" "by the Debian release"
+intitle:"Welcome to ZyXEL" -zyxel.com
+intitle:"Welcome to nginx!" intext:"Welcome to nginx on Debian!" intext:"Thank you for"
+intitle:"Welcome to ntop!"
+intitle:"Welcome to the Advanced Extranet Server, ADVX!"
+intitle:"Welcome to" intext:"configuration interface"
+intitle:"Welcome | PRTG Network Monitor" inurl:/index.htm
+intitle:"Welcome" intext:"LiteSpeed Technologies, Inc. All Rights Reserved."
+intitle:"Welcome" intext:"Login"
+intitle:"Welcome-netis Wireless"
+intitle:"Whoops! There was an error."
+intitle:"Wimax CPE Configuration"
+intitle:"Wing FTP Server - Web"
+intitle:"Workspace Login" intext:"WinOcular WorkSpace"
+intitle:"WorldClient" intext:"? (2003|2004) Alt-N Technologies."
+intitle:"WorldClient" intext:"© (2003|2004) Alt-N Technologies."
+intitle:"WxGoos-" ("Camera image"|"60 seconds" )
+intitle:"X7 Chat Help Center" | "Powered By X7 Chat" -milw0rm -exploit
+intitle:"X7 Chat Help Center"|"Powered By X7 Chat"
+intitle:"XENON :: Login"
+intitle:"XOOPS Site" intitle:"Just Use it!" | "powered by xoops (2.0)|(2.0.....)"
+intitle:"XcAuctionLite" | "DRIVEN BY XCENT" Lite inurl:admin
+intitle:"Xenmobile Console Logon"
+intitle:"YALA: Yet Another LDAP Administrator"
+intitle:"Yawcam" inurl:8081
+intitle:"Yealink" inurl:"servlet?m="
+intitle:"Youless energy monitor" "Model" "Firmware" "www.youless.nl"
+intitle:"Your Network Device" Status (LAN | WAN)
+intitle:"ZAP Scanning Report" + "Alert Detail"
+intitle:"ZXHN H108N" intext:"Welcome to ZXHN H108N"
+intitle:"Zimbra Web Client Log In"
+intitle:"Zimbra Web Client Sign In"
+intitle:"Zimbra Web Client Sign In" "Synacor"
+intitle:"Zope Help System" inurl:HelpSys
+intitle:"[EasyPHP] - Administration"
+intitle:"actiontec" main setup status "Copyright 2001 Actiontec Electronics Inc"
+intitle:"active webcam page"
+intitle:"admin panel" +"
+intitle:"admin panel" +"Powered by RedKernel"
+intitle:"admin panel" +"RedKernel"
+intitle:"album permissions" "Users who can modify photos" "EVERYBODY"
+intitle:"apache tomcat/" "Apache Tomcat examples"
+intitle:"apache tomcat/" + "Find additional important configuration information in:"
+intitle:"axigen webadmin"
+intitle:"axis storpoint CD" intitle:"ip address"
+intitle:"b2evo installer" intext:"Installer fÃƒÆ’Ã‚Â¼r Version"
+intitle:"bandwidthd" "programmed by david hinkle, commissioned by derbytech wireless networking."
+intitle:"blog torrent upload"
+intitle:"bugs" Analysis Report
+intitle:"communigate pro * *" intitle:"entrance"
+intitle:"configuration" inurl:port_0
+intitle:"cuckoo sandbox" "failed_reporting"
+intitle:"curriculum vitae" filetype:doc
+intitle:"cyber recruiter" "User ID"
+intitle:"database" "backup" filetype:sql
+intitle:"dd-wrt info" intext:"Firmware: DD-WRT"
+intitle:"dreambox web"
+intitle:"ePMP 2000" "notifications" "Menu" -pdf
+intitle:"ePowerSwitch Login"
+intitle:"eXist Database Administration" -demo
+intitle:"edna:streaming mp3 server" -forums
+intitle:"elFinder 2.1.x"
+intitle:"error 404" "From RFC 2068 "
+intitle:"fdt" intext:"Remember me" "Username"
+intitle:"freedom is real - 1945"
+intitle:"homematic webui"
+intitle:"hp laserjet" inurl:SSI/Auth/set_config_deviceinfo.htm
+intitle:"hp laserjet" inurl:info_configuration.htm
+intitle:"htsearch error" ht://Dig error
+intitle:"i-secure v1.1" -edu
+intitle:"iDevAffiliate - admin" -demo
+intitle:"iGuard Fingerprint Security System"
+intitle:"iLO Login" intext:"Integrated Lights-Out 3"
+intitle:"iLO: localhost" + "Firmware Version"
+intitle:"iLo" "Hewlett Packard Enterprise Development" "Firmware Version" " Local user name:"
+intitle:"iVISTA.Main.Page"
+intitle:"inc. vpn 3000 concentrator"
+intitle:"index" intext:"Login to the Administrative Interface"
+intitle:"index.of *" admin news.asp configview.asp
+intitle:"index.of" "places.sqlite" "Mail" thunderbird -mozilla.org -scan
+intitle:"index.of" "places.sqlite" "key3.db" -mozilla.org
+intitle:"index.of" +jmx-console
+intitle:"index.of" .diz .nfo last modified
+intitle:"index.of" intext:"access.txt"
+intitle:"index.of" intext:"api.txt"
+intitle:"index.of" | inurl:/filemanager/connectors/ intext:uploadtest.html
+intitle:"index.of.personal"
+intitle:"index.of.virtualbox" -mirror -mirrors -public -ubuntu.com -edu -pub
+intitle:"ipMonitor - Log in"
+intitle:"ipcop - main"
+intitle:"jGallery"
+intitle:"jaeger UI" inurl:trace
+intitle:"kentico database setup"
+intitle:"lantronix web-manager"
+intitle:"lg smart ip device" -.com
+intitle:"live view" intitle:axis
+intitle:"microsoft certificate services" inurl:certsrv
+intitle:"mikrotik routeros > administration" intext:"mikrotik routeros" intext:"configuration page" -demo intext:"Mikrotik, RouterOS and the Mikrotik logo are registered trademarks of Mikrotikls SIA"
+intitle:"miniProxy"
+intitle:"my webcamXP server!" inurl:":8080"
+intitle:"myBloggie 2.1.1..2 - by myWebland"
+intitle:"myhome" intext:"Tilgin. All rights reserved. Copyright and Trademark."
+intitle:"nPerfServer"
+intitle:"netbotz appliance" -inurl:.php -inurl:.asp -inurl:.pdf -inurl:securitypipeline -announces
+intitle:"netdata dashboard" AND intext:"Costa Tsaousis"
+intitle:"netsparker scan report" ext:pdf
+intitle:"network administration" inurl:"nic"
+intitle:"nstview v2.1:: nst.void.ru" | intext:"nsTView v2.1 :: nst.void.ru. Password: Host:"
+intitle:"oMail-admin Administration - Login" -inurl:omnis.ch
+intitle:"open webif" "Linux set-top-box"
+intitle:"openHAB" intext:"Welcome to openHAB" "Basic UI" "Paper UI"
+intitle:"openshift web console" inurl:console inurl:/console
+intitle:"oracle business intelligence sign in"
+intitle:"osTicket :: Support Ticket System"
+intitle:"owl intranet * owl" 0.82
+intitle:"pChart 2.x - examples" intext:"2.1.3"
+intitle:"phpDocumentor web interface"
+intitle:"phpLDAPadmin" inurl:cmd.php
+intitle:"phpPgAdmin - Login" Language
+intitle:"phpVirtualBox - VirtualBox Web Console"
+intitle:"phpinfo()" inurl:"phpinfo.php"
+intitle:"phpremoteview" filetype:php "Name, Size,
+intitle:"prestige" intext:"Enter Password and click Login" -.com
+intitle:"qBittorrent Web UI" inurl:8080
+intitle:"remote assessment" OpenAanval Console
+intitle:"remote ui:top page"
+intitle:"report" ("Fortify" | "Web Inspect") filetype:pdf
+intitle:"report" ("OpenVAS" | "Nikto") ext:pdf OR ext:html
+intitle:"report" ("qualys" | "acunetix" | "nessus" | "netsparker" | "nmap") filetype:html
+intitle:"report" ("qualys" | "acunetix" | "nessus" | "netsparker" | "nmap") filetype:pdf
+intitle:"router"inurl:"home.asp"
+intitle:"routeros" "sophia"
+intitle:"rutorrent v3" AND intext:Uploaded -github.com
+intitle:"setup" "Network setup" "DHCP Client ID" -.com
+intitle:"site administration: please log in" "site designed by emarketsouth"
+intitle:"start.managing.the.device" remote pbx acc
+intitle:"statistics of" "advanced web statistics"
+intitle:"supervisioncam protocol"
+intitle:"supra IPC"
+intitle:"switch home page" "cisco systems" "Telnet - to"
+intitle:"sysinfo * " intext:"Generated by Sysinfo * written by The Gamblers."
+intitle:"teamspeak server-administration
+intitle:"the page cannot be found" "2004 microsoft corporation"
+intitle:"the page cannot be found" "internet information services"
+intitle:"the page cannot be found" inetmgr
+intitle:"toshiba network camera - User Login"
+intitle:"twiki" inurl:"TWikiUsers"
+intitle:"twonky server" inurl:"9000" -intext:"9000"
+intitle:"uploader by ghost-dz" ext:php
+intitle:"urchin (5|3|admin)" ext:cgi
+intitle:"vhost" intext:"vHost . 2000-2004"
+intitle:"virtual office" sonicwall domain
+intitle:"vood Residential gateway" inurl:vood/cgi-bin/
+intitle:"vrnews v1"
+intitle:"vtiger CRM 5 - Commercial Open Source CRM"
+intitle:"web server status" SSH Telnet
+intitle:"webadmin - /*" filetype:php directory filename permission
+intitle:"webcam 7" inurl:'/gallery.html'
+intitle:"webcamXP 5" -download
+intitle:"webcamXP 5" inurl:8080 'Live'
+intitle:"webcamXP 5" inurl:admin.html
+intitle:"webcamXP" inurl:8080
+intitle:"webcamxp 5" intext: "live stream"
+intitle:"webcamxp" "Flash JPEG Stream"
+intitle:"webmail Login"
+intitle:"welcome to mono xsp"
+intitle:"welcome.to.squeezebox"
+intitle:"xams 0.0.0..15 - Login"
+intitle:"xerox" inurl:i_index
+intitle:"yawcam" "It's a webcam!" "user" "pass"
+intitle:"zFeeder admin panel"
+intitle:#k4raeL - sh3LL
+intitle:'Centreon - IT & Network Monitoring'
+intitle:'System Web Interface: WATTrouter M'
+intitle:'Welcome to JBoss AS'
+intitle:'olt web management interface'
+intitle:("Canon" + "series Network Configuration" "Basic Information") + "JavaScript is not enabled"
+intitle:("Index of" AND "wp-content/plugins/boldgrid-backup/=")
+intitle:("Index of") AND intext:("c99.txt" OR "c100.txt")
+intitle:("Mini Shell") AND intext:("Upload File")
+intitle:("OnCell Web Console" | "Series Web Console" | "-HSPA Series Web" | "-HSDPA Series Web") "MOXA OnCell" "Username :" "Password :" -pdf
+intitle:("Solr Admin") AND intext:("Dashboard" AND "Corporation")
+intitle:("Solr admin page") AND intext:("Make a Query")
+intitle:("TrackerCam Live Video")|("TrackerCam Application Login")|("Trackercam Remote") -trackercam.com
+intitle:("WebRTU z2" | "WebRTU z1") -pdf
+intitle:(build 13064) - Info
+intitle:.:: Welcome to the Web-Based Configurator::.
+intitle:AP Router New Generation | inurl:/home.asp
+intitle:ARI "Phone System Administrator"
+intitle:Administration - Installation - MantisBT
+intitle:AnswerBook2 inurl:ab2/ (inurl:8888 | inurl:8889)
+intitle:Armstrong Hot Water System Monitoring
+intitle:Automatic cPanel Finder/Cracker | 3xp1r3 Cyber Army
+intitle:Axis inurl:"/admin/admin.shtml"
+intitle:Bilder Galerie 1.1 or intitle:Bilder Galerie
+intitle:Bookmarks inurl:bookmarks.html "Bookmarks
+intitle:C0ded By web.sniper
+intitle:Check_MK Multisite Login
+intitle:Cisco "You are using an old browser or have disabled javascript. You must use version 4 or higher of Netscape Navigator/Communicator"
+intitle:Configuration.File inurl:softcart.exe
+intitle:Content Server Error IdcService=DOC_INFO
+intitle:Error Page pageWrapper.jsp?
+intitle:Error-javax.el.ELException+error+xhtml
+intitle:FootPrints Login | inurl:/MRcgi/MRentrancePage.pl
+intitle:Global Traffic Statistics "Ntop"
+intitle:GoogleService-Info filetype:plist
+intitle:Grafana - Home inurl:/orgid
+intitle:Grapher AND inurl:sensorlist.htm
+intitle:HP LASERJET PRO MFP inurl:/SSI/index.htm
+intitle:HTTP Server Test Page powered by CentOS
+intitle:HomeSeer.Web.Control | Home.Status.Events.Log
+intitle:Host Report inurl:ganglia
+intitle:IBM Lotus iNotes Login
+intitle:IMP inurl:imp/index.php3
+intitle:Index of "/venv"
+intitle:Index of "pyvenv.cfg"
+intitle:Index of /__MACOSX ...
+intitle:Index.of etc shadow
+intitle:Kodi inurl:":8080" "Music. Music;"
+intitle:LANCOM "A webbrowser with active JavaScript support is required."
+intitle:Leaf PHP Mailer by [leafmailer.pw] ext:php
+intitle:Locus7shell intext:"Software:"
+intitle:Login "Login to pfSense" "Password" "LLC"
+intitle:Login * Webmailer
+intitle:Login intext:"RT is ? Copyright"
+intitle:Login intext:"RT is © Copyright"
+intitle:Login to CMS Made Simple + inurl:/cmsms
+intitle:Logon OrderCloud ui/logon.aspx
+intitle:MailEnable inurl:"/Login.aspx"
+intitle:Mantis "Welcome to the bugtracker" "0.15 | 0.16 | 0.17 | 0.18"
+intitle:Metabase inurl:/dash
+intitle:Mp3 ToolBox 1.0
+intitle:Munin :: overview
+intitle:MyShell 1.1.0 build 20010923
+intitle:NetworkCamera intext:"Pan / Tilt" inurl:ViewerFrame
+intitle:Node.List Win32.Version.3.11
+intitle:Novell intitle:WebAccess "Copyright *-* Novell, Inc"
+intitle:OmniDB intext:"user. pwd. Sign in."
+intitle:Oracle PeopleSoft Sign-in "Oracle" Sign-in "error"
+intitle:PHPOpenChat inurl:"index.php?language="
+intitle:ProFTPD Admin - V1.04
+intitle:QueryService Web Service
+intitle:RICOH intitle:"Network Administration"
+intitle:Remote.Desktop.Web.Connection inurl:tsweb
+intitle:SN0X SHELL: WEEEEEEEEEEEEEEEEED
+intitle:Snap.Server inurl:Func=
+intitle:Snoop Servlet
+intitle:SpectraIV-IP
+intitle:TYPO3 CMS Login: New TYPO3 site inurl:/typo3/index.php
+intitle:Tenda ADSL2/2+ Modem inurl:main.html
+intitle:Test Page for the Nginx HTTP Server on Fedora
+intitle:ThingsBoard inurl:8080/dashboard
+intitle:Tomcat Status | inurl:/status?full=true
+intitle:Top "Vantage Service Gateway" -inurl:zyxel
+intitle:USP FOSS Distribution
+intitle:Upload inurl:/cgi-bin/filechucker.cgi
+intitle:VMware intext:"VMware, Inc. All rights reserved." AND "Powered by VMware Studio"
+intitle:VMware inurl:5480
+intitle:WEBEYES GUEST BOOK inurl:.asp?id=
+intitle:Wagtail.-.Sign in intext:Javascript.is.required.to.use.Wagtail
+intitle:Web Calendar system v 3.30 inurl:.asp
+intitle:Web Calendar system v 3.40 inurl:.asp
+intitle:admbook intitle:version filetype:php
+intitle:administration intext:"portail" "Login"
+intitle:apache couchdb - futon: overview inurl:/_utils
+intitle:asterisk.management.portal web-access
+intitle:awen+intitle:asp.net
+intitle:axis intitle:"video server"
+intitle:cisco "This is a restricted Access Server"
+intitle:communigate pro entrance
+intitle:cyber anarchy shell
+intitle:dotCMS inurl:dotAdmin
+intitle:final.attendee.list | inurl:final.attendee.list
+intitle:flexwatch intext:"Home page ver"
+intitle:gallery inurl:setup "Gallery configuration"
+intitle:guestbook "advanced guestbook 2.2 powered"
+intitle:guestbook inurl:guestbook "powered by Adva
+intitle:guestbook inurl:guestbook "powered by Advanced guestbook 2.*" "Sign the Guestbook"
+intitle:iDVR -intitle:"com | net | shop" -inurl:"asp | htm | pdf | html | php | shtml | com | at | cgi | tv"
+intitle:ilohamail "
+intitle:ilohamail "Powered by IlohaMail"
+intitle:ilohamail intext:"Version 0.8.10" "
+intitle:ilohamail intext:"Version 0.8.10" "Powered by IlohaMail"
+intitle:index de sshd_config
+intitle:index.of "Apache" "server at"
+intitle:index.of "access.conf"
+intitle:index.of "admin" filetype:sql
+intitle:index.of "admin.db"
+intitle:index.of "awsconfig.json"
+intitle:index.of "backwpup"
+intitle:index.of "cacert.pem"
+intitle:index.of "chroot.conf"
+intitle:index.of "credential.txt"
+intitle:index.of "creds.txt"
+intitle:index.of "database.db"
+intitle:index.of "db.zip"
+intitle:index.of "htaccess.txt"
+intitle:index.of "key.txt"
+intitle:index.of "keys.txt"
+intitle:index.of "private-key.pem"
+intitle:index.of "system.db"
+intitle:index.of "userpass.txt"
+intitle:index.of "users.db"
+intitle:index.of (inurl:admin | intitle:admin)
+intitle:index.of (inurl:fileadmin | intitle:fileadmin)
+intitle:index.of +"Indexed by Apache::Gallery"
+intitle:index.of .bash_history
+intitle:index.of .bashrc
+intitle:index.of .sh_history
+intitle:index.of /AlbumArt_
+intitle:index.of /CMS /robots.txt
+intitle:index.of /Snowflake /robots.txt
+intitle:index.of /cftp /robots.txt
+intitle:index.of /email /robots.txt
+intitle:index.of /maildir/new/
+intitle:index.of WEB-INF
+intitle:index.of abyss.conf
+intitle:index.of administrators.pwd
+intitle:index.of cgiirc.config
+intitle:index.of cleanup.log
+intitle:index.of conf.mysql
+intitle:index.of config.php
+intitle:index.of dead.letter
+intitle:index.of finances.xls
+intitle:index.of haccess.ctl
+intitle:index.of home/000~root~000/
+intitle:index.of id_rsa -id_rsa.pub
+intitle:index.of inbox
+intitle:index.of inbox dbx
+intitle:index.of intext:"secring.skr"|"secring.pgp"|"secring.bak"
+intitle:index.of intext:.bash_history
+intitle:index.of intext:.ssh
+intitle:index.of intext:viewvc
+intitle:index.of intext:zc_install intitle:zen-cart
+intitle:index.of inurl:/websendmail/
+intitle:index.of master.passwd
+intitle:index.of mt-db-pass.cgi
+intitle:index.of mystuff.xml
+intitle:index.of parent inurl:repos
+intitle:index.of passwd passwd.bak
+intitle:index.of people.lst
+intitle:index.of robots.txt
+intitle:index.of root user
+intitle:index.of trillian.ini
+intitle:index.of ws_ftp.ini
+intitle:index.of./.db
+intitle:index.of./.htaccess
+intitle:index.of./.sql
+intitle:index.of.?.bak
+intitle:index.of.?.config.ini
+intitle:index.of.?.database
+intitle:index.of.?.db
+intitle:index.of.?.mysql
+intitle:index.of.?.sql
+intitle:index.of.accounts
+intitle:index.of.config
+intitle:index.of.dropbox
+intitle:index.of.etc
+intitle:index.of.mail
+intitle:index.of.pubs
+intitle:index.of? configuration.php.zip
+intitle:intranet inurl:intranet +intext:"human resources"
+intitle:intranet inurl:intranet +intext:"phone"
+intitle:jdewshlp "Welcome to the Embedded Web Server!"
+intitle:liveapplet
+intitle:liveapplet inurl:LvAppl
+intitle:livezilla "Server Time"
+intitle:m1n1 1.01
+intitle:not accepted inurl:"union+select" inurl:"id?="
+intitle:phpMyAdmin
+intitle:phpMyAdmin "Welcome to phpMyAdmin ***" "running on * as root@*"
+intitle:phpinfo "PHP Version"
+intitle:phpinfo intext:"php version" +windows
+intitle:prometheus time series collection and processing server inurl:/alerts
+intitle:qdPM 9.1. Copyright (c) 2020 qdpm.net
+intitle:r57shell +uname -bbpress
+intitle:rms webportal
+intitle:rsview32 ext:asp
+intitle:settings.py intext:EMAIL_HOST_PASSWORD -git -stackoverflow
+intitle:settings.py intext:EMAIL_USE_TLS -git -stackoverflow
+intitle:snc-z20 inurl:home/
+intitle:traefik inurl:8080/dashboard
+intitle:upload inurl:upload intext:upload -forum -shop -support -w3c
+intitle:vmware "This is a restricted Access Server"
+intitle:vood act=index Gateway >Login
+intitle:webcam 7 inurl:8080 -intext:8080
+intitle:welcome.to.horde
+inurl /view.shtml intext:"Airport"
+inurl: "Mister Spy" | intext:"Mister Spy & Souheyl Bypass Shell"
+inurl: "com_alphacontent"
+inurl: "tops_top.php? id_cat ="
+inurl: */.env
+inurl: /.git
+inurl: /config.txt ext:txt intext:
+inurl: /filemanager/dialog.php
+inurl: /ftp intitle:"office"
+inurl: /wp-content/uploads/ inurl:"robots.txt" "Disallow:" filetype:txt
+inurl: /wp-includes/uploads
+inurl: 1051/viewer/live/index.html?lang=en
+inurl: Powered by Traidnt UP Version 1.0.
+inurl: conf/fastcgi.conf
+inurl: document/d intext: ssn
+inurl: https://app.zerocopter.com/rd/
+inurl: inurl:"view.shtml" ext:shtml
+inurl: json beautifier online
+inurl: mil|/issue.php filetype:xls
+inurl: modifyform.html?code=
+inurl: user_info.php?user_id= " Or " inurl: index.php?catid= "
+inurl:" WWWADMIN.PL" intitle:"wwwadmin"
+inurl:"-/monitoring" "statistics of JavaMelody"
+inurl:"-wp13.txt"
+inurl:".Admin;-aspx }" "~Login"
+inurl:".asp?strParents="
+inurl:".esy.es/default.php"
+inurl:".hg/store/fncache"
+inurl:".php?cat=" inurl:"'"
+inurl:".php?id=" "You have an error in your SQL syntax"
+inurl:".reset;-.pwd }" "~ User"
+inurl:"/,DanaInfo="
+inurl:"/.vscode/ftp-sync.json"
+inurl:"/.vscode/sftp.json"
+inurl:"/?pagename=AdministratorLogin"
+inurl:"/?pagename=CustomerLogin"
+inurl:"/ADVANCED/COMMON/TOP"
+inurl:"/Admin/Forget.php"
+inurl:"/Admin/Login?ReturnUrl=" -github.com -gitlab.com
+inurl:"/Application Data/Filezilla/*" OR inurl:"/AppData/Filezilla/*" filetype:xml
+inurl:"/CMS/page.php?p="
+inurl:"/English/pages_WinUS/" AND intitle:"Top page"
+inurl:"/HtmlAdaptor?action="
+inurl:"/NSearch/AdminServlet"
+inurl:"/SAMLLogin/" -github
+inurl:"/SecureAuth.aspx"
+inurl:"/SecureAuth1"
+inurl:"/Serviceability?adapter=device.statistics.configuration"
+inurl:"/Setup/Default.aspx" "mojoPortal"
+inurl:"/WebResource.axd?d=" AND intext:Error
+inurl:"/Windows/Cookies/" ext:txt -git
+inurl:"/Windows/Cookies/" ext:txt -telecom -forbidden -git
+inurl:"/admin.php?cont="
+inurl:"/admin/configuration. php?" Mystore
+inurl:"/admin/index.php?msg=" inurl:"%20"
+inurl:"/alternate_profiles/"
+inurl:"/ap/recuperadocumentossql.aspx"
+inurl:"/api/index.php" intitle:UniFi
+inurl:"/app/kibana#"
+inurl:"/arcgis/rest/services"
+inurl:"/attachment/" ext:log
+inurl:"/axs/ax-admin.pl" -s?ri?t
+inurl:"/axs/ax-admin.pl" -script
+inurl:"/becommunity/community/index.php?pageurl="
+inurl:"/bigdump.php" + intitle:"BigDump ver."
+inurl:"/bitrix/admin/" intitle:"Autorisation"
+inurl:"/cacti/graph_view.php" OR inurl:"/cacti/graph.php?"
+inurl:"/catalog.nsf" intitle:catalog
+inurl:"/certsrv" intext:"Select a task"
+inurl:"/cgi-bin/CVS/"
+inurl:"/cgi-bin/WS_FTP.LOG"
+inurl:"/cgi-bin/filemanager/Manager.pl"
+inurl:"/cgi-bin/guestimage.html" "Menu"
+inurl:"/cgi-bin/loadpage.cgi?user_id="
+inurl:"/cgi-bin/luci" intext:"Authorization Required" intitle:"LuCI"
+inurl:"/cgi-bin/ourspace/"
+inurl:"/cgi-mod/index.cgi"
+inurl:"/cms/app/webroot"
+inurl:"/course/jumpto.php?jump="
+inurl:"/cricket/grapher.cgi"
+inurl:"/data/urllist.txt" ext:txt -git
+inurl:"/database/comersus.mdb"
+inurl:"/dbman/default.pass"
+inurl:"/debug/default" intitle:"Yii Debugger"
+inurl:"/domcfg.nsf" " Web Server Configuration"
+inurl:"/errors/report.php" intext:"There has been an error processing your request"
+inurl:"/etc/fail2ban/" + ext:conf
+inurl:"/eyeos/index.php" -github -forum
+inurl:"/fb_ca_chain_bundle.crt" ext:crt
+inurl:"/files/redirect.asp"
+inurl:"/fmi/webd"
+inurl:"/fmi/webd" intitle:"FileMaker WebDirect"
+inurl:"/forgotpwd.jspx"
+inurl:"/gadmin/index.php"
+inurl:"/geeklog/"
+inurl:"/general/status.html"
+inurl:"/gitweb.cgi?"
+inurl:"/go/_files/?file="
+inurl:"/graphs" intext:"Traffic and system resource graphing"
+inurl:"/horde/test.php"
+inurl:"/html/modeminfo.asp?
+inurl:"/includes/config.php"
+inurl:"/index.html" intitle:"Unitronics PLC"
+inurl:"/index.php?enter=guest"
+inurl:"/index.php?m=" "PHPRecipeBook 2.39"
+inurl:"/index.php?option=com_rsfiles"
+inurl:"/index.php?reconnect=1"
+inurl:"/index.php?route=account/forgotten"
+inurl:"/initiatesso?providerid=" -github.com
+inurl:"/irclogs/" ext:log
+inurl:"/irj/go/km/" intext:navigation
+inurl:"/irj/go/km/docs/"
+inurl:"/jde/E1Menu.maf"
+inurl:"/jmx-console/HtmlAdaptor?action"
+inurl:"/k12.tr/?part="
+inurl:"/level/13|14|15/exec/"
+inurl:"/lib/editor/atto/plugins/managefiles/" | inurl:"calendar/view.php?view=month"
+inurl:"/load.cgi" ext:cgi
+inurl:"/logon.aspx?ReturnUrl="
+inurl:"/logs/www" ext:log
+inurl:"/mifs/user"
+inurl:"/modules.php?name=" "Maximus CMS"
+inurl:"/modules/friendfinder/"
+inurl:"/modules/glossaire/"
+inurl:"/modules/jobs/"
+inurl:"/modules/library/"
+inurl:"/modules/myads/"
+inurl:"/modules/myconference/"
+inurl:"/modules/repository/"
+inurl:"/modules/wfsection/"
+inurl:"/modules/zmagazine/"
+inurl:"/munin/network-*.html" OR inurl:"/munin/apache-*.html" OR inurl:"/munin/disk-*.html" OR inurl:"/munin/system-*.html" OR inurl:"/munin/munin-*.html" OR inurl:"/munin/problems.html"
+inurl:"/names.nsf?OpenDatabase"
+inurl:"/owncloud/index.php" -github -forum
+inurl:"/owncloud/public.php" -github -forum
+inurl:"/p3p.xml" | intitle: "p3p.xml" -github.com
+inurl:"/php/info.php" "PHP Version"
+inurl:"/phpsqlitecms/cms/index.php"
+inurl:"/plugins/ImageManager/manager.php"
+inurl:"/plugins/servlet/Wallboard/"
+inurl:"/portal/webclient" intitle:"VMware Horizon"
+inurl:"/prweb/prwebLDAP1/"
+inurl:"/public.php?service=files"
+inurl:"/rbfminc/"
+inurl:"/reports/rwservlet" intext:"Oracle"
+inurl:"/responsible disclosure"
+inurl:"/root/etc/passwd" intext:"home/*:"
+inurl:"/rpAuth.html" "ZyWALL"
+inurl:"/saml2?SAMLRequest="
+inurl:"/sap/admin/public"
+inurl:"/server-info" intext:"Loaded Modules"
+inurl:"/sgdadmin/" Secure Global Desktop
+inurl:"/showLogin.cc?isMobile=false"
+inurl:"/showPlayer.php?id=" intext:"powered by ellistonSPORT"
+inurl:"/sidekiq/busy"
+inurl:"/site/articles.asp?idcategory="
+inurl:"/siteadmin/index.php"
+inurl:"/sitemap.xsd" ext:xsd
+inurl:"/slxweb.dll/external?name=(custportal|webticketcust)"
+inurl:"/squid-reports/" AND intitle:"SARG reports"
+inurl:"/squirrelcart/" -squirrelcart.com
+inurl:"/sslvpn_logon.shtml" intitle:"User Authentication" "WatchGuard Technologies"
+inurl:"/startSSO.ping?" -stackoverflow.com
+inurl:"/tagit2b/"
+inurl:"/testssi.ssi"
+inurl:"/tiny_mce/plugins/ajaxfilemanager/inc/data.php" | inurl:"/tiny_mce/plugins/ajaxfilemanager/ajax_create_folder.php" -github
+inurl:"/tips/tipsLogin.action"
+inurl:"/uddiexplorer/searchpublicregistries.jsp"
+inurl:"/user/register" "Powered by Drupal" -CAPTCHA -"Access denied"
+inurl:"/usp-core/app/authUpdate"
+inurl:"/vam/index_vam_op.php"
+inurl:"/view/view.shtml?id="
+inurl:"/viewer/live.html"
+inurl:"/viewer/live/index.html"
+inurl:"/viewlsts.aspx?BaseType="
+inurl:"/vpn/tmindex.html" vpn
+inurl:"/wap/LoginPolicy.jsp"
+inurl:"/weathermap/weathermap-cacti-plugin.php"
+inurl:"/web-console/" intitle:"Administration Console"
+inurl:"/web/guest/en/websys/webArch/mainFrame.cgi"
+inurl:"/webcm?getpage="
+inurl:"/webdynpro/resources/sap.com/"
+inurl:"/websys/webArch/mainFrame.cgi" -hatana
+inurl:"/wp-admin/setup-config.php" intitle:"Setup Configuration File"
+inurl:"/wp-content/plugins/123ContactForm
+inurl:"/wp-content/plugins/super-forms/"
+inurl:"/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php" - Wordpress File Manager
+inurl:"/wp-content/plugins/wp-mobile-detector/" ext:php
+inurl:"/wp-content/plugins/wp-shopping-cart/"
+inurl:"/wp-content/uploads/db-backup"
+inurl:"/wp-content/uploads/levoslideshow/"
+inurl:"/wp-content/wpclone-temp/wpclone_backup/"
+inurl:"/wp-json/" -wordpress
+inurl:"/xmlrpc.php?rsd" & ext:php
+inurl:"/zebra.conf" ext:conf -git
+inurl:"1220/parse_xml.cgi?"
+inurl:"631/admin" (inurl:"op=*") | (intitle:CUPS)
+inurl:"8003/Display?what="
+inurl:"8080/dashboard/" intitle:"Dashboard"
+inurl:"8080/jmx-console"
+inurl:":10000" intext:webmin
+inurl:":631/printers" -php -demo
+inurl:":8006" and intext:"Proxmox VE Login"
+inurl:":8088/cluster/apps"
+inurl:":9000" PacketVideo corporation
+inurl:"?act=phpinfo"
+inurl:"?delete" +intext:"PHP version" +intext:"Safe_mode"
+inurl:"?option=com_bsadv"
+inurl:"?page=duyurular_detay&id="
+inurl:"?pageNum_RSnews"&view
+inurl:"?pilih=forum"
+inurl:"Activex/default.htm" "Demo"
+inurl:"AllItems.aspx?FolderCTID=" "firewall" | "proxy" | "configuration" | "account"
+inurl:"BasicAuthenticator:LOCAL"
+inurl:"CIHUY"
+inurl:"CgiStart?page="
+inurl:"CookieAuth.dll?GetLogon?" intext:log on
+inurl:"Default+Administrator+View"
+inurl:"IDFM=" "form.php"
+inurl:"InfoViewApp/logon.jsp"
+inurl:"Login;jsessionid="
+inurl:"Makefile.in" ext:in
+inurl:"MultiCameraFrame?Mode=Motion"
+inurl:"NmConsole/Login.asp" | intitle:"Login - Ipswitch WhatsUp Professional 2005" | intext:"Ipswitch WhatsUp Professional 2005 (SP1)" "Ipswitch, Inc"
+inurl:"Orion/Login.aspx?ReturnUrl="
+inurl:"Orion/SummaryView.aspx" intext:"Orion Core"
+inurl:"ReportServer/Pages/ReportViewer.aspx"
+inurl:"S=320x240" | inurl:"S=160x120" inurl:"Q=Mob
+inurl:"Sites.dat"+"PASS="
+inurl:"ViewerFrame?Mode="
+inurl:"WebPortal?bankid"
+inurl:"_notes/dwsync.xml"
+inurl:"ab_fct.php?fct="
+inurl:"add_soft.php"
+inurl:"admin/default.aspx"
+inurl:"ai1wm-backups"
+inurl:"amfphp/browser/servicebrowser.swf"
+inurl:"apc.php" intitle:"APC INFO"
+inurl:"apex/f?p="
+inurl:"app.yaml" intext:"runtime: " ext:yaml
+inurl:"apps/backend/config/"
+inurl:"apps/console/sepm"
+inurl:"article.download.php"
+inurl:"articles.php?topic="
+inurl:"auth.html" intitle:"SonicWall"
+inurl:"auth_user_file.txt"
+inurl:"bookmark.htm"
+inurl:"browse.php?folder=" Powered by GeneShop 5
+inurl:"browsecats.php?cid="
+inurl:"cacti" +inurl:"graph_view.php" +"Settings Tree View" -cvs -RPM
+inurl:"cal_day.php?op=day&catview="
+inurl:"calendars?ri?t/users.txt"
+inurl:"calendarscript/users.txt"
+inurl:"cameralife/index.php"
+inurl:"catalog/product/detail.php?cat="
+inurl:"cgi-bin/dynamic/" inurl:"html" intitle:"Printer Status"
+inurl:"cgi-bin/webcgi/main"
+inurl:"char.php?id=" OR intitle:Minimanager for trinity server
+inurl:"classifide_ad.php"
+inurl:"classifieds.php?cat="
+inurl:"classifieds.php?op=detail_adverts"
+inurl:"click.php?hostid="
+inurl:"clsUploadtest.asp"
+inurl:"cmd=auth?" -github -stackoverflow -gitlab
+inurl:"com_a6mambocredits"
+inurl:"com_acprojects"
+inurl:"com_acstartseite"
+inurl:"com_acteammember"
+inurl:"com_ajaxchat"
+inurl:"com_artlinks"
+inurl:"com_avosbillets"
+inurl:"com_beamospetition"
+inurl:"com_bfsurvey"
+inurl:"com_biblestudy"
+inurl:"com_biographies"
+inurl:"com_book"
+inurl:"com_booklibrary"
+inurl:"com_cartweberp"
+inurl:"com_casino_blackjack"
+inurl:"com_category"
+inurl:"com_ccnewsletter"
+inurl:"com_ckforms"
+inurl:"com_clan"
+inurl:"com_dailymeals"
+inurl:"com_dashboard"
+inurl:"com_dateconverter"
+inurl:"com_dbquery" OR "index.php?option=com_dbquery"
+inurl:"com_digifolio"
+inurl:"com_dms"
+inurl:"com_equipment"
+inurl:"com_event"
+inurl:"com_eventcal"
+inurl:"com_ezine"
+inurl:"com_facebook"
+inurl:"com_fastball"
+inurl:"com_gameserver"
+inurl:"com_ganalytics"
+inurl:"com_gcalendar"
+inurl:"com_hestar"
+inurl:"com_icrmbasic"
+inurl:"com_ignitegallery"
+inurl:"com_ijoomla_archive"
+inurl:"com_janews"
+inurl:"com_jashowcase "
+inurl:"com_jbudgetsmagic"
+inurl:"com_jcalpro"
+inurl:"com_jcollection "
+inurl:"com_jembed"
+inurl:"com_jgen"
+inurl:"com_jjgallery
+inurl:"com_joomlaradiov5"
+inurl:"com_jphoto"
+inurl:"com_jpodium"
+inurl:"com_jsjobs"
+inurl:"com_jvideodirect "
+inurl:"com_kochsuite"
+inurl:"com_koesubmit"
+inurl:"com_linkdirectory"
+inurl:"com_linkr"
+inurl:"com_lyftenbloggie" / "Powered by LyftenBloggie"
+inurl:"com_mambowiki"
+inurl:"com_mojo"
+inurl:"com_mscomment"
+inurl:"com_omphotogallery"
+inurl:"com_otzivi"
+inurl:"com_ownbiblio" catalogue
+inurl:"com_performs"
+inurl:"com_phocagallery"
+inurl:"com_photoblog"
+inurl:"com_pollxt"
+inurl:"com_portfol"
+inurl:"com_prayercenter"
+inurl:"com_productbook"
+inurl:"com_projectfork"
+inurl:"com_quickfaq"
+inurl:"com_rokdownloads"
+inurl:"com_rwcards"
+inurl:"com_sectionex"
+inurl:"com_simpledownload"
+inurl:"com_simplefaq"
+inurl:"com_soundset"
+inurl:"com_sqlreport"
+inurl:"com_surveymanager"
+inurl:"com_tupinambis"
+inurl:"com_virtuemart"
+inurl:"com_wmtpic"
+inurl:"com_youtube"
+inurl:"comment.php?serendipity"
+inurl:"communique_detail.php?id="
+inurl:"config.php.new" +vbulletin
+inurl:"cont_form.php?cf_id="
+inurl:"contentPage.php?id=" OR inurl:"displayResource.php?id=" AND intext:"Website by Mile High Creative"
+inurl:"coursepage.php?id=" intext:"Web Site design by : Aim Web Design Cheshire"
+inurl:"cs.html?url="
+inurl:"customer.aspx"
+inurl:"customer_testimonials.php"
+inurl:"dasdec/dasdec.csp"
+inurl:"dcwp_twitter.php"
+inurl:"dcwp_twitter.php?1="
+inurl:"debug/default/view?panel=config"
+inurl:"default.php" intext:"website" "has been successfully installed on the server!"
+inurl:"directory.php?ax=list" gaming
+inurl:"directory.php?cat=" pubs
+inurl:"dispatch.php?atknodetype" | inurl:class.at
+inurl:"e107_plugins/my_gallery"
+inurl:"ews/setting/setews.htm"
+inurl:"exchange/logon.asp" OR intitle:"Microsoft Outlook Web Access - Logon"
+inurl:"exit.php?site="
+inurl:"exit.php?url=" -entry_id
+inurl:"extras/update.php" intext:mysql.php -display
+inurl:"fbconnect_action=myhome"
+inurl:"fclick.php?fid"
+inurl:"fhem.cfg" AND 'fhem.cfg' -github
+inurl:"filebase.php" "Powered by phpBB"
+inurl:"forumdisplay.php" +"Powered by: vBulletin Version 3.0.0..4"
+inurl:"freshlinks_panel/index.php?linkid"
+inurl:"ftp://www." "Index of /"
+inurl:"g2_view=webdav.WebDavMount"
+inurl:"go.cgi?url="
+inurl:"gradle.properties" intext:"proxyPassword"
+inurl:"guestbook.admin.php?action=settings"
+inurl:"home.htm?cat=home" | inurl:"index.htm?cat=info" | inurl:"index.htm?cat=settings" | inurl:"index.htm?cat=network" | inurl:"index.htm?cat=bluetooth"
+inurl:"html/js/editor/ckeditor/"
+inurl:"http://canvas" | inurl:"https://canvas" | intitle:"Log In to Canvas"
+inurl:"http://ftp.dlink"
+inurl:"http://voicemail."
+inurl:"http://webmail."
+inurl:"https://blackboard" | inurl:"http://blackboard"
+inurl:"https://vdi"
+inurl:"id=" & intext:"MySQL Error: 1064" & "Session halted."
+inurl:"id=" & intext:"Warning: Unknown()
+inurl:"id=" & intext:"Warning: array_merge()
+inurl:"id=" & intext:"Warning: filesize()
+inurl:"id=" & intext:"Warning: getimagesize()
+inurl:"id=" & intext:"Warning: ilesize()
+inurl:"id=" & intext:"Warning: is_writable()
+inurl:"id=" & intext:"Warning: mysql_fetch_array()
+inurl:"id=" & intext:"Warning: mysql_fetch_assoc()
+inurl:"id=" & intext:"Warning: mysql_num_rows()
+inurl:"id=" & intext:"Warning: mysql_query()
+inurl:"id=" & intext:"Warning: mysql_result()
+inurl:"id=" & intext:"Warning: pg_exec()
+inurl:"id=" & intext:"Warning: preg_match()
+inurl:"id=" & intext:"Warning: require()
+inurl:"id=" & intext:"Warning: session_start()
+inurl:"id=*" & intext:"warning mysql_fetch_array()"
+inurl:"idx_config"
+inurl:"images/lists?cid=13"
+inurl:"img/main.cgi?next_file"
+inurl:"index.cfm?action=" intext:"Exception in onError"
+inurl:"index.php" intitle:"CMS Login"
+inurl:"index.php? module=ew_filemanager"
+inurl:"index.php?com_remository"
+inurl:"index.php?conteudo="
+inurl:"index.php?css=mid=art="
+inurl:"index.php?db="
+inurl:"index.php?edicion_id="
+inurl:"index.php?id=" intext:"Warning: mysql_num_rows()"
+inurl:"index.php?id_menu="
+inurl:"index.php?ind=blog"
+inurl:"index.php?m=content+c=rss+catid=10"
+inurl:"index.php?m_id="
+inurl:"index.php?module=ew_filemanager"
+inurl:"index.php?module=pnFlashGames"
+inurl:"index.php?name=PNphpBB2"
+inurl:"index.php?option=com_annuaire"
+inurl:"index.php?option=com_bookjoomlas"
+inurl:"index.php?option=com_catalogue"
+inurl:"index.php?option=com_ccnewsletter" inurl:sbid
+inurl:"index.php?option=com_competitions"
+inurl:"index.php?option=com_djiceshoutbox"
+inurl:"index.php?option=com_fabrik"
+inurl:"index.php?option=com_hdwplayer"
+inurl:"index.php?option=com_huruhelpdesk"
+inurl:"index.php?option=com_iproperty"
+inurl:"index.php?option=com_jeajaxeventcalendar"
+inurl:"index.php?option=com_jequoteform"
+inurl:"index.php?option=com_jobline"
+inurl:"index.php?option=com_joomanager"
+inurl:"index.php?option=com_jp_jobs"
+inurl:"index.php?option=com_jsjobs"
+inurl:"index.php?option=com_jssupportticket"
+inurl:"index.php?option=com_oziogallery"
+inurl:"index.php?option=com_ponygallery"
+inurl:"index.php?option=com_portfolio"
+inurl:"index.php?option=com_prime"
+inurl:"index.php?option=com_simpleboard"
+inurl:"index.php?option=com_simplefaq"
+inurl:"index.php?option=com_spa"
+inurl:"index.php?option=com_storedirectory"
+inurl:"index.php?page=news.php"
+inurl:"index.php?pageid=" Property Listings
+inurl:"index.php?serverid="
+inurl:"index2.php?option=rss" OR "powered By Limbo CMS"
+inurl:"info_deviceStatus.html" | inurl:"info_suppliesStatus.html" | inurl:"info_configuration.html" | inurl:"info_config_network.html" | inurl:"info_specialPages.html" | inurl:"info_colorUsageJobLog.html" | inurl:"info_eventLog.html"
+inurl:"install/install.php"
+inurl:"installer-log.txt" intext:"DUPLICATOR INSTALL-LOG"
+inurl:"inurl:file.php?recordID="
+inurl:"ipp/pdisplay.htm"
+inurl:"ir/addlink.php?id=" OR inurl:"addlink.php?id="
+inurl:"izle.asp?oyun="
+inurl:"jmx-console/HtmlAdaptor" intitle:Mbean
+inurl:"jpegpush.htm"
+inurl:"jscripts/tiny_mce/plugins/tinybrowser/"
+inurl:"kgb19"
+inurl:"kroax.php?category"
+inurl:"level/15/exec/-/show"
+inurl:"links_showcat.php?"
+inurl:"list.php?c="
+inurl:"list.php?lcat_id="
+inurl:"lista_articulos.php?id_categoria="
+inurl:"lists/?p=subscribe" | inurl:"lists/index.php?p=subscribe"
+inurl:"live/cam.html"
+inurl:"lvappl.htm"
+inurl:"mail" ext:mai
+inurl:"main.php?action=db"
+inurl:"main_forum.php?cat="
+inurl:"map.asp?" intitle:"WhatsUp Gold"
+inurl:"member.php?page=comments"
+inurl:"messageboard/Forum.asp?"
+inurl:"mgl-instagram-gallery/single-gallery.php?media"
+inurl:"microstrategy/servlet/mstrweb"
+inurl:"mjpg/video.cgi?resolution="
+inurl:"mod.php?mod=blog" intext:"powered by DIY-CMS"
+inurl:"mod=notizie"
+inurl:"module=helpcenter"
+inurl:"modules.php?name=My_eGallery"
+inurl:"modules/articles/index.php?cat_id="
+inurl:"multimon.cgi" intitle:"UPS"
+inurl:"myLDlinker.php"
+inurl:"nabopoll/"
+inurl:"newsletter/admin/"
+inurl:"newsletter/admin/" intitle:"newsletter admin"
+inurl:"next_file=main_fs.htm" inurl:img inurl:image.cgi
+inurl:"noticias.php?notiId="
+inurl:"nph-proxy.cgi" "Start browsing through this CGI-based proxy"
+inurl:"option=com_camelcitydb2"
+inurl:"option=com_elite_experts"
+inurl:"option=com_org"
+inurl:"option=com_simpleshop" & inurl:"viewprod"
+inurl:"option=com_tophotelmodule"
+inurl:"pages/sdcall/Login.jsp"
+inurl:"paypal.log" ext:log
+inurl:"photo_album.php?alb_id="
+inurl:"php/showContent.php?linkid="
+inurl:"php?id=" intext:"DB_Error Object "
+inurl:"phpOracleAdmin/php" -download -cvs
+inurl:"phpRaid" "phpRaid" "roster.php?Sort=Race"
+inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]"
+inurl:"phpsecurepages"
+inurl:"phpwcms/index.php?id="
+inurl:"phshoutbox.php"
+inurl:"phy.htm" intitle:"Touchstone Status"
+inurl:"picture.php?cat=" "Powered by PhpWebGallery 1.3.4"
+inurl:"plesk-stat"
+inurl:"plog/register.php"
+inurl:"port_255" -htm
+inurl:"portal.mwsl" "Status"
+inurl:"powered by eggblog"
+inurl:"printable_pedigree.php"
+inurl:"printer.asp?forum="
+inurl:"printer/main.html" intext:"settings"
+inurl:"product_desc.php?id=" Powered by Zeeways.com
+inurl:"produtos.asp?produto="
+inurl:"pubdlcnt.php?file=" ext:php
+inurl:"putty.reg"
+inurl:"read.asp?fID="
+inurl:"read.php?datespan="
+inurl:"robots" | "robot" intext:"Disallow:" | "Allow:" ext:txt
+inurl:"robots" | "robot" intext:"admin" AND "Disallow" ext:txt
+inurl:"root?originalDomain"
+inurl:"sap/hrrcf_a_startpage_ext_cand" | inurl:"sap/hrrcf_a_pw_via_email_extern"
+inurl:"saw.dll" AND intitle:"Sign In"
+inurl:"sbw2Behoerden.php"
+inurl:"search_form.php?sb_showresult="
+inurl:"search_results.php?browse=1"
+inurl:"section.php?name=singers"
+inurl:"security/xamppdirpasswd.txt"
+inurl:"select_file2.php"
+inurl:"server-status" "Server Version: Apache/" "Server Built: " "Server uptime:" "Total accesses" "CPU Usage:"
+inurl:"server-status" intext:"Apache Server Status"
+inurl:"serverpush.htm" "IP Camera" intext:"Foscam"
+inurl:"serverpush.htm" intext:"Foscam"
+inurl:"serverpush.htm" intext:"Real-time"
+inurl:"servlet/ViewFormServlet?" "pwd"
+inurl:"set_config_networkIPv6.html"
+inurl:"shopadmin.asp" "Shop Administrators only"
+inurl:"simpleblog3"
+inurl:"simplenews/admin"
+inurl:"sinagb.php"
+inurl:"sitegenius/topic.php"
+inurl:"sitemanager.xml" ext:xml -git
+inurl:"sites/all/modules/ckeditor" -drupalcode.org
+inurl:"sitescope.html" intitle:"sitescope" intext:"refresh" -demo
+inurl:"slapd.conf" intext:"credentials" -manpage -"Manual Page" -man: -sample
+inurl:"slapd.conf" intext:"rootpw" -manpage -"Manual Page" -man: -sample
+inurl:"slxweb.dll"
+inurl:"smb.conf" intext:"workgroup" filetype:conf
+inurl:"smb.conf" intext:"workgroup" filetype:conf conf
+inurl:"sticker/sticker.php?id="
+inurl:"struts" filetype:action
+inurl:"sugarcrm.log" ext:log -git -google
+inurl:"swagger-ui/index.html"
+inurl:"telerik.web.ui.webresource.axd?type=rau"
+inurl:"test/php/test.html" Plesk File
+inurl:"this.LCDispatcher?nav="
+inurl:"tiki-index.php" filetype:php "This is TikiWiki 1.9"
+inurl:"tinybrowser.php?"
+inurl:"tmtrack.dll?"
+inurl:"topPage.cgi" | inurl:"mainFrame.cgi" intext:"Web Image Monitor"
+inurl:"toplist.php" "powered by phpbb"
+inurl:"tr.php?id=" Short Url & Url Tracker
+inurl:"tr1.php?id="
+inurl:"tr1.php?id=" Forced Matrix
+inurl:"trace.axd" ext:axd "Application Trace"
+inurl:"track.php?id="
+inurl:"tradeCategory.php?id= "
+inurl:"typo3/index.php?u=" -demo
+inurl:"urlstatusgo.html?url=" -intext:"Disallowed by URL filter"
+inurl:"userimage.html" "Live" "Open"
+inurl:"userjournals.php?blog."
+inurl:"utilities/TreeView.asp"
+inurl:"vbplaza.php?do="
+inurl:"vcalendar_asp"
+inurl:"view.php?ItemID=" rating "rate this review"
+inurl:"view.shtml" "Network Camera"
+inurl:"view.shtml" "Network"
+inurl:"view.shtml" "camera"
+inurl:"view/index.shtml"
+inurl:"view_group.php?group_id="
+inurl:"web.config" & intext:"Data Source" & "User ID" & "Password" & "connectionString" & ext:config -git
+inurl:"web/database/selector"
+inurl:"webArch/mainFrame.cgi" + "Web Image Monitor"
+inurl:"webadmin" filetype:nsf
+inurl:"webboard/view.php?topic="
+inurl:"weblink_cat_list.php?bcat_id="
+inurl:"wfdownloads/viewcat.php?list="
+inurl:"whoiscart/admin/hostinginterfaces/"
+inurl:"woocommerce-exporter"
+inurl:"wp-content/plugins/form-maker"
+inurl:"wp-content/plugins/learnpress"
+inurl:"wp-content/plugins/ninja-forms"
+inurl:"wp-content/plugins/siteorigin-panels"
+inurl:"wp-content/plugins/wp-super-edit/superedit/" | inurl:"wp-content/plugins/wp-super-edit/superedit/tinymce_plugins/mse/fckeditor/editor/filemanager/upload/"
+inurl:"wp-content/uploads/file-manager/log.txt"
+inurl:"wp-content/uploads/private"
+inurl:"wp-contentpluginsall-in-one-seo-pack"
+inurl:"wp-contentpluginsphoto-gallery"
+inurl:"wp-download.php?dl_id="
+inurl:"wp-license.php?file=../..//wp-config"
+inurl:"wp-security-audit-log" ext:log
+inurl:"wwwroot/
+inurl:"xampp/biorhythm.php"
+inurl:"xamppsecurity.php"
+inurl:"zcat.php?id="
+inurl:''com_gmapfp''
+inurl:'/SSI/Auth/ip_configuration.htm'
+inurl:'/logon/logonServlet'
+inurl:'/scopia/entry/index.jsp'
+inurl:'/zabbix/index.php'
+inurl:'listprojects.spr'
+inurl:("/storage/logs/laravel.log") AND intext:("local.ERROR" | "NULL.ERROR" | "EMERGENCY:")
+inurl:*.exe ext:exe inurl:/*cgi*/
+inurl:*/graphs* intitle:"Traffic and system resource graphing"
+inurl:*/webalizer/* intitle:"Usage Statistics"
+inurl:*db filetype:mdb
+inurl:+CSCOE+/logon.html
+inurl:./sws/index.sws
+inurl:.DS_Store intitle:index.of
+inurl:.asp? Powered by Comersus ASP Shopping Cart
+inurl:.cgi-bin/luci
+inurl:.cgi-bin/webproc
+inurl:.com/configuration.php-dist
+inurl:.drone.yml intext:git config user.email
+inurl:.elasticbeanstalk.com/admin
+inurl:.listing intitle:index.of
+inurl:.org intitle index.of "inflation"
+inurl:.php intitle:- BOFF 1.0 intext:[ Sec. Info ]
+inurl:.php? intext:CHARACTER_SETS,COLLATIONS, ?intitle:phpmyadmin
+inurl:.ssh intitle:index.of authorized_keys
+inurl:/*.php?id=
+inurl:/+CSCOE+/logon.html
+inurl:/+CSCOE+/logon.html?
+inurl:/.well-known/security.txt
+inurl:/8080 "windows" "live view"
+inurl:/8080/admin.html
+inurl:/?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 | inurl:/?=PHPE9568F35-D428-11d2-A769-00AA001ACF42
+inurl:/?MAIN=DEVICE intitle:TopAccess intext:Device
+inurl:/?op=register
+inurl:/?op=registration
+inurl:/?skipANDROID=true intext:"Pydio Community"
+inurl:/AirWatch/Login?
+inurl:/CMSPages/logon ext:aspx
+inurl:/CgiStart?page
+inurl:/Citrix/Nfuse17/
+inurl:/CollectionContent.asp?id=
+inurl:/Content.asp?id=
+inurl:/Dashboard.xhtml intitle:"Dashboard"
+inurl:/DeclaranetPlusWebapp/ intext:Entrar
+inurl:/Details.asp?id=
+inurl:/DeviceInformation/View "Device Name"
+inurl:/Divi/Changelog.txt /Divi/Changelog.txt
+inurl:/EasyPAY/view
+inurl:/FCKeditor/editor/filemanager/upload/
+inurl:/FxCodeShell.jsp/ "Login Form" "Blog Comments"
+inurl:/HDDReplay.html
+inurl:/INALogin.jsp
+inurl:/Jview "zoom"
+inurl:/Jview.htm + "View Video - Java Mode"
+inurl:/Jview.htm + intext:"Zoom :"
+inurl:/Login/Admin intitle:"Admin Login"
+inurl:/Merchant2/admin.mv | inurl:/Merchant2/admin.mvc | intitle:"Miva Merchant Administration Login" -inurl:cheap-malboro.net
+inurl:/PRESENTATION/BONJOUR intitle:Series
+inurl:/PRESENTATION/EPSONCONNECT
+inurl:/PRESENTATION/HTML/TOP/PRTINFO.HTML
+inurl:/PRESENTATION/PSWD
+inurl:/Portal/Portal.mwsl
+inurl:/Portal/Portal.mwsl?PriNav=FileBrowser
+inurl:/Portal0000.htm
+inurl:/Remote/logon?ReturnUrl
+inurl:/SAML2/SOAP/ | inurl:/SAML2/POST
+inurl:/SUSAdmin intitle:"Microsoft Software Update Services"
+inurl:/SUSAdmin intitle:"Microsoft Software upd?t? Services"
+inurl:/SiteChassisManager/
+inurl:/UserLogin intitle:"::PayTV SMS::" "Aplomb Technology"
+inurl:/ViewerFrame? intitle:"Network Camera NetworkCamera"
+inurl:/WhatNew.asp?page=&id=
+inurl:/\\filesrc=**** ~"Current" ~":/" ~"upload"
+inurl:/_blogadata/
+inurl:/_cat/indices/
+inurl:/_catalogs
+inurl:/_hcms/
+inurl:/_layouts "[To Parent Directory]"
+inurl:/_layouts/mobile/view.aspx?List=
+inurl:/_layouts/settings
+inurl:/_vti_bin/ ext:asmx
+inurl:/_vti_bin/Authentication.asmx
+inurl:/_vti_pvt/service.cnf | inurl:/_vti_inf.html | inurl:/_vti_bin/ | inurl:/_vti_bin/spsdisco.aspx
+inurl:/_vti_txt*
+inurl:/account/logon intitle:"Log On"
+inurl:/add_vhost.php?lang=
+inurl:/adfs/ls/?SAMLRequest
+inurl:/adfs/ls/idpinitiatedsignon
+inurl:/adfs/oauth2/authorize
+inurl:/adfs/services/trust
+inurl:/adm-cfgedit.php
+inurl:/admin ext:config
+inurl:/admin intitle:Pulse.CMS -pulsecms.com
+inurl:/admin/ intitle:index.of
+inurl:/admin/AdminLogin.jsp intitle:"CERGY - Administration"
+inurl:/admin/index.php
+inurl:/admin/index.php?module=config
+inurl:/admin/public/asdm.jnlp "ASDM on"
+inurl:/admin/radeditorprovider/dialoghandler.aspx "Loading the dialog..."
+inurl:/application/config/database.php*
+inurl:/articles.php?id=
+inurl:/aspnet_client/system_web/
+inurl:/awcuser*
+inurl:/awcuser/cgi-bin/
+inurl:/banking.jsp?fldsegment=
+inurl:/calendar.php?token=
+inurl:/calendar/calendar_form.php
+inurl:/careers-detail.asp?id=
+inurl:/certs/server.key
+inurl:/certsrv/certrqus.asp
+inurl:/cgi-bin/.cgi
+inurl:/cgi-bin/MANGA/index.cgi
+inurl:/cgi-bin/finger? "In real life"
+inurl:/cgi-bin/finger? Enter (account|host|user|username)
+inurl:/cgi-bin/index.cgi inurl:topics inurl:viewca
+inurl:/cgi-bin/luci/freifunk/graph/olsrd/topology/
+inurl:/cgi-bin/makecgi-pro
+inurl:/cgi-bin/manlist?section
+inurl:/cgi-bin/pass.txt
+inurl:/cgi-bin/sqwebmail?noframes=1
+inurl:/clusters intitle:"kafka Manager"
+inurl:/cmsinstall/install ext:aspx
+inurl:/com_chronocontact
+inurl:/commodities.php?*id=
+inurl:/commodities.php?id=
+inurl:/component/jeeventcalendar/
+inurl:/component/jesectionfinder/
+inurl:/components/je-media-player.html?
+inurl:/config/authentication_page.htm
+inurl:/config/cam_portal.cgi "Panasonic"
+inurl:/config/device/wcd
+inurl:/console-selfservice/common/scripts/calendar/ipopeng.htm
+inurl:/contao/main ext:php -community -github
+inurl:/control/userimage.html
+inurl:/controlmenu.htm
+inurl:/counter/index.php intitle:"+PHPCounter 7.*"
+inurl:/dana-cached/sc/
+inurl:/dana-na/ filetype:cgi
+inurl:/dana-na/auth/
+inurl:/dana-na/auth/url_default/welcome.cgi "VPN"
+inurl:/dana-na/auth/welcome.html
+inurl:/dana/home/ filetype:cgi
+inurl:/daten/webyep-log.txt
+inurl:/db.php?path_local=
+inurl:/db/main.mdb
+inurl:/dbcp.properties + filetype:properties -github.com
+inurl:/dbg-wizard.php
+inurl:/default.php?id=
+inurl:/default.php?portalID=
+inurl:/designs/imm/index.php
+inurl:/details.php?linkid=
+inurl:/dosearch.asp?
+inurl:/downlot.php?file=
+inurl:/elfinder/elfinder.html+intitle:"elFinder 2.0"
+inurl:/emptyView4.html
+inurl:/en/help.cgi "ID=*"
+inurl:/eprise/
+inurl:/eventdetails.php?*=
+inurl:/exec/show/tech-support/cr
+inurl:/fantastico_fileslist.txt + ext:txt
+inurl:/fckeditor/editor/plugins/ajaxfilemanager/ajaxfilemanager.php
+inurl:/filedown.php?file=
+inurl:/files/_log/ filetype:log
+inurl:/files/contao
+inurl:/frameprop.htm
+inurl:/frontend/paper_lantern/index.html
+inurl:/gallery.asp?cid=
+inurl:/games.php?id= "Powered by PHPD Game Edition"
+inurl:/gmap.php?id=
+inurl:/graphs/ intitle:RouterOs
+inurl:/gravity_forms/logs ext:txt
+inurl:/guestimage.html
+inurl:/hbcms/php/
+inurl:/help/lang/en/help
+inurl:/helpdesk/staff/index.php?
+inurl:/home/homej.html
+inurl:/homej.html?
+inurl:/hp/device/SignIn/
+inurl:/hp/device/supply_status.htm
+inurl:/human.aspx?r=
+inurl:/ics?tool=search
+inurl:/identify/ intitle:"Forgotten Password"
+inurl:/iisstart.htm intitle:"IIS7"
+inurl:/img/vr.htm
+inurl:/imprimir.php?id=
+inurl:/include/footer.inc.php?_AMLconfig[cfg_serverpath]=
+inurl:/index.htm intext:"Oki Data Corporation"
+inurl:/index.htm?cat=info&pagesRemaining
+inurl:/index.htm?cat=info&printerInfo
+inurl:/index.html?size=2&mode=4
+inurl:/index.php/admin/authentication/ intext:clave
+inurl:/index.php?PID= "Powered By Dew-NewPHPLinks v.2.1b"
+inurl:/index.php?option=com_artforms
+inurl:/index.php?option=com_otzivi
+inurl:/index.php?option=com_yellowpages
+inurl:/index.php?pgId=
+inurl:/infusions/e_cart
+inurl:/inicis/ ext:log
+inurl:/install/stringnames.txt
+inurl:/intranet/signup
+inurl:/irj/portal
+inurl:/j_security_check;jsessionid=
+inurl:/javax.faces.resource/
+inurl:/jobq.htm AND intext:"ApeosPort-V"
+inurl:/jobsearchengine/
+inurl:/jsps/testoperation.jsp "Test Operation"
+inurl:/level/15/exec/-
+inurl:/level/15/exec/-/configure/http
+inurl:/list_blogs.php?sort_mode=
+inurl:/live.htm intext:"M-JPEG"|"System Log"|"Camera-1"|"View Control"
+inurl:/macgurublog_menu/
+inurl:/main.html intext:SHARP AND intext:MX-*
+inurl:/main/main.html "Administrator Settings"
+inurl:/maint/repair.php?repair=1
+inurl:/mjpg/video.mjpg
+inurl:/mjpgmain.asp
+inurl:/modcp/ intext:Moderator+vBulletin
+inurl:/modules/Partenaires/clic.php?id=
+inurl:/modules/camportail/
+inurl:/modules/debaser/
+inurl:/modules/kshop/
+inurl:/modules/lykos_reviews/
+inurl:/modules/rmgallery/
+inurl:/modules/tinyevent/
+inurl:/modules/wflinks
+inurl:/modules/xfsection/
+inurl:/mpfn=pdview&id=
+inurl:/multi.html intitle:webcam
+inurl:/munin/localdomain/localhost.localdomain/open_files.html
+inurl:/mutillidae/ "Toggle Hints"
+inurl:/my.logon.php3?
+inurl:/nesp/app
+inurl:/net/net/protocol.html
+inurl:/news.php?include=
+inurl:/node/add/event
+inurl:/notizia.php?idArt=
+inurl:/nphMotionJpeg?Resolution=
+inurl:/o/oauth2 inurl:client_id
+inurl:/oam/server/obrareq.cgi | ext:"encquery" | ext:"Portal_Webcenter"
+inurl:/opac/index.jsp
+inurl:/openwebmail/cgi-bin/openwebmail/etc/
+inurl:/os_view_full.php?
+inurl:/package.json
+inurl:/pages/default.aspx | inurl:/páginas/default.aspx
+inurl:/php-errors.log filetype:log
+inurl:/php/info.php
+inurl:/phpMyAdmin/setup/index.php?phpMyAdmin=
+inurl:/phpPgAdmin/browser.php
+inurl:/phpPgAdmin/browser.php intext:"Servers" | "PostgreSQL*"
+inurl:/phpfootball/
+inurl:/phpldapadmin/cmd.php
+inurl:/phpmyadmin/changelog.php -github -gitlab
+inurl:/phpmyadmin/index.php?db=
+inurl:/phpplanner/userinfo.php?userid=
+inurl:/pls/sample/admin_/help/
+inurl:/plugins/aviary-image-editor-add-on-for-gravity-forms/
+inurl:/plugins/pie-register/
+inurl:/portal/apis/fileExplorer/
+inurl:/portal/indicate intitle:Remote UI
+inurl:/presentation/html/top/index.html
+inurl:/proc/self/cwd
+inurl:/prodotti.php?id=
+inurl:/profile.php?lookup=1
+inurl:/psp/ intext:"ORACLE PEOPLESOFT"
+inurl:/pub/ inurl:_ri_
+inurl:/public/?Cmd=contents
+inurl:/publications.asp?type=
+inurl:/push/ .pem apns -"push notifications" "bag attributes"
+inurl:/pwm/public/
+inurl:/recipe-view.php?id=
+inurl:/reservations.php?id=
+inurl:/sample/LvAppl/lvappl.htm
+inurl:/sap/bc/bsp
+inurl:/sap/bc/webdynpro/ logon
+inurl:/scgi-bin*
+inurl:/scripts/wgate
+inurl:/secure/ContactAdministrators!default.jspa intext:"Request Details" -intext:"Your Jira administrator has not yet configured this contact form"
+inurl:/secure/Dashboard.jspa intitle:"System Dashboard"
+inurl:/secure/attachment/ filetype:log OR filetype:txt
+inurl:/seeyon/index.jsp
+inurl:/server-status + "Server MPM:"
+inurl:/server/webapps
+inurl:/servicedesk/customer/user/signup
+inurl:/setup.cgi@next_file=
+inurl:/shared/help.php?page=
+inurl:/sitefinity intext:Copyright.(c)*Telerik. Site.Finity
+inurl:/siteminderagent/ | app:"Error 404: java.io.FileNotFoundException: SRVE0190E: File not found: /siteminderagent/"
+inurl:/sites/default/files/webform/
+inurl:/sites/default/private
+inurl:/smpwservices.fcc | "/lm_private/CkeSetter.aspx"
+inurl:/snap.cgi?&-getpic
+inurl:/squirrelcart/
+inurl:/squirrelcart/cart_content.php?cart_isp_root=
+inurl:/sslvpn/Login/Login
+inurl:/supportboard
+inurl:/swagger/index.html
+inurl:/sws/index.html
+inurl:/sym/root/ intitle:index.of
+inurl:/sym404/root
+inurl:/system/article/alltopics.php OR inurl:/system/user/index.php
+inurl:/tcpipv4.htm
+inurl:/tcpipv6.htm
+inurl:/tiny_mce/plugins/filemanager/
+inurl:/tmp
+inurl:/typo3/typo3conf
+inurl:/uniquesig0/ or inurl:/uniquesig0/InternalSite/
+inurl:/uploads/affwp-debug.log
+inurl:/uploads/wc-logs/
+inurl:/users/sign_in
+inurl:/vb/install/install.php
+inurl:/vb/install/upgrade.php
+inurl:/view.htm?mode=l
+inurl:/view/lang/index.php?page=?page=
+inurl:/view/viewer_index.shtml
+inurl:/viewfaqs.php?cat=
+inurl:/voice/advanced/ intitle:Linksys SPA configuration
+inurl:/web-console/ServerInfo.jsp | inurl:/status?full=true
+inurl:/web-ftp.cgi
+inurl:/webCal3_detail.asp?event_id=
+inurl:/webedit.* intext:WebEdit Professional -html
+inurl:/webmail intext:Tecnologia fornecida por IceWarp Server
+inurl:/webmail/ intext:Powered by IceWarp Server
+inurl:/webquest/soporte_derecha_w.php?
+inurl:/welcome.cgi? | p=no-cert
+inurl:/wp-admin/admin-ajax.php?action=revslider_ajax_action
+inurl:/wp-admin/admin.php intitle:"Log In"
+inurl:/wp-admin/includes/plugin-install.php
+inurl:/wp-admin/post.php?post=
+inurl:/wp-content/ai1wm-backups + wpress
+inurl:/wp-content/plugins/angwp
+inurl:/wp-content/plugins/elementor/
+inurl:/wp-content/plugins/fgallery/
+inurl:/wp-content/plugins/inboundio-marketing/
+inurl:/wp-content/plugins/mstore-api/
+inurl:/wp-content/plugins/seo-pressor/classes/
+inurl:/wp-content/plugins/simple-forum/admin/
+inurl:/wp-content/plugins/thecartpress/
+inurl:/wp-content/plugins/wp-e-commerce
+inurl:/wp-content/plugins/wp-ecommerce-shop-styling/
+inurl:/wp-content/plugins/wp-file-manager/readme.txt
+inurl:/wp-content/plugins/wp-filebase/
+inurl:/wp-content/plugins/wpSS/
+inurl:/wp-content/plugins/wpdiscuz/
+inurl:/wp-content/themes/CherryFramework
+inurl:/wp-content/themes/IncredibleWP
+inurl:/wp-content/themes/altair/
+inurl:/wp-content/themes/avada
+inurl:/wp-content/themes/beach_apollo
+inurl:/wp-content/themes/centum
+inurl:/wp-content/themes/fruitful/
+inurl:/wp-content/themes/listingpro/
+inurl:/wp-content/themes/realestate-7
+inurl:/wp-content/themes/striking_r
+inurl:/wp-content/themes/traveler/
+inurl:/wp-content/themes/ultimatum
+inurl:/wp-content/uploads/ "phpMyAdmin SQL Dump"
+inurl:/wp-content/uploads/ filetype:sql
+inurl:/wp-content/uploads/data.txt
+inurl:/wp-content/uploads/wp-backup-plus/
+inurl:/wp-content/uploads/wp-file-manager-pro
+inurl:/wp-content/uploads/wp-file-manager-pro/fm_backup
+inurl:/wp-content/uploads/wpdm-cache
+inurl:/wp-content/w3tc/dbcache/
+inurl:/wp-content/wpbackitup_backups
+inurl:/wp-includes/certificates/
+inurl:/wp-json/wp/v2/users/ "id":1,"name":" -wordpress.stackexchange.com -stackoverflow.com
+inurl:/wp/wp-admin/
+inurl:/wwwboard
+inurl:/xampp
+inurl:/xprober ext:php
+inurl:/yabb/Members/Admin.dat
+inurl:/yum.log | intitle:yum.log + ext:log
+inurl:1337w0rm.php intitle:1337w0rm
+inurl:1810 "Oracle Enterprise Manager"
+inurl:2506/jana-admin
+inurl:32400/web/index.html
+inurl:5000/webman/index.cgi
+inurl:7001/console intitle:weblogic
+inurl:7474/browser intitle:Neo4j
+inurl:8000 intext:"Copyright CANON INC. 2012"
+inurl:8000/portal/
+inurl:8080 + intext:"httpfileserver 2.3"
+inurl:8080 intitle:"Dashboard [Jenkins]"
+inurl:8080/dashboard intitle:Graphite Dashboard
+inurl:8080/dashboard.php
+inurl:8080/webinterface intitle:"crushftp"
+inurl:8081/ "Pan, Tilt & Zoom"
+inurl:8443 AND -intitle:8443 AND -intext:8443 prohibited|restricted|unauthorized
+inurl:9000 AND intext:"Continuous Code Quality"
+inurl:9443/vsphere-client
+inurl::/app/kibana "Kibana" -discuss -ipaddress -git
+inurl::2082/frontend -demo
+inurl::5601/app/kibana
+inurl:?XDEBUG_SESSION_START=phpstorm
+inurl:?filesrc=**** ~"Current" ~"asp"
+inurl:?wp-commentsrss2.php -git
+inurl:AIMS/PS
+inurl:API_HOME_DIR=
+inurl:CFIDE/adminapi
+inurl:CGI/Java/Serviceability?adapter=device.statistics.device
+inurl:CTCWebService
+inurl:Citrix/MetaFrame/default/default.aspx
+inurl:Citrix/MetaframeXP
+inurl:ConnectComputer/precheck.htm | inurl:Remote/logon.aspx
+inurl:CrazyWWWBoard.cgi intext:"detailed debugging information"
+inurl:CuteSoft_Client/CuteEditor
+inurl:Dashboard.jspa intext:"Atlassian Jira Project Management Software"
+inurl:DiGIR.php
+inurl:Dialin/Conference.aspx
+inurl:EMSWebClient/
+inurl:EMSWebClient/Login.aspx
+inurl:Editor/assetmanager/assetmanager.asp
+inurl:EndUserPortal.jsp
+inurl:F5Networks-SSO-Req?
+inurl:FileListAbsolute ext:txt
+inurl:HT=
+inurl:JBSPro
+inurl:JPGLogin.htm
+inurl:K-Search, Powered By K-Search
+inurl:LOG.txt X-System folder
+inurl:Login.aspx intitle:":::Login:::" "RM"
+inurl:Main_Login.asp AND intext:"Sign in with your ASUS router account"
+inurl:ManageFilters.jspa?filterView=popular
+inurl:ManyServers.htm
+inurl:OrganizationChart.cc
+inurl:PHPhotoalbum/statistics intitle:"PHPhotoalbum - Statistics"
+inurl:Pageid=
+inurl:Printers/ipp_0001.asp
+inurl:Productinfo.php?id=
+inurl:Proxy.txt
+inurl:ReportViewer.aspx
+inurl:RgFirewallRL.asp | inurl:RgDmzHost.asp | inurl:RgMacFiltering.asp | inurl:RgConnect.asp | inurl:RgEventLog.asp | inurl:RgSecurity.asp | inurl:RgContentFilter.asp | inurl:wlanRadio.asp
+inurl:RichWidgets/Popup_Upload.aspx
+inurl:SSI/index.htm
+inurl:SSOLogin.jsp intext:"user"
+inurl:Settings.aspx intitle:Beyond TV
+inurl:Sitefinity/Authenticate/SWT
+inurl:Stray-Questions-View.php?num=
+inurl:TOP/PRTINFO.HTML
+inurl:TiVoConnect?Command=QueryServer
+inurl:ViewerFrame?Mode=Refresh
+inurl:VirtualEms/Login.aspx
+inurl:WCP_USER
+inurl:WS_FTP.log
+inurl:XcCDONTS.asp
+inurl:_cpanel/forgotpwd
+inurl:_vti_bin/Authentication.asmx
+inurl:_vti_bin/sites.asmx?wsdl | intitle:_vti_bin/sites.asmx?wsdl
+inurl:_vti_pvt/administrators.pwd
+inurl:_vti_pvt/service.pwd
+inurl:aboutbook.php?id=
+inurl:access
+inurl:access.cnf ext:cnf
+inurl:acrotxt.php wbb
+inurl:act=
+inurl:action=
+inurl:add_soft.php
+inurl:adfs inurl:wctx inurl:wtrealm -microsoft.com
+inurl:admin ext:sql
+inurl:admin filetype:asp inurl:userlist
+inurl:admin filetype:db
+inurl:admin filetype:txt
+inurl:admin filetype:xls
+inurl:admin inurl:uploads
+inurl:admin inurl:userlist
+inurl:admin.aspx
+inurl:admin.php inurl:admin ext:php
+inurl:admin/admin/Login
+inurl:admin/reset.php -github
+inurl:admin/upload.asp
+inurl:administrator "welcome to mambo"
+inurl:administrator/components/com_comprofiler/plugin.class.php?mosConfig_absolute_path=
+inurl:adminpanel.aspx
+inurl:adminpanel/index.php
+inurl:advsearch.php?module= & intext:sql syntax
+inurl:agc/vicidial.php
+inurl:ages.php?id=
+inurl:ajax.php?page=
+inurl:announce.php?id=
+inurl:aol*/_do/rss_popup?blogID=
+inurl:apages.php
+inurl:app/config/ intext:parameters.yml intitle:index.of
+inurl:app/etc/local.xml
+inurl:app/kibana intext:Loading Kibana
+inurl:art.php?idm=
+inurl:article.php?ID=
+inurl:article.php?id=
+inurl:artikelinfo.php?id=
+inurl:asp
+inurl:auth/Login
+inurl:authorization.ping
+inurl:autodiscover/autodiscover ext:xml
+inurl:autodiscover/autodiscover.xml
+inurl:avd_start.php?avd=
+inurl:axis-cgi
+inurl:axis-cgi/jpg
+inurl:axis-cgi/mjpg (motion-JPEG)
+inurl:axis-cgi/mjpg/video swf
+inurl:axis-cgi/mjpg/video.cgi
+inurl:axis.cgi ext:cgi
+inurl:b2b/init.do
+inurl:backup filetype:mdb
+inurl:backup intitle:index.of inurl:admin
+inurl:band_info.php?id=
+inurl:bemarket
+inurl:bin.welcome.sh | inurl:bin.welcome.bat | intitle:eHealth.5.0
+inurl:board=
+inurl:browse.php inurl:kcfinder -github.com
+inurl:browsecats.php?cid=
+inurl:btg_oglas
+inurl:build.err
+inurl:buy
+inurl:buy.php?category=
+inurl:buyer/about_us.php?BuyerID
+inurl:cache/uploads
+inurl:cal_cat.php?op=
+inurl:cal_make.pl
+inurl:calendar.google.com/calendar/embed?src=
+inurl:camctrl.cgi
+inurl:cart.php?m=features&id=
+inurl:cartwiz/store/index.asp
+inurl:cat1.php?catID= "Spaceacre"
+inurl:cat=
+inurl:categoria.php?ID= comune
+inurl:category.php?cate_id=
+inurl:category.php?id=
+inurl:ccbill filetype:log
+inurl:cfaq/index.php?catid=
+inurl:cgi
+inurl:cgi-bin "ARRIS Enterprises"
+inurl:cgi-bin ext:pl intext:"-rwxr-xr-x"
+inurl:cgi-bin inurl:bigate.cgi
+inurl:cgi-bin inurl:calendar.cfg
+inurl:cgi-bin/cosmobdf.cgi?
+inurl:cgi-bin/guestimage.html
+inurl:cgi-bin/lsnodes_web?node
+inurl:cgi-bin/mailgraph.cgi
+inurl:cgi-bin/printenv
+inurl:cgi-bin/testcgi.exe "Please distribute TestCGI"
+inurl:cgi-bin/webproc?getpage=
+inurl:cgi.asx?StoreID
+inurl:cgiirc.config
+inurl:cgistart
+inurl:channel_id=
+inurl:chap-secrets -cvs
+inurl:chappies.php?id=
+inurl:chitchat.php "choose graphic"
+inurl:choosecard.php?catid=
+inurl:ckfinder intext:"ckfinder.html" intitle:"Index of /ckfinder"
+inurl:clanek.php4?id=
+inurl:classified.php phpbazar
+inurl:classified/product_desc.php?id=
+inurl:classifieds/view.php?category=
+inurl:click.php intext:PHPClickLog
+inurl:client_id=
+inurl:clientaccesspolicy filetype:xml intext:allow-from
+inurl:cloud_main.asp
+inurl:clubpage.php?id=
+inurl:cmd=
+inurl:collectionitem.php?id=
+inurl:com_DTRegister eventId
+inurl:com_amresurrected
+inurl:com_annonces
+inurl:com_awd_song
+inurl:com_beamospetition
+inurl:com_bfsurvey_profree
+inurl:com_brightweblinks
+inurl:com_clanlist
+inurl:com_colophon
+inurl:com_community
+inurl:com_content
+inurl:com_cpg
+inurl:com_djclassifieds
+inurl:com_doqment
+inurl:com_eQuotes
+inurl:com_eportfolio
+inurl:com_expshop
+inurl:com_ezautos
+inurl:com_ezstore
+inurl:com_filiale
+inurl:com_flippingbook
+inurl:com_forum
+inurl:com_gamesbox
+inurl:com_gigcal
+inurl:com_ice "catid"
+inurl:com_idoblog
+inurl:com_img
+inurl:com_iproperty
+inurl:com_jabode
+inurl:com_jb2
+inurl:com_jcommunity
+inurl:com_jeauto
+inurl:com_jejob
+inurl:com_jepoll
+inurl:com_jmarket
+inurl:com_jnewsletter
+inurl:com_jomestate
+inurl:com_jomtube
+inurl:com_joomladate
+inurl:com_joomradio
+inurl:com_jotloader
+inurl:com_jp_jobs
+inurl:com_jstore
+inurl:com_jtickets
+inurl:com_liveticker
+inurl:com_manager
+inurl:com_markt
+inurl:com_mdigg
+inurl:com_n-forms
+inurl:com_neorecruit
+inurl:com_netinvoice
+inurl:com_pinboard
+inurl:com_products "intCategoryId"
+inurl:com_rapidrecipe "recipe_id"
+inurl:com_redshop
+inurl:com_remository
+inurl:com_seminar
+inurl:com_seyret
+inurl:com_simpleshop
+inurl:com_webring
+inurl:com_xewebtv
+inurl:com_ybggal
+inurl:comersus_message.asp
+inurl:comment.asp intext:Your e-mail address will be used to send you voting and comment activity. Inclusion of your address is optional but Battle Blog cannot notify you of these activities unless you supply an accurate e-mail.
+inurl:communique_detail.php?id=
+inurl:concrete/config/
+inurl:conf/nginx.conf
+inurl:conf/tomcat-users.xml -github
+inurl:config "fetch = +refs/heads/*:refs/remotes/origin/*"
+inurl:config.php dbuname dbpass
+inurl:config/databases.yml -trac -trunk -"Google Code" -source -repository
+inurl:configfile.cgi
+inurl:configuration.php-dist
+inurl:console-selfservice
+inurl:cont=
+inurl:control/camerainfo
+inurl:coranto.cgi intitle:Login (Authorized Users Only)
+inurl:core.windows.net ext:xlsx
+inurl:couponsite/index.php?page=
+inurl:courier/web/ inurl:wmLogin.html filetype:html
+inurl:course/category.php | inurl:course/info.php | inurl:iplookup/ipatlas/plot.php
+inurl:credentials.txt -github -git -gitlab
+inurl:crossdomain filetype:xml intext:allow-access-from
+inurl:csCreatePro.cgi
+inurl:csc_article_details.php
+inurl:ctl/Login/Default.aspx
+inurl:current_frame=
+inurl:curriculum.php?id=
+inurl:custva.asp
+inurl:data
+inurl:database.php | inurl:info_db.php ext:php "Database V2.*" "Burning Board *"
+inurl:date=
+inurl:declaration_more.php?decl_id=
+inurl:default.asp intitle:"WebCommander"
+inurl:default.aspx?ReturnUrl=/spssmr -stackoverflow -youtube.com -github
+inurl:demo.browse.php intitle:getid3
+inurl:department intext:"hardware inventory" firewall router ext:(doc | pdf | xls| psw | ppt | pps | xml | txt | ps | rtf | odt | sxw )
+inurl:destination=portals
+inurl:detail.php?ID=
+inurl:detail=
+inurl:device ext:rsp
+inurl:device.rsp -com -www
+inurl:dfshealth.jsp
+inurl:dir=
+inurl:directorypro.cgi
+inurl:display=
+inurl:dnn.js
+inurl:docmgr | intitle:"DocMGR" "enter your Username and"|"und Passwort bitte"|"saisir votre nom"|"su nombre de usuario" -ext:pdf -inurl:"download.php
+inurl:domcfg.nsf
+inurl:download
+inurl:download.php?id=
+inurl:download=
+inurl:downloads_info.php?id=
+inurl:dpage.php?docID
+inurl:ds.py
+inurl:dtm.html intitle:1747-L551
+inurl:dyn_sensors.htm
+inurl:dynamic.php?page=mailbox
+inurl:e107_plugins
+inurl:eStore/index.cgi?
+inurl:ejbexplorer
+inurl:elmah.axd ext:axd
+inurl:elmah.axd intext:"Powered by ELMAH" -inurl:detail
+inurl:email filetype:mdb
+inurl:embed.html inurl:dvr
+inurl:employee filetype:xls
+inurl:employer_profile.php?compid=
+inurl:enq/big.asp?id=
+inurl:enter.php?phpbb_root_path=
+inurl:errorlog.axd ext:axd
+inurl:es_offer.php?files_dir=
+inurl:etc -intext:etc ext:passwd
+inurl:etkinlikbak.asp
+inurl:event.php?id=
+inurl:exchweb/bin/auth/owalogon.asp
+inurl:explorer.cfm inurl:(dirpath|This_Directory)
+inurl:ext/pwdreset
+inurl:f=
+inurl:faq2.php?id=
+inurl:fcgi-bin/echo
+inurl:fckeditor -intext:"ConfigIsEnabled = False" intext:ConfigIsEnabled
+inurl:fellows.php?id=
+inurl:fgtauth?
+inurl:fiche_spectacle.php?id=
+inurl:file
+inurl:file=
+inurl:filebrowser.wcgp?subDir Communigate
+inurl:fileinclude=
+inurl:filename=
+inurl:filezilla.xml -cvs
+inurl:finger.cgi
+inurl:firm_id=
+inurl:flashblog.html OR inurl:/flashblog/
+inurl:footer.inc.php
+inurl:forgot.do;jsessionid=
+inurl:forum
+inurl:forum filetype:mdb
+inurl:forum_answer.php?que_id
+inurl:forum_bds.php?num=
+inurl:forward filetype:forward -cvs
+inurl:friend.php?op=FriendSend
+inurl:front/central.php
+inurl:ftp inurl:Seagate inurl:Backup inurl:Plus inurl:Drive
+inurl:ftp://ftp
+inurl:ftp://ftp robots.txt
+inurl:func=selectcat + com_remository
+inurl:g=
+inurl:galeri_info.php?l=
+inurl:gallery.php?id=
+inurl:game.php?id=
+inurl:games.php?id=
+inurl:getdata=
+inurl:getmsg.html intitle:hotmail
+inurl:github.com intext:.ftpconfig -issues
+inurl:github.com intext:sftp-conf.json +intext:/wp-content/
+inurl:github.com intitle:config intext:"/msg nickserv identify"
+inurl:gitlab "AWS_SECRET_KEY"
+inurl:gnatsweb.pl
+inurl:go=
+inurl:gotoURL.asp?url=
+inurl:gotourl.php?id=
+inurl:gov.in
+inurl:gov.in & inurl:admin
+inurl:gov.in & inurl:wp-admin
+inurl:gov.uk
+inurl:gov.uk & inurl:wp-admin
+inurl:guestbook.php "Advanced GuestBook" "powered by phpbb"
+inurl:guestbook/guestbooklist.asp "Post Date" From
+inurl:guestimage.html
+inurl:hikaye.asp?id=
+inurl:historialeer.php?num=
+inurl:home
+inurl:home.php?pagina=
+inurl:home.tcl intitle:gaia
+inurl:hosting_info.php?id=
+inurl:hp/device/deviceinformation
+inurl:hp/device/this.LCDispatcher
+inurl:hp/device/webAccess
+inurl:html
+inurl:htpasswd filetype:htpasswd
+inurl:http | -inurl:https inurl:ftp ext:pdf taxreturn
+inurl:httpmon.php
+inurl:https://owa
+inurl:https://pma.
+inurl:human.aspx intext:moveit
+inurl:humor.php?id=
+inurl:iProber2.php ext:php
+inurl:idd=
+inurl:idp/Authn/UserPassword
+inurl:idp/SSO.saml2
+inurl:idp/prp.wsf
+inurl:ids5web
+inurl:iisadmin
+inurl:imageview5
+inurl:inc
+inurl:inc=
+inurl:inc_accountlistmanager.asp
+inurl:inc_billboardmanager.asp?ItemID=
+inurl:inc_catalogmanager.asp
+inurl:inc_classifiedlistingsmanager.asp
+inurl:inc_contactusmanager.asp
+inurl:inc_documentlibrarymanager.asp
+inurl:inc_faqsmanager.asp
+inurl:inc_joblistingmanager.asp
+inurl:inc_linksmanager.asp
+inurl:inc_memberdirectorymanager.asp
+inurl:inc_membersareamanager.asp
+inurl:inc_newsmanager.asp
+inurl:inc_paypalstoremanager.asp
+inurl:inc_photogallerymanager.asp
+inurl:inc_registrationmanager.asp
+inurl:inc_securedocumentlibrary.asp
+inurl:inc_webblogmanager.asp
+inurl:incfile=
+inurl:incl=
+inurl:include_file=
+inurl:include_path=
+inurl:index.cgi?aktion=shopview
+inurl:index.php "Powered by PHP Server Monitor v3.1.1"
+inurl:index.php fees shop link.codes merchantAccount
+inurl:index.php%"Submit%Articles"%"Member%Login"%"Top%Authors"
+inurl:index.php/option?com_flexicontent
+inurl:index.php?=
+inurl:index.php?app=main intitle:sms
+inurl:index.php?conteudo=
+inurl:index.php?id=
+inurl:index.php?id= intext:"mysql_fetch_array"
+inurl:index.php?ini[langpack]=
+inurl:index.php?load=
+inurl:index.php?menu=adorder
+inurl:index.php?menu=showcat
+inurl:index.php?menu=showcat=
+inurl:index.php?mod=ConcoursPhoto
+inurl:index.php?mod=jeuxflash
+inurl:index.php?mod=sondages
+inurl:index.php?mode=game_player
+inurl:index.php?myPlantId=
+inurl:index.php?opcao=
+inurl:index.php?option=com_NeoRecruit
+inurl:index.php?option=com_akobook
+inurl:index.php?option=com_allhotels
+inurl:index.php?option=com_calendario
+inurl:index.php?option=com_directory
+inurl:index.php?option=com_doqment&cid=
+inurl:index.php?option=com_ice
+inurl:index.php?option=com_jombib
+inurl:index.php?option=com_joomlaconnect_be
+inurl:index.php?option=com_joomradio
+inurl:index.php?option=com_liveticker "viewticker"
+inurl:index.php?option=com_lowcosthotels
+inurl:index.php?option=com_lqm "showResults"
+inurl:index.php?option=com_mambads
+inurl:index.php?option=com_mediaslide
+inurl:index.php?option=com_newsfeeds
+inurl:index.php?option=com_nicetalk
+inurl:index.php?option=com_noticia
+inurl:index.php?option=com_paxgallery
+inurl:index.php?option=com_portfolio
+inurl:index.php?option=com_races "raceId"
+inurl:index.php?option=com_yanc
+inurl:index.php?option=com_yanc "listid"
+inurl:index.php?option=com_ynews
+inurl:index.php?ortupg=
+inurl:index.php?page=en_jobseekers
+inurl:index.php?page=img Powered By Mini File Host
+inurl:index.php?principal=
+inurl:index.php?show=
+inurl:index.php?title=gamepage
+inurl:index.shtml
+inurl:index2.php?option=
+inurl:index2.php?to=
+inurl:indexFrame.shtml Axis
+inurl:indexmess.php
+inurl:infile=
+inurl:info
+inurl:info.inc.php
+inurl:info=
+inurl:infoviewapp
+inurl:iniziativa.php?in=
+inurl:inmotionhosting.com:2096/
+inurl:install.pl intext:"Reading path paramaters" -edu
+inurl:install.pl intitle:GTchat
+inurl:intranet -intext:intranet
+inurl:ip_snmp.htm
+inurl:ipf.conf -intext:ipf.conf ext:conf
+inurl:ipsec.conf -intitle:manpage
+inurl:ipsec.secrets "holds shared secrets"
+inurl:ipsec.secrets -history -bugs
+inurl:ir=
+inurl:irc filetype:cgi cgi:irc
+inurl:item_id=
+inurl:j2ee/examples/jsp
+inurl:jgs_treffen.php
+inurl:jpegpull.htm
+inurl:jsmol.php
+inurl:kategorie.php4?id=
+inurl:labels.php?id=
+inurl:lang=
+inurl:language=
+inurl:lg intitle:"Looking Glass"
+inurl:link=
+inurl:linkedin.com "view my resume" facebook
+inurl:list
+inurl:load=
+inurl:loadpsb.php?id=
+inurl:log -intext:log ext:log inurl:wp-
+inurl:log.nsf -gov
+inurl:logon.html "CSCOE"
+inurl:logon/LogonPoint/index.html
+inurl:logs/gravityforms
+inurl:look.php?ID=
+inurl:mail
+inurl:mail intitle:Webmail - Login
+inurl:main.php Welcome to phpMyAdmin
+inurl:main.php phpMyAdmin
+inurl:main.php?id=
+inurl:main=
+inurl:mainFrame.cgi intext:"RICOH"
+inurl:mainspot=
+inurl:makaledetay.asp?id=
+inurl:maps.arcgis.com +"City of"
+inurl:material.php?id=
+inurl:member filetype:xls
+inurl:memberInfo.php?id=
+inurl:memberlist.php?mode=viewprofile
+inurl:mewebmail
+inurl:midicart.mdb
+inurl:mikrotik filetype:backup
+inurl:mil intext:"UNCLASSIFIED/FOUO" ext:pdf
+inurl:mobile.html intitle:webcamXP
+inurl:module=My_eGallery pid
+inurl:module=coreHome
+inurl:modules.php?name=Shopping_Cart
+inurl:modules.php?op= "pollID"
+inurl:modules/flashgames/
+inurl:msg=
+inurl:na_admin
+inurl:nagios/cgi-bin/status.cgi
+inurl:names.nsf?opendatabase
+inurl:naviid + inurl:liste9
+inurl:net/net/airprint.html
+inurl:netscape.hst
+inurl:netscape.ini
+inurl:netw_tcp.shtml
+inurl:new
+inurl:news-full.php?id=
+inurl:news.php?id=
+inurl:news.php?mode=voir
+inurl:newsDetail.php?id=
+inurl:news_display.php?getid=
+inurl:news_view.php?id=
+inurl:newscat.php?id=
+inurl:newsdesk.cgi?
+inurl:newsdesk.cgi? inurl:"t="
+inurl:newsid=
+inurl:newsitem.php?num=
+inurl:newsnab/www/ automated.config.php
+inurl:newsone.php?id=
+inurl:newsticker_info.php?idn=
+inurl:nidp/idff/sso
+inurl:nnls_brand.html OR inurl:nnls_nav.html
+inurl:node_modules/mqtt/test/helpers/
+inurl:node_modules/ua-parser-js
+inurl:nquser.php filetype:php
+inurl:nuke filetype:sql
+inurl:num=
+inurl:oauth2/v2.0/authorize
+inurl:odbc.ini ext:ini -cvs
+inurl:offer.php?idf=
+inurl:office365 AND intitle:"Sign In | Login | Portal"
+inurl:ogl_inet.php?ogl_id=
+inurl:oidc/authorize
+inurl:ojspdemos
+inurl:opac_css
+inurl:openam/XUI
+inurl:openfile=
+inurl:opinions.php?id=
+inurl:option=articles artid
+inurl:option=com_agenda
+inurl:option=com_cinema
+inurl:option=com_education_classes
+inurl:option=com_huruhelpdesk
+inurl:option=com_mv_restaurantmenumanager
+inurl:option=com_mydyngallery
+inurl:option=com_n-forms form_id
+inurl:order
+inurl:ovcgi/jovw
+inurl:p=
+inurl:page.php?file=
+inurl:page.php?id=
+inurl:page.php?intPageID=
+inurl:page=
+inurl:pageid=
+inurl:pages
+inurl:pages.php?id=
+inurl:pagina=
+inurl:pandora_console intitle:"Pandora FMS"
+inurl:panorama-viewer.php?id=
+inurl:pap-secrets -cvs
+inurl:participant.php?id=
+inurl:pas_set_menu.html
+inurl:pass.dat
+inurl:passlist.txt
+inurl:pastebin "API_KEY"
+inurl:pastebin "AWS_ACCESS_KEY"
+inurl:pastebin "CVV"
+inurl:pastebin "SHODAN_API_KEY"
+inurl:pastebin "Windows 10 Product Keys*"
+inurl:path=
+inurl:path_to_calendar=
+inurl:pentaho/Login
+inurl:perform filetype:ini
+inurl:perform.ini filetype:ini
+inurl:perl/printenv
+inurl:perldiver.cgi ext:cgi
+inurl:person.php?id=
+inurl:pg=
+inurl:php intitle:"Cpanel , FTP CraCkeR"
+inurl:php inurl:hlstats intext:"Server Username"
+inurl:php-bin/webclient.php
+inurl:php-stats.js.php
+inurl:php.exe filetype:exe -site.com
+inurl:php.ini filetype:ini
+inurl:phpPgAdmin intext:"Cappuccino" | intext:"Blue/Green"
+inurl:phpPgAdmin/browser.php intitle:"phpPgAdmin"
+inurl:phpSysInfo/ "created by phpsysinfo"
+inurl:phpinfo.php
+inurl:phpinfo.php intext:build 2600
+inurl:phpliteadmin.php
+inurl:phpmyadmin/sql.php?server=1
+inurl:phpmyadmin/themes intext:"pmahomme"
+inurl:phpsysinfo/index.php?disp=dynamic
+inurl:pictures intitle:index.of
+inurl:pipermail filetype:txt
+inurl:pipermail intitle:index.of parent
+inurl:play_old.php?id=
+inurl:plc/webvisu.htm intitle:"CoDeSys WebVisualization"
+inurl:pls/admin_/gateway.htm
+inurl:pmwiki.php +"Page last modified on" | PmWikiPhilosophy
+inurl:polly/CP
+inurl:pop.php?id=
+inurl:portscan.php "from Port"|"Port Range"
+inurl:post.php?Category=Garage
+inurl:post.php?id=
+inurl:postfixadmin intitle:"postfix admin" ext:php
+inurl:preferences.ini "[emule]"
+inurl:preview.php?id=
+inurl:print.htm intext:"Domain Name:" + "Open printable report"
+inurl:printer/main.html
+inurl:private_files
+inurl:prod_detail.php?id=
+inurl:prod_info.php?id=
+inurl:product-item.php?id=
+inurl:product-list.php?id=
+inurl:product.php?id=
+inurl:product.php?mid=
+inurl:product_ranges_view.php?ID=
+inurl:productdetail.php?id=
+inurl:productinfo.php?id=
+inurl:produit.php?id=
+inurl:profile.php?mode=
+inurl:profile_view.php?id=
+inurl:profiles filetype:mdb
+inurl:proftpdpasswd
+inurl:prog.php?dwkodu=
+inurl:proxy | inurl:wpad ext:pac | ext:dat findproxyforurl
+inurl:prweb/PRAuth
+inurl:public
+inurl:public "Powered by SecureW2"
+inurl:public.php inurl:service ext:php
+inurl:publications.php?id=
+inurl:qry_str=
+inurl:questions.php?idcat
+inurl:quicklinks.aspx
+inurl:quizinfo.php
+inurl:r51173 intext:"Keep me logged in"
+inurl:ratelink.php?lnkid=
+inurl:ray.php?id=
+inurl:read.php?=
+inurl:read.php?id=
+inurl:readme.md intext:"Laravel"
+inurl:readme.rst intext:"CodeIgniter"
+inurl:readnews.php?id=
+inurl:reagir.php?num=
+inurl:releases.php?id=
+inurl:report "EVEREST Home Edition "
+inurl:report.cgi?dashboard=
+inurl:resetcore.php ext:php
+inurl:review.php?id=
+inurl:revslider inurl:'/revslider+port'
+inurl:revslider inurl:temp inurl:update_extract inurl:sym1
+inurl:robots.txt intext:Disallow: /web.config
+inurl:robpoll.cgi filetype:cgi
+inurl:root.asp?acs=anon
+inurl:roschedule.php
+inurl:rpSys.html
+inurl:rub.php?idr=
+inurl:rubp.php?idr=
+inurl:rubrika.php?idr=
+inurl:ruta=
+inurl:s3.amazonaws.com intitle:"AWS S3 Explorer"
+inurl:safehtml=
+inurl:safm.asp ext:asp
+inurl:sap/public/ intext:Logon "Password"
+inurl:sap/public/bc
+inurl:sarg inurl:siteuser.html
+inurl:scan_result_file
+inurl:scgi-bin intitle:"NETGEAR ProSafe"
+inurl:search
+inurl:search.php vbulletin
+inurl:search/admin.php
+inurl:secring ext:skr | ext:pgp | ext:bak
+inurl:section.php?id=
+inurl:section=
+inurl:secure/dashboard jspa
+inurl:select_biblio.php?id=
+inurl:sem.php3?id=
+inurl:sendmessage.php?type=skype
+inurl:server-info "Apache Server Information"
+inurl:server-info intitle:"Server Information" Apache Server Information
+inurl:server-status "apache"
+inurl:server.php ext:php intext:"No SQL" -Released
+inurl:servlet/webacc
+inurl:set_config_networkIP.html
+inurl:set_config_security.htm
+inurl:setdo.cgi intext:"Set DO OK"
+inurl:sgms/auth
+inurl:sh3llZ/c99/
+inurl:share.cgi?ssid=
+inurl:shop
+inurl:shop "Hassan Consulting's Shopping Cart Version 1.18"
+inurl:shop.php?do=part&id=
+inurl:shop_category.php?id=
+inurl:shopdbtest.asp
+inurl:shopping.php?id=
+inurl:show.php?id=
+inurl:show_an.php?id=
+inurl:show_port_res_settings
+inurl:showcat.asp?id=
+inurl:showfile=
+inurl:showimg.php?id=
+inurl:shredder-categories.php?id=
+inurl:side=
+inurl:simplesaml/module
+inurl:simplesaml/saml2/idp
+inurl:site_id=
+inurl:sitebuildercontent
+inurl:sitebuilderfiles
+inurl:sitebuilderpictures
+inurl:skin=
+inurl:snitz_forums_2000.mdb
+inurl:software
+inurl:sphpblog intext:"Powered by Simple PHP Blog 0.4.0"
+inurl:spr.php?id=
+inurl:sql.php?id=
+inurl:src/viewcvs.cgi/log/.c?=
+inurl:ssl.conf filetype:conf
+inurl:sslvpn_logon.shtml
+inurl:staff_id=
+inurl:start.htm?scrw=
+inurl:start.swe?SWECmd
+inurl:static=
+inurl:statrep.nsf -gov
+inurl:status.cgi?host=all
+inurl:story.php?id=
+inurl:str=
+inurl:strona=
+inurl:sts_index.cgi
+inurl:sub=
+inurl:support
+inurl:sw_comment.php?id=
+inurl:sws/index.html AND intext:"Model Name" AND intext:"Serial Number"
+inurl:sysinfo.cgi ext:cgi
+inurl:tabid/176/Default.aspx OR inurl:portals/0/
+inurl:tar filetype:gz
+inurl:tcpconfig.html
+inurl:tdbin
+inurl:tech-support inurl:show Cisco
+inurl:technote inurl:main.cgi*filename=*
+inurl:tekst.php?idt=
+inurl:template.gch "ZTE Corporation."
+inurl:test.php Powered by TalkBack
+inurl:testcgi xitami
+inurl:tests/mocks intext:autoloader
+inurl:textpattern/index.php
+inurl:theme.php?id=
+inurl:title.php?id=
+inurl:tmssql.php ext:php mssql pear adodb -cvs -akbk
+inurl:top.cgi intitle:"Motorola ptp"
+inurl:top.htm inurl:currenttime
+inurl:top10.php?cat=
+inurl:tr.php?id=
+inurl:tr.php?id= Autoresponder
+inurl:tr.php?id= Banner
+inurl:tr.php?id= Downline
+inurl:tr.php?id= Hosting
+inurl:tr.php?id= Reminder Service
+inurl:tradeCategory.php?id=
+inurl:trafficcams -intext:trafficcams ext:asp OR ext:htm
+inurl:trainers.php?id=
+inurl:transcript.php?id=
+inurl:trash intitle:index.of
+inurl:treplies.asp?message= intitle:ASP Talk
+inurl:tresc=
+inurl:trr.php?id=
+inurl:ttt-webmaster.php
+inurl:typo3/install/index.php?mode=
+inurl:typo3conf/l10n/
+inurl:typo3conf/localconf.php
+inurl:ugroups.php?UID=
+inurl:ui3.htm
+inurl:uno.php
+inurl:updown.php | intext:"Powered by PHP Uploader Downloader"
+inurl:upsstats.cgi?host
+inurl:url=
+inurl:user
+inurl:user=
+inurl:userRpm inurl:LoginRpm.htm
+inurl:user_guide intext:"CodeIgniter User Guide"
+inurl:users intitle:index.of
+inurl:users.json + "username"
+inurl:ushell/shells/abap
+inurl:vbstats.php "page generated"
+inurl:view.php?board1_sn=
+inurl:view.php?id=
+inurl:view.shtml
+inurl:view/index.shtml
+inurl:view/indexFrame.shtml
+inurl:view/view.shtml
+inurl:view_ad.php?id=
+inurl:view_faq.php?id=
+inurl:view_group.php?id=
+inurl:view_product.php?id=
+inurl:viewapp.php?id=
+inurl:viewer/live/index.html
+inurl:viewphoto.php?id=
+inurl:viewshowdetail.php?id=
+inurl:vtund.conf intext:pass -cvs
+inurl:vtund.conf intext:pass -cvs s
+inurl:w3.php?nodeId=
+inurl:wapmain.php?option=
+inurl:we_objectID=
+inurl:web
+inurl:web/frontend_dev.php -trunk
+inurl:webArch/mainFrame filetype:cgi intext:"Web Image Monitor"
+inurl:webalizer filetype:png -.gov -.edu -.mil -opendarwin
+inurl:webclient/Login.xhtml
+inurl:webdynpro/dispatcher
+inurl:webgps intitle:"GPS Monitoring System"
+inurl:webmail./index.pl "Interface"
+inurl:webman/index.cgi
+inurl:website.php?id=
+inurl:webutil.pl
+inurl:webvisu.htm ext:htm
+inurl:wiki/MediaWiki
+inurl:wl.exe inurl:?SS1= intext:"Operating system:" -edu -gov -mil
+inurl:wls-wsat intext:"weblogic.wsee.wstx.wsat"
+inurl:wp-admin/ intext:css/
+inurl:wp-admin/admin-ajax.php inurl:wp-config.php
+inurl:wp-config -intext:wp-config "'DB_PASSWORD'"
+inurl:wp-config-backup.txt
+inurl:wp-config.bak
+inurl:wp-config.php intext:DB_PASSWORD -stackoverflow -wpbeginner
+inurl:wp-config.php.save
+inurl:wp-content intext:backup-db
+inurl:wp-content/debug.log
+inurl:wp-content/plugins/1-flash-gallery
+inurl:wp-content/plugins/Ultimate-member
+inurl:wp-content/plugins/YITH-WooCommerce-Ajax-Product-Filter
+inurl:wp-content/plugins/adrotate
+inurl:wp-content/plugins/age-verification/age-verification.php
+inurl:wp-content/plugins/ajax-load-more
+inurl:wp-content/plugins/ajax-load-more/lang/
+inurl:wp-content/plugins/all-in-one-wp-migration
+inurl:wp-content/plugins/angwp
+inurl:wp-content/plugins/ar-contactus
+inurl:wp-content/plugins/arforms
+inurl:wp-content/plugins/async-javascript
+inurl:wp-content/plugins/bbPress
+inurl:wp-content/plugins/brizy
+inurl:wp-content/plugins/chopslider
+inurl:wp-content/plugins/coming-soon
+inurl:wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7
+inurl:wp-content/plugins/easy-media-gallery-pro
+inurl:wp-content/plugins/easy-testimonials
+inurl:wp-content/plugins/easy-wp-smtp
+inurl:wp-content/plugins/elementor
+inurl:wp-content/plugins/elementor-pro
+inurl:wp-content/plugins/email-subscribers
+inurl:wp-content/plugins/final-tiles-grid-gallery-lite
+inurl:wp-content/plugins/form-maker
+inurl:wp-content/plugins/gift
+inurl:wp-content/plugins/google-site-kit
+inurl:wp-content/plugins/grand-media
+inurl:wp-content/plugins/gravityforms
+inurl:wp-content/plugins/gtranslate
+inurl:wp-content/plugins/idx-broker-platinum
+inurl:wp-content/plugins/iframe
+inurl:wp-content/plugins/iwp-client
+inurl:wp-content/plugins/kingcomposer
+inurl:wp-content/plugins/knight-lab-timelinejs
+inurl:wp-content/plugins/lifterlms
+inurl:wp-content/plugins/mappress-google-maps-for-wordpress
+inurl:wp-content/plugins/modern-events-calendar-lite
+inurl:wp-content/plugins/my-calendar
+inurl:wp-content/plugins/newsletter
+inurl:wp-content/plugins/official-mailerlite-sign-up-forms
+inurl:wp-content/plugins/page-builder
+inurl:wp-content/plugins/paid-memberships-pro
+inurl:wp-content/plugins/payment-form-for-paypal-pro
+inurl:wp-content/plugins/photo-gallery
+inurl:wp-content/plugins/redirection
+inurl:wp-content/plugins/reflex-gallery/
+inurl:wp-content/plugins/safe-svg
+inurl:wp-content/plugins/security-malware-firewall
+inurl:wp-content/plugins/sendpress
+inurl:wp-content/plugins/sfwd-lms
+inurl:wp-content/plugins/simple-file-list
+inurl:wp-content/plugins/sportspress
+inurl:wp-content/plugins/team-members
+inurl:wp-content/plugins/testimonial-rotator
+inurl:wp-content/plugins/testimonials-widget
+inurl:wp-content/plugins/thirstyaffiliates
+inurl:wp-content/plugins/ultimate-elementor
+inurl:wp-content/plugins/updraftplus
+inurl:wp-content/plugins/visualcomposer
+inurl:wp-content/plugins/wd-google-maps
+inurl:wp-content/plugins/wise-chat
+inurl:wp-content/plugins/woo-order-export-lite
+inurl:wp-content/plugins/woocommerce
+inurl:wp-content/plugins/wp-jobsearch
+inurl:wp-content/plugins/wp-live-chat-support
+inurl:wp-content/plugins/wp-pro-quiz
+inurl:wp-content/plugins/wp-product-review
+inurl:wp-content/plugins/wpDiscuz
+inurl:wp-content/plugins/wpdiscuz
+inurl:wp-content/plugins/wpforms-lite
+inurl:wp-content/plugins/wpjobboard
+inurl:wp-content/plugins/yop-poll
+inurl:wp-content/themes/careerfy
+inurl:wp-content/themes/careerup
+inurl:wp-content/themes/citybook
+inurl:wp-content/themes/corona
+inurl:wp-content/themes/newspaper
+inurl:wp-content/themes/nexos
+inurl:wp-content/themes/sparky
+inurl:wp-content/themes/traveler
+inurl:wp-content/uploads/ intitle:logs
+inurl:wp-content/uploads/dump.sql
+inurl:wp-content/uploads/wooccm_uploads
+inurl:wp-links-opml.php
+inurl:wp-mail.php + "There doesn't seem to be any new mail."
+inurl:wrcontrollite
+inurl:ws_ftp.ini "[WS_FTP]" filetype:ini
+inurl:wsnavigator/jsps
+inurl:www/delivery filetype:php
+inurl:xampp inurl:perlinfo.pl ext:pl
+inurl:yahoo_site_admin/credentials/
+inurl:yapboz_detay.asp
+inurl:yapboz_detay.asp + View Webcam User Accessing
+inurl:yvcomment
+inurl:zabbix.php AND intext:"Zabbix SIA"
+inurl:zabbix/zabbix.php
+inurl:zdm logon
+inurl:zoom.us/j and intext:scheduled for
+inurl:~/ftp://193 filetype:(php | txt | html | asp | xml | cnf | sh) ~'/html'
+inurl:~~joomla3.txt filetype:txt
+log inurl:linklint filetype:txt -"checking"
+mail spool intitle:index.of
+private parent intitle:index.of
+redash inurl:/org_slug
+sEDWebserver * server +at intitle:index.of
+site*.*.*/webalizer intitle:"Usage Statistics"
+tilt intitle:"Live View / - AXIS" | inurl:view/view.shtml
+type:mil inurl:ftp ext:pdf | ps
+wwwboard WebAdmin inurl:passwd.txt wwwboard|webadmin
+{intitle: indexof/.git }

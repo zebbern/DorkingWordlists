@@ -1,0 +1,217 @@
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use: This category contains dorks for a specific purpose.
+"# Kickstart" filetype:cfg
+"# phpMyAdmin MySQL-Dump" filetype:txt
+"#mysql dump" filetype:sql
+"#mysql dump" filetype:sql 21232f297a57a5a743894a0e4a801fc3
+"A syntax error has occurred" filetype:ihtml
+"BEGIN RSA PRIVATE KEY" filetype:key -github
+"Calendar programming by AppIdeas.com" filetype:php
+"Cisco Systems, Inc. All Rights Reserved." -cisco.com filetype:jsp
+"Declassified and Approved for Release by" filetype: pdf
+"Fenix Final Version v2.0" filetype:php
+"MAIL_PASSWORD" filetype:env
+"Parse error: parse error, unexpected T_VARIABLE" "on line" filetype:php
+"Powered by PHPFM" filetype:php -username
+"Powered by WordPress" -html filetype:php -demo -wordpress.org -bugtraq
+"Scanned by Camscanner" filetype:pdf
+"Software PBLang" 4.65 filetype:php
+"[HKEY_CURRENT_USER\Software\sota\FFFTP]" filetype:reg
+"admin account info" filetype:log
+"automatic teller" "operator manual" "password" filetype:pdf
+"contrasena" filetype:sql -github.com
+"database_password" filetype:yml "config/parameters.yml
+"database_password" filetype:yml "config/parameters.yml"
+"error found handling the request" cocoon filetype:xml
+"google confidential" filetype:pdf
+"index of" filetype:db
+"index of" filetype:env
+"index of" filetype:sql
+"information_schema" filetype:sql
+"login: *" "password= *" filetype:xls
+"mysql dump" filetype:sql
+"pass" "usuario" filetype:sql
+"phpMyAdmin MySQL-Dump" filetype:txt
+"robots.txt" "Disallow:" filetype:txt
+"your default password is" filetype:pdf
+"your password is" filetype:log
+("DMZ" | "Public IP" | "Private IP") filetype:xls
++":8080" +":3128" +":80" filetype:txt
++htpasswd +WS_FTP.LOG filetype:log
+ACID "by Roman Danyliw" filetype:php
+BEGIN (CERTIFICATE|DSA|RSA) filetype:csr
+BEGIN (CERTIFICATE|DSA|RSA) filetype:key
+ConnectionTest.java filetype:html
+DB_USERNAME filetype:env
+MAIL_HOST filetype:env
+Navicat MySQL Data Transfer filetype:sql
+PHPKonsole PHPShell filetype:php -echo
+Phaser numrange:100-100000 Name DNS IP "More Printers" index help filetype:html | filetype:shtml
+[WFClient] Password= filetype:ica
+configuration> + filetype:config -github.com
+db_password filetype:env
+e-mail address filetype:csv csv
+eggdrop filetype:user user
+ext:adr adr filetype:adr "bookmarks.adr"
+ext:ini Robust.ini filetype:ini "password"
+filetype:ASP ASP
+filetype:ASPX ASPX
+filetype:BML BML
+filetype:CFM CFM
+filetype:CGI CGI
+filetype:DIFF DIFF
+filetype:DLL DLL
+filetype:DOC DOC
+filetype:FCGI FCGI
+filetype:HTM HTM
+filetype:HTML HTML
+filetype:JHTML JHTML
+filetype:JSP JSP
+filetype:MV MV
+filetype:PDF PDF
+filetype:PHP PHP
+filetype:PHP3 PHP3
+filetype:PHP4 PHP4
+filetype:PHTML PHTML
+filetype:PL PL
+filetype:PPT PPT
+filetype:PS PS
+filetype:PS ps
+filetype:QBW qbw
+filetype:QDF QDF
+filetype:SHTML SHTML
+filetype:STM STM
+filetype:SWF SWF
+filetype:TXT TXT
+filetype:XLS XLS
+filetype:asp "Custom Error Message" Category Source
+filetype:asp + "[ODBC SQL"
+filetype:asp DBQ=" * Server.MapPath("*.mdb")
+filetype:avastlic
+filetype:bak createobject sa
+filetype:bkf bkf
+filetype:blt "buddylist"
+filetype:cfg "radius" (pass|passwd|password)
+filetype:cfg auto_inst.cfg
+filetype:cfg login "LoginServer="
+filetype:cfg mrtg "target
+filetype:cfg mrtg "target[*]" -sample -cvs -example
+filetype:cfm "cfapplication name" password
+filetype:cgi transcoder.cgi
+filetype:cnf my.cnf -cvs -example
+filetype:conf oekakibbs
+filetype:conf slapd.conf
+filetype:config "" "password" "web.config" -stackoverflow -youtube.com -github
+filetype:config web.config -CVS
+filetype:ctl Basic
+filetype:ctt "msn"
+filetype:ctt Contact
+filetype:ctt ctt messenger
+filetype:dat "password.dat
+filetype:dat "password.dat"
+filetype:dat wand.dat
+filetype:doc "Answer Key"
+filetype:docx Domain Registrar $user $pass
+filetype:env "DB_PASSWORD"
+filetype:fp3 fp3
+filetype:fp7 fp7
+filetype:htpasswd htpasswd
+filetype:inc OR filetype:bak OR filetype:old mysql_connect OR mysql_pconnect
+filetype:inc dbconn
+filetype:inc mysql_connect OR mysql_pconnect
+filetype:inf sysprep
+filetype:ini "Bootstrap.php" (pass|passwd|password|pwd)
+filetype:ini "FtpInBackground" (pass|passwd|password|pwd)
+filetype:ini "SavedPasswords" (pass|passwd|password|pwd)
+filetype:ini "This is the default settings file for new PHP installations"
+filetype:ini "[FFFTP]" (pass|passwd|password|pwd)
+filetype:ini "pdo_mysql" (pass|passwd|password|pwd)
+filetype:ini "precurio" (pass|passwd|password|pwd)
+filetype:ini "wordfence"
+filetype:ini ServUDaemon
+filetype:ini wcx_ftp
+filetype:ini ws_ftp pwd
+filetype:jnlp
+filetype:ldb admin
+filetype:lit lit (books|ebooks)
+filetype:log "AUTHTOKEN"
+filetype:log "PHP Parse error" | "PHP Warning" | "PHP Error"
+filetype:log "See `ipsec --copyright"
+filetype:log access.log -CVS
+filetype:log cron.log
+filetype:log username admin
+filetype:log username putty
+filetype:mdb "standard jet" (password | username | user | pass)
+filetype:mdb wwforum
+filetype:mny mny
+filetype:myd myd -CVS
+filetype:netrc password
+filetype:ns1 ns1
+filetype:old (define)(DB_USER|DB_PASS|DB_NAME)
+filetype:old (mysql_connect) ()
+filetype:ora ora
+filetype:ora tnsnames
+filetype:password jmxremote
+filetype:pcf "cisco" "GroupPwd"
+filetype:pcf vpn OR Group
+filetype:pcmcfg
+filetype:pdb pdb backup (Pilot | Pluckerdb)
+filetype:pdf "Assessment Report" nessus
+filetype:pdf "acunetix website audit" "alerts summary"
+filetype:pem "Microsoft"
+filetype:php "Git Deployment Script v0.1"
+filetype:php "Notice: Undefined variable: data in" -forum
+filetype:php HAXPLORER "Server Files Browser"
+filetype:php~ (pass|passwd|password|dbpass|db_pass|pwd)
+filetype:pl "Download: SuSE Linux Openexchange Server CA"
+filetype:png | "proportal"
+filetype:pst pst -from -to -date
+filetype:pub "ssh-rsa"
+filetype:pwd service
+filetype:pwl pwl
+filetype:qbb qbb
+filetype:r2w r2w
+filetype:rdp default.rdp
+filetype:rdp rdp
+filetype:reg "Terminal Server Client"
+filetype:reg [HKEY_USERSDEFAULT]
+filetype:reg reg HKEY_CLASSES_ROOT -git
+filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS
+filetype:reg reg HKEY_CURRENT_USER username
+filetype:reg reg HKEY_USERS -git
+filetype:reg reg [HKEY_CURRENT_USERSoftware] -git
+filetype:sql "MySQL dump" (pass|password|passwd|pwd)
+filetype:sql "PostgreSQL database dump" (pass|password|passwd|pwd)
+filetype:sql "insert into" (pass|passwd|password)
+filetype:sql "phpmyAdmin SQL Dump" (pass|password|passwd|pwd)
+filetype:sql ("passwd values" | "password values" | "pass values" )
+filetype:sql ("values * MD5" | "values * password" | "values * encrypt")
+filetype:sql +"IDENTIFIED BY" -cvs
+filetype:sql password
+filetype:torrent torrent
+filetype:txt "License Key"
+filetype:txt "Registration Code"
+filetype:txt $9$ JunOS
+filetype:txt Administrator:500:
+filetype:txt line vty 0 4
+filetype:vcs vcs
+filetype:vsd vsd network -samples -examples
+filetype:wab wab
+filetype:wsdl wsdl
+filetype:xls "nomina"
+filetype:xls "username | password"
+filetype:xls username password email
+filetype:xml config.xml passwordHash Jenkins
+intitle"index of" "username" "password" filetype: xlsx
+jmeter.log filetype:log
+mail/u/0 filetype:pdf
+signin filetype:url
+xamppdirpasswd.txt filetype:txt

@@ -1,0 +1,660 @@
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use:
+This category contains specific-purpose dorks.
+
+# How to use: This category contains dorks for a specific purpose.
+"/FTPSVC2" intitle:"index of"
+"Last modified" intitle:"index of" "dropbox"
+"ansible.log" | "playbook.yaml" | ".ansible.cfg" | "playbook.yml" | host.ini intitle:"index of"
+"config.php.bak" intitle:"index of"
+"description" & "size" intitle:"index of" "owncloud"
+"fetchmailrc" intitle:"index of" -linux
+"index of /" intext:wp-config "zip"
+"index of" intext:fckeditor inurl:fckeditor
+"index of" intext:wpbdp-csv-exports
+"index of" inurl:database ext:sql | xls | xml | json | csv
+"index of" inurl:recycler
+"index of" inurl:root intitle:symlink
+"index of" inurl:sym
+"intitle:index of"
+"key" OR key.jar intitle:"index of" webstart
+"parent directory" proftpdpasswd intitle:"index of" -google
+"sasl_passwd" | smtpd.conf intitle:"index of"
+"signons.sqlite" intitle:"index of"
+(intext:"index of /.git") ("parent directory")
+-inurl:htm -inurl:html intitle:"index of" 100CANON
+-inurl:htm -inurl:html intitle:"index of" NIKON
+-pool intitle:"index of" wget-log -pub
+-pub -pool intitle:"index of" "Served by" "Web Server"
+-pub -pool intitle:"index of" db.key OR server.key OR ftp.key OR exchange.key OR host.key OR mail.key
+-pub -pool intitle:"index of" squirrelmail/
+-pub -pool intitle:"index of" vagrantfile -"How to"
+:DIR | intitle:index of inurl://whatsapp/
+DORK : intext:"index of" "var/log/"
+Google Dork: intitle: "index of" "payment"
+Google Dork: intitle:"index of" "/sql" "admin"
+Re: intext:"index of /" "server at"
+accdb OR accde intitle:"index of" -pub -google -books
+allintext:"index of" "oauth-private.key"
+allintitle: "index of/admin"
+allintitle: "index of/root"
+allintitle:index of "/icewarp"
+allintitle:index of "/microweber"
+config.yaml intitle:"index of" vagrantfile
+dwsync.xml intitle:index of -gitlab -github
+ext:log intext:"connection" intitle:"index of" -stackoverflow
+index of / inurl:/pki/
+index of :"uploads" "parent" "salary" intext:salary
+index of: intext:Gallery in Configuration mode
+intext:"KRAB-DECRYPT.txt" intitle:"index of"
+intext:"index of /" "*.yaml"
+intext:"index of /" ".composer-auth.json"
+intext:"index of /" "Index of" access_log
+intext:"index of /" "auth.json"
+intext:"index of /" "config.json"
+intext:"index of /" "customer.php" "~Login"
+intext:"index of /" "token.yml"
+intext:"index of /userfiles/file/"
+intext:"index of" ".html"
+intext:"index of" ".sql"
+intext:"index of" "ftp"
+intext:"index of" "home_page"
+intext:"index of" "ipaddress"
+intext:"index of" "phonepe" "wp-content"
+intext:"index of" "repository"
+intext:"index of" "transaction"
+intext:"index of" "uploads"
+intext:"index of" "user-config"
+intext:"index of" "wp-uploads"
+intext:"index of" intext:..bak intext:config
+intext:"index of" inurl:/etc/
+intext:"index of/" "client-1.0-SNAPSHOT"
+intext:"index of/" "top secret" gov
+intext:"paytm" intitle:"index of"
+intext:"successfully" intitle:"index of" config | log | logged -stackoverflow
+intext:APIKey ext:js | xml | yml | txt | conf | py -github -stackoverflow intitle:"index of"
+intext:index of sym
+intext:my.cnf intitle:index of
+intext:pure-ftpd.conf intitle:index of
+intitle: "index of /files clients"
+intitle: "index of Health Records"
+intitle: "index of backup.php"
+intitle: "index of backup.xml"
+intitle: "index of data clinic"
+intitle: "index of" "./" "./bitcoin"
+intitle: "index of" "MySQL-Router"
+intitle: "index of" "admin" "/backup"
+intitle: "index of" "includes"
+intitle: "index of" intext: human resources
+intitle: index of "*db.tar.gz"
+intitle: index of "awstats"
+intitle: index of /bin/php.ini
+intitle:" index of " "/BigIp"
+intitle:" index of "/Invoices*"
+intitle:" index of "/order/status"
+intitle:"docker" intitle:"index of" config
+intitle:"index of " "users.json"
+intitle:"index of " inurl:".bash_profile "
+intitle:"index of "/key/" "key.txt"
+intitle:"index of "cloud-config.yml"
+intitle:"index of "docker-compose.yml"
+intitle:"index of /" "*key.pem"
+intitle:"index of /" "nginx.conf"
+intitle:"index of /" "sqlite.db"
+intitle:"index of /" +.htdocs
+intitle:"index of /" authorized_keys
+intitle:"index of /" inanchor:.kdbx
+intitle:"index of /" intext:".env"
+intitle:"index of /" intext:/Download/
+intitle:"index of /" intext:/backup
+intitle:"index of /" intext:/descargas/
+intitle:"index of /" ssh
+intitle:"index of /bins" arm
+intitle:"index of /phpmyadmin" modified
+intitle:"index of SCADA"
+intitle:"index of smtp"
+intitle:"index of" " *config.php "
+intitle:"index of" " .AndroidManifest.xml"
+intitle:"index of" " Server-Side "
+intitle:"index of" " YaBB.pl "
+intitle:"index of" " admin.php "
+intitle:"index of" " cldr-data"
+intitle:"index of" " fileadmin "
+intitle:"index of" " gettext"
+intitle:"index of" " glimpse "
+intitle:"index of" " htsearch "
+intitle:"index of" " index.php.bak "
+intitle:"index of" " index.php?id= "
+intitle:"index of" " mod_auth_mysql "
+intitle:"index of" " py-text"
+intitle:"index of" " sendmail.inc "
+intitle:"index of" " src "
+intitle:"index of" " src.hint"
+intitle:"index of" " unidecode"
+intitle:"index of" " webdriver "
+intitle:"index of" " wp-includes "
+intitle:"index of" " wp-mail-smtp"
+intitle:"index of" "*.cert.pem" | "*.key.pem"
+intitle:"index of" "*.mp4"
+intitle:"index of" "*.php"
+intitle:"index of" "*.phtml"
+intitle:"index of" "*.pl"
+intitle:"index of" "*.vcf"
+intitle:"index of" "*.yaml"
+intitle:"index of" "*/ftp.txt"
+intitle:"index of" "*Maildir/new"
+intitle:"index of" "*db.sh"
+intitle:"index of" "*named.root.key"
+intitle:"index of" "*php.swp"
+intitle:"index of" "*root.pem"
+intitle:"index of" "-XML.pdf "
+intitle:"index of" "-ipk"
+intitle:"index of" "-qpf"
+intitle:"index of" ".config"
+intitle:"index of" ".cpanel/caches/config/"
+intitle:"index of" ".dockerignore"
+intitle:"index of" ".env"
+intitle:"index of" ".env" OR "pass"
+intitle:"index of" ".env.example"
+intitle:"index of" ".gitignore"
+intitle:"index of" ".pem"
+intitle:"index of" ".phpunit.xml"
+intitle:"index of" ".ppt"
+intitle:"index of" ".private.xml"
+intitle:"index of" ".ssh/authorized_keys"
+intitle:"index of" ".travis.yml" | ".travis.xml"
+intitle:"index of" "/.cpanel"
+intitle:"index of" "/.git/config"
+intitle:"index of" "/.idea"
+intitle:"index of" "/.vscode"
+intitle:"index of" "/000~ROOT~000/"
+intitle:"index of" "/CFIDE/" intext:"administrator"
+intitle:"index of" "/Cloudflare-CPanel-7.0.1"
+intitle:"index of" "/Windows/Recent" | "/Windows/History/"
+intitle:"index of" "/accounts.txt"
+intitle:"index of" "/admin/backup"
+intitle:"index of" "/admin_backup"
+intitle:"index of" "/api-debug.log"
+intitle:"index of" "/app.log" | "/app.logs"
+intitle:"index of" "/aws.s3/"
+intitle:"index of" "/backup/sql"
+intitle:"index of" "/bitcoin/"
+intitle:"index of" "/cgi-bin" "admin"
+intitle:"index of" "/concrete/Authentication"
+intitle:"index of" "/config.bak"
+intitle:"index of" "/configs"
+intitle:"index of" "/cron.log"
+intitle:"index of" "/db_backups/"
+intitle:"index of" "/etc/mysql/"
+intitle:"index of" "/ftpusers"
+intitle:"index of" "/home/ROOT_PATH/"
+intitle:"index of" "/homedir/etc/"
+intitle:"index of" "/master.passwd"
+intitle:"index of" "/mysql"
+intitle:"index of" "/mysql.log"
+intitle:"index of" "/parameters.yml*"
+intitle:"index of" "/products"
+intitle:"index of" "/public/js"
+intitle:"index of" "/public_html"
+intitle:"index of" "/resources"
+intitle:"index of" "/root/etc/security/"
+intitle:"index of" "/sql"
+intitle:"index of" "/students"
+intitle:"index of" "/system.log" | "/system.logs"
+intitle:"index of" "/user" | "/users"
+intitle:"index of" "/usernames"
+intitle:"index of" "/users.xls"
+intitle:"index of" "/webpack-dev-server/ssl/"
+intitle:"index of" "/wp-content/uploads/"
+intitle:"index of" "/xampp/htdocs" | "C:/xampp/htdocs/"
+intitle:"index of" "/yum.log"
+intitle:"index of" "AT-admin.cgi"
+intitle:"index of" "Apache/2.4.41 (Ubuntu) Server"
+intitle:"index of" "Application Data/Microsoft/Credentials"
+intitle:"index of" "CD.pdf "
+intitle:"index of" "Clientaccesspolicy.xml"
+intitle:"index of" "DOCS-TECH "
+intitle:"index of" "Logins.txt"
+intitle:"index of" "Packages.gz"
+intitle:"index of" "Served by Sun-ONE"
+intitle:"index of" "Squid-cache"
+intitle:"index of" "W3SVC1"
+intitle:"index of" "WebServers.xml"
+intitle:"index of" "WindowsCookies"
+intitle:"index of" "XML "
+intitle:"index of" "XML.Xerces "
+intitle:"index of" "_vti_inf.html"
+intitle:"index of" "access_token"
+intitle:"index of" "accounts.json"
+intitle:"index of" "admin*.txt"
+intitle:"index of" "admin-config"
+intitle:"index of" "admin-shell"
+intitle:"index of" "admin.bak"
+intitle:"index of" "admin.js"
+intitle:"index of" "admin.jsp"
+intitle:"index of" "admin/config"
+intitle:"index of" "admin/json"
+intitle:"index of" "admin/sql/"
+intitle:"index of" "admin/xml"
+intitle:"index of" "adminsubscribeack.txt"
+intitle:"index of" "after.sh"
+intitle:"index of" "anaconda-ks.cfg" | "anaconda-ks-new.cfg"
+intitle:"index of" "apache-log-parser" "Port 80"
+intitle:"index of" "apache.log" | "apache.logs"
+intitle:"index of" "api.yaml"
+intitle:"index of" "api/admin"
+intitle:"index of" "app.log"
+intitle:"index of" "application-users.properties" | "mgmt-users.properties" | "*standalone.xml"
+intitle:"index of" "application.properties"
+intitle:"index of" "application.yml"
+intitle:"index of" "archive.pst" -contrib
+intitle:"index of" "auth.asc"
+intitle:"index of" "auth.config"
+intitle:"index of" "auth.log"
+intitle:"index of" "auth_config.php"
+intitle:"index of" "aws-config.php"
+intitle:"index of" "backup.bak"
+intitle:"index of" "backup.js"
+intitle:"index of" "backup.yml"
+intitle:"index of" "browser.inc "
+intitle:"index of" "bundle.pem"
+intitle:"index of" "cassandra-yaml"
+intitle:"index of" "catalina.out"
+intitle:"index of" "cctv"
+intitle:"index of" "certificates"
+intitle:"index of" "cfg.go"
+intitle:"index of" "client_id.json"
+intitle:"index of" "client_secret.json" OR "client secret" OR "client_secret live.json"
+intitle:"index of" "common.crt" OR "ca.crt"
+intitle:"index of" "composer.lock"
+intitle:"index of" "config.db"
+intitle:"index of" "config.exs" | "dev.exs" | "test.exs" | "prod.secret.exs"
+intitle:"index of" "config.js"
+intitle:"index of" "config.json"
+intitle:"index of" "config.neon" OR "config.local.neon"
+intitle:"index of" "config.pl"
+intitle:"index of" "config.py"
+intitle:"index of" "config.rb"
+intitle:"index of" "configuration.yml"
+intitle:"index of" "configure.in"
+intitle:"index of" "configure.sh"
+intitle:"index of" "console"
+intitle:"index of" "contacts.txt"
+intitle:"index of" "contacts.vcf"
+intitle:"index of" "cookies" "php"
+intitle:"index of" "credentials"
+intitle:"index of" "credentials.ini"
+intitle:"index of" "credentials.json"
+intitle:"index of" "credentials.xml" | "credentials.inc" | "credentials.txt"
+intitle:"index of" "credentials.yml"
+intitle:"index of" "cron.sh"
+intitle:"index of" "css"
+intitle:"index of" "cvsweb.cgi"
+intitle:"index of" "cygwin"
+intitle:"index of" "data*"
+intitle:"index of" "database.ini" OR "database.ini.old"
+intitle:"index of" "database.json"
+intitle:"index of" "database.py"
+intitle:"index of" "database/config"
+intitle:"index of" "databases.yml"
+intitle:"index of" "db"
+intitle:"index of" "db.conf"
+intitle:"index of" "db.connection.js"
+intitle:"index of" "db.ini"
+intitle:"index of" "db.log"
+intitle:"index of" "db.properties" | "db.properties.BAK"
+intitle:"index of" "db.py"
+intitle:"index of" "db.sqlite3"
+intitle:"index of" "debian-security.log"
+intitle:"index of" "debian.cnf"
+intitle:"index of" "debian.conf"
+intitle:"index of" "debug.log" OR "debug-log"
+intitle:"index of" "default.asp "
+intitle:"index of" "deploy.sh"
+intitle:"index of" "dev/config"
+intitle:"index of" "development.js"
+intitle:"index of" "development.py"
+intitle:"index of" "dhcp"
+intitle:"index of" "dhparams.pem"
+intitle:"index of" "docker-cloud.yml"
+intitle:"index of" "docker-compose.yaml"
+intitle:"index of" "docker.yml"
+intitle:"index of" "document*.pdf"
+intitle:"index of" "dovecot.key" OR "dovecot.crt.cache" OR "dovecot.crt"
+intitle:"index of" "dump.sql"
+intitle:"index of" "dvwssr.dll "
+intitle:"index of" "echo-linux"
+intitle:"index of" "env.bak"
+intitle:"index of" "extra"
+intitle:"index of" "extranet"
+intitle:"index of" "fic" "ndx"
+intitle:"index of" "filelist.xml"
+intitle:"index of" "filemail.pl"
+intitle:"index of" "files.pl"
+intitle:"index of" "filezilla.xml"
+intitle:"index of" "firewall.log" | "firewall.logs"
+intitle:"index of" "fsi"
+intitle:"index of" "ftp.log"
+intitle:"index of" "ftp.passwd"
+intitle:"index of" "ftp.riken
+intitle:"index of" "fullchain.pem" OR "chain.pem"
+intitle:"index of" "git-jira-log"
+intitle:"index of" "global.asa"
+intitle:"index of" "google-api-private-key.json"
+intitle:"index of" "google-services.json"
+intitle:"index of" "graphql/subscription"
+intitle:"index of" "hello.bat "
+intitle:"index of" "hiberfil.sys"
+intitle:"index of" "htdocs"
+intitle:"index of" "htdocs.zip"
+intitle:"index of" "html-en"
+intitle:"index of" "html-intro"
+intitle:"index of" "htpasswd.txt"
+intitle:"index of" "httpd.pid"
+intitle:"index of" "id_rsa.pub"
+intitle:"index of" "idx_config"
+intitle:"index of" "infn.it"
+intitle:"index of" "irc.log" | "irc.logs"
+intitle:"index of" "iredadmin/*"
+intitle:"index of" "java.log" | "java.logs"
+intitle:"index of" "jsapi_ticket.json"
+intitle:"index of" "jwt-auth"
+intitle:"index of" "kde-l10n-de"
+intitle:"index of" "keys.asc"
+intitle:"index of" "keys.ini"
+intitle:"index of" "keystore.jks"
+intitle:"index of" "laravel.log" | "main.yaml" | "server.cfg"
+intitle:"index of" "lngs.infn.it "
+intitle:"index of" "local.json"
+intitle:"index of" "local_settings.py"
+intitle:"index of" "log.bak"
+intitle:"index of" "logs"
+intitle:"index of" "mail.log"
+intitle:"index of" "man.sh"
+intitle:"index of" "manage.py"
+intitle:"index of" "master01"
+intitle:"index of" "master03.xml"
+intitle:"index of" "maven-metadata.xml" "Port 80"
+intitle:"index of" "metadata"
+intitle:"index of" "metin"
+intitle:"index of" "mips32el-nf"
+intitle:"index of" "mirror.koddos.net"
+intitle:"index of" "mongod*"
+intitle:"index of" "mongod.conf"
+intitle:"index of" "msadcs.dll "
+intitle:"index of" "mvn-settings.xml"
+intitle:"index of" "my-errors.log" OR "my-errors.logs"
+intitle:"index of" "mysql.log" | "mysql.logs"
+intitle:"index of" "mysql.properties"
+intitle:"index of" "mysql.yaml"
+intitle:"index of" "nginx.log"
+intitle:"index of" "node.js"
+intitle:"index of" "nrpe.cfg"
+intitle:"index of" "oauth-credentials.json"
+intitle:"index of" "oauth-private.key"
+intitle:"index of" "onetoc2" "one"
+intitle:"index of" "owncloud/config/*"
+intitle:"index of" "oxid-esales"
+intitle:"index of" "parameters.yml.test" OR "parameters.yml.dist"
+intitle:"index of" "particle.js"
+intitle:"index of" "passwrod*"
+intitle:"index of" "php.ini"
+intitle:"index of" "phpmyadmin.sql"
+intitle:"index of" "pkgs"
+intitle:"index of" "postgresql.conf"
+intitle:"index of" "powered by apache " "port 80"
+intitle:"index of" "ppt.html"
+intitle:"index of" "pptx"
+intitle:"index of" "pres.xml"
+intitle:"index of" "printenv.pl
+intitle:"index of" "private/log"
+intitle:"index of" "private_key.pem"
+intitle:"index of" "privkey.pem"
+intitle:"index of" "production.py"
+intitle:"index of" "properties.ini"
+intitle:"index of" "proxy.pac" OR "proxy.pac.bak"
+intitle:"index of" "pub"
+intitle:"index of" "queue.log"
+intitle:"index of" "refresh_token.txt" OR "access_token.txt" OR "jsapi_ticket.txt"
+intitle:"index of" "release.sh"
+intitle:"index of" "robots.txt"
+intitle:"index of" "schema.graphql"
+intitle:"index of" "schema.mysql"
+intitle:"index of" "schema.sql"
+intitle:"index of" "script.js"
+intitle:"index of" "secret.js"
+intitle:"index of" "secret.yaml"
+intitle:"index of" "secrets.py"
+intitle:"index of" "secrets.yml"
+intitle:"index of" "security.json"
+intitle:"index of" "security.php"
+intitle:"index of" "server at"
+intitle:"index of" "server.crt" | "server.csr"
+intitle:"index of" "server.log"
+intitle:"index of" "server.properties"
+intitle:"index of" "service-Account-Credentials.json" | "creds.json"
+intitle:"index of" "service.pwd"
+intitle:"index of" "settings.py"
+intitle:"index of" "settings.yaml"
+intitle:"index of" "settings.yml"
+intitle:"index of" "setup.sh"
+intitle:"index of" "sftp.json"
+intitle:"index of" "shell.php"
+intitle:"index of" "shtml.dll "
+intitle:"index of" "sitemanager.xml" | "recentservers.xml"
+intitle:"index of" "slapd.conf"
+intitle:"index of" "slides-ppt"
+intitle:"index of" "sms.log"
+intitle:"index of" "smtp.log"
+intitle:"index of" "sourcecode"
+intitle:"index of" "ssh.yml"
+intitle:"index of" "ssh_host_ecdsa_key"
+intitle:"index of" "ssh_host_rsa_key" + "ssh_host_rsa_key.pub"
+intitle:"index of" "stacktrace.log"
+intitle:"index of" "stylesheet.css"
+intitle:"index of" "survey.cgi"
+intitle:"index of" "symfony/config"
+intitle:"index of" "sysinfo"
+intitle:"index of" "syslog"
+intitle:"index of" "system/config"
+intitle:"index of" "tar.xz"
+intitle:"index of" "test.bat "
+intitle:"index of" "test/storage/framework/sessions/"
+intitle:"index of" "tinyfilemanager.php"
+intitle:"index of" "tls-cert.pem" | "tls-csr.pem" | "tls-key.pem"
+intitle:"index of" "token.json"
+intitle:"index of" "token.txt"
+intitle:"index of" "token_info.json" OR "get_access_token.json"
+intitle:"index of" "tomcat-users.xml"
+intitle:"index of" "txdot"
+intitle:"index of" "untitled"
+intitle:"index of" "untitled" "wp-content" intext:scanned
+intitle:"index of" "uploads.old"
+intitle:"index of" "user data.txt"
+intitle:"index of" "userdata.json"
+intitle:"index of" "users.ini"
+intitle:"index of" "users.sql"
+intitle:"index of" "users.txt"
+intitle:"index of" "var/log/"
+intitle:"index of" "vpn-config.*"
+intitle:"index of" "web.config.txt"
+intitle:"index of" "web.log" OR "web.logs"
+intitle:"index of" "workspace.xml"
+intitle:"index of" "wp-admin.zip"
+intitle:"index of" "wp-content"
+intitle:"index of" "wp-inc"
+intitle:"index of" "wp-security-audit-log"
+intitle:"index of" "wp-upload"
+intitle:"index of" "wpadmin-secure.htaccess"
+intitle:"index of" "ws_ftp.log"
+intitle:"index of" $Recycle.bin
+intitle:"index of" ("passenger.*.log" | "passenger.log" | | "production.log" )
+intitle:"index of" +myd size
+intitle:"index of" -inurl:htm -inurl:html mp3
+intitle:"index of" ./bash_history
+intitle:"index of" .env
+intitle:"index of" .oracle_jre_usage/
+intitle:"index of" .ovpn
+intitle:"index of" .zshrc~ OR .zshrc OR .zshenv OR .zshenv~ -pool -public
+intitle:"index of" /"privatekey.txt" OR "private key.txt"
+intitle:"index of" /.ssh/id_rsa OR id_rsa.pub
+intitle:"index of" /config.ini
+intitle:"index of" /content/admin/
+intitle:"index of" /content/uploads/ -inurl:/wp-content/uploads/
+intitle:"index of" /etc/openvpn/
+intitle:"index of" /gscloud
+intitle:"index of" /insecure_private_key
+intitle:"index of" /known_hosts
+intitle:"index of" /lsass.exe
+intitle:"index of" /php4/
+intitle:"index of" /var/logs filetype:'"log | txt | csv"
+intitle:"index of" :mobile number
+intitle:"index of" AND inurl:magento AND inurl:/dev
+intitle:"index of" Hindi movies
+intitle:"index of" Servlet"
+intitle:"index of" accounts.xml
+intitle:"index of" admin
+intitle:"index of" admin.tar
+intitle:"index of" admin.txt
+intitle:"index of" and intext:"vendor" and intext:"phpunit"
+intitle:"index of" apache.log
+intitle:"index of" api_key OR "api key" OR apiKey -pool
+intitle:"index of" apis.json
+intitle:"index of" application.ini
+intitle:"index of" aws/
+intitle:"index of" crontab.conf
+intitle:"index of" cvsroot
+intitle:"index of" cvsweb.conf
+intitle:"index of" dataSources.local.xml
+intitle:"index of" database.yml
+intitle:"index of" db.frm
+intitle:"index of" db.json
+intitle:"index of" default.rdp
+intitle:"index of" docker-compose.yml
+intitle:"index of" domain.key -public
+intitle:"index of" drupal
+intitle:"index of" errorlog.txt
+intitle:"index of" errors.log
+intitle:"index of" etc/shadow
+intitle:"index of" exception.log
+intitle:"index of" facebook-api
+intitle:"index of" filetype:sql
+intitle:"index of" google-api-php-client
+intitle:"index of" hosts.csv | firewalls.csv | linux.csv | windows.csv
+intitle:"index of" htpasswd
+intitle:"index of" include/
+intitle:"index of" instagram-api
+intitle:"index of" intext:".ds_store"
+intitle:"index of" intext:"Apache/2.2.3"
+intitle:"index of" intext:"Includes
+intitle:"index of" intext:"Includes wordpress"
+intitle:"index of" intext:"apikey.txt
+intitle:"index of" intext:"client.key.pem"
+intitle:"index of" intext:"content.ie5"
+intitle:"index of" intext:"pip-selfcheck.json"
+intitle:"index of" intext:"senha"
+intitle:"index of" intext:"web.xml"
+intitle:"index of" intext:connect.inc
+intitle:"index of" intext:credentials
+intitle:"index of" intext:globals.inc
+intitle:"index of" intext:twr.html
+intitle:"index of" inurl:"no-ip.com"
+intitle:"index of" inurl:"paypal" log
+intitle:"index of" inurl:/*sql* filetype:log
+intitle:"index of" inurl:SUID
+intitle:"index of" inurl:admin/download
+intitle:"index of" inurl:documents backup
+intitle:"index of" inurl:ftp (pub | incoming)
+intitle:"index of" inurl:ftp intext:admin
+intitle:"index of" inurl:ftp intext:logs
+intitle:"index of" inurl:gov Juicy Info |GHDB
+intitle:"index of" inurl:superadmin
+intitle:"index of" inurl:wp-json embedurl?
+intitle:"index of" jboss-service.xml
+intitle:"index of" keepass.kdbx OR database.kdbx
+intitle:"index of" lesshsQ/ OR .lesshst/ -pool -pub
+intitle:"index of" license-key.txt
+intitle:"index of" linkedin-api
+intitle:"index of" machine.config
+intitle:"index of" master.passwd
+intitle:"index of" members OR accounts
+intitle:"index of" myshare
+intitle:"index of" mysql.conf OR mysql_config
+intitle:"index of" mysqli.ini
+intitle:"index of" pagefile.sys
+intitle:"index of" pass.php
+intitle:"index of" passwd
+intitle:"index of" people.lst
+intitle:"index of" pwd.db
+intitle:"index of" scada
+intitle:"index of" secrets.yml
+intitle:"index of" service.grp
+intitle:"index of" settings.xml
+intitle:"index of" share.passwd OR cloud.passwd OR ftp.passwd -public
+intitle:"index of" spwd
+intitle:"index of" sql inurl:./db/
+intitle:"index of" ssh2.ini
+intitle:"index of" ticket.conf
+intitle:"index of" twitter-api-php
+intitle:"index of" unattend.xml
+intitle:"index of" upload.asp "
+intitle:"index of" user_carts OR user_cart
+intitle:"index of" users.bak
+intitle:"index of" users.csv | credentials.csv | accounts.csv
+intitle:"index of" zoom-api
+intitle:"index of"|"access_token.json"
+intitle:"index of/" "db.sql"
+intitle:"index of/" CCCam.cfg
+intitle:'index of' "access_log"
+intitle:'index of' "error_log"
+intitle:CV+index of
+intitle:backup+index of
+intitle:index of "aws/credentials"
+intitle:index of "error_log"
+intitle:index of "uploads"
+intitle:index of ./jira-software
+intitle:index of .git/hooks/
+intitle:index of /.sql.gz intext:/backup/
+intitle:index of /backup private
+intitle:index of /weekly cpbackup
+intitle:index of AND (intext:mirai.x86 OR intext:mirai.mips OR intext:mirai.mpsl OR intext:mirai.arm OR intext:mirai.arm7 OR intext:mirai.ppc OR intext:mirai.spc OR intext:mirai.m68k OR intext:mirai.sh4)
+intitle:index of config.asp
+intitle:index of django.config
+intitle:index of intext:@WanaDecryptor@.exe
+intitle:index of intext:wncry
+intitle:index of settings.py
+inurl: /upload.php intitle:index of
+inurl:"/.Trash" intitle:"index of" ~
+inurl:"/includes/OAuth2" intext:"index of /"
+inurl:"/includes/api/" intext:"index of /"
+inurl:"index of" wso
+inurl:"jscripts/tiny_mce/plugins/tinybrowser/" OR inurl:"jscripts/tiny_mce/plugins/tinybrowser/" "index of"
+inurl:"nfs://www." "index of /"
+inurl:"paypal" intitle:"index of" backup | db | access -github
+inurl:*gov intitle:"index of" "docker-compose"
+inurl:*gov intitle:"index of/documents"
+inurl:*org intitle:"index of" "docker-compose"
+inurl:..//drivers/etc/ intitle:index of
+inurl:.com index of apks
+inurl:.com index of movies
+inurl:/backup intitle:index of backup intext:*sql
+inurl:/download_file/ intext:"index of /"
+inurl:/proc/tty/ index of
+inurl:/wp-content/uploads/ninja-forms/ intitle:"index of"
+inurl:ALFA_DATA intitle:"index of"
+inurl:admin intitle:index of ext:sql | xls | xml | json | csv
+inurl:admin/data* intext:index of
+inurl:bc.googleusercontent.com intitle:index of
+inurl:filemanager/upload/asp/ "index of"
+inurl:index of driver.php?id=
+inurl:old "index of" "wp-config.php"
+inurl:scanned & documents intitle:"index of" IT
+inurl:user intitle:index of ext:sql | xls | xml | json | csv
+krb.conf OR krb.realms intitle:"index of" -public -archive -packages -pub
+server-dbs "intitle:index of"
+swiftmailer intitle:"index of" "smtp.yml" | "smtp.xml"
