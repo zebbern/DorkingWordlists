@@ -23,7 +23,7 @@ inurl:"/confidential/" intitle:"Index of"
 inurl:"/forgot_password" intext:"Reset Password"
 inurl:"/passwords/" ext:txt
 inurl:("admin/password.php") +site.com
-inurl:email= | inurl:phone= | inurl:password= | inurl:secret= inurl:& site:[http://example.com](http://example.com/)
+inurl:email= | inurl:phone= | inurl:password= | inurl:secret= inurl:& site:http://example.com
 inurl:email= | inurl:phone= | inurl:password= | inurl:secret= inurl:& site:http://example.com
 inurl:http://example.com allintext:username,password filetype:log site:http://example.com "-----BEGIN RSA PRIVATE KEY-----" - inurl:id_rsa
 inurl:https://trello.com AND intext:@gmail.com AND intext:password
