@@ -1,4 +1,4 @@
-# Google Dorking Categorized
+## Google Dorking Categories
 
 ## Overview
 This project provides a comprehensive collection of categorized and enhanced Google Dorking queries (dorks). These queries are organized by purpose and come with detailed explanations and examples to help professionals, researchers, and enthusiasts understand their use cases. 
@@ -43,7 +43,6 @@ Contributions are welcome! If you have suggestions or new categories to add, fee
 ## Contact
 For any inquiries, visit the [GitHub Profile](https://github.com/zebbern) or open an issue in the repository.
 
----
 
 **Disclaimer**: These dorks are intended for ethical research and educational purposes only. Always ensure you have permission before conducting any searches on specific domains.
 
