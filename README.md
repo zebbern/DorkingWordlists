@@ -1,9 +1,14 @@
-## Google Dorking Categories
+<div align="center">
 
-## Overview
-This project provides a comprehensive collection of categorized and enhanced Google Dorking queries (dorks). These queries are organized by purpose and come with detailed explanations and examples to help professionals, researchers, and enthusiasts understand their use cases. 
 
-Each category has been meticulously refined to ensure clarity, usability, and practicality. Specific sites have been anonymized as `site.com` for privacy and to serve as templates for personalized use.
+<img src="https://github.com/user-attachments/assets/7ed4df97-0ba1-489b-8e23-fa0313dce6ad" width="20%">
+
+## Google Dorking
+**This project provides a comprehensive collection of categorized and enhanced Google Dorking queries (dorks). These queries are organized by purpose and come with detailed explanations and examples to help professionals, researchers, and enthusiasts understand their use cases.**
+
+**Each category has been meticulously refined to ensure clarity, usability, and practicality. Specific sites have been anonymized as `site.com` for privacy and to serve as templates for personalized use.**
+
+</div>
 
 ## Features
 - **Comprehensive Categorization**: Queries are grouped into logical categories such as Directory Listings, Sensitive Information, Admin Portals, and more.
